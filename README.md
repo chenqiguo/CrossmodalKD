@@ -136,24 +136,21 @@ The **hierarchical loss** keeps a relaxed embedding semantically close to its gr
 
 $$
 \mathcal{L}_{\mathrm{hier}}
-=
-1-\cos\left(\mathbf{n}_{\mathrm{gt}},\mathbf{n}_{\mathrm{relaxed}}\right).
+=1-\cos\left(\mathbf{n}_{\mathrm{gt}},\mathbf{n}_{\mathrm{relaxed}}\right).
 $$
 
 The **cosine regularization** keeps it close to its pretrained WordNet-based initialization:
 
 $$
 \mathcal{L}_{\mathrm{cosreg}}
-=
-1-\cos\left(\mathbf{n}_{\mathrm{pretrained}},\mathbf{n}_{\mathrm{relaxed}}\right).
+=1-\cos\left(\mathbf{n}_{\mathrm{pretrained}},\mathbf{n}_{\mathrm{relaxed}}\right).
 $$
 
 The multimodal teacher is trained with:
 
 $$
 \mathcal{L}_{T_x}
-=
-\mathcal{L}_{\mathrm{sup}}
+=\mathcal{L}_{\mathrm{sup}}
 +
 \lambda_{\mathrm{hier}}\mathcal{L}_{\mathrm{hier}}
 +
@@ -166,13 +163,11 @@ Rather than averaging teachers uniformly, we maintain an exponential moving aver
 
 $$
 w^{(k)}
-=
-\frac{1/(\ell^{(k)}+\epsilon)}
+=\frac{1/(\ell^{(k)}+\epsilon)}
 {\sum_j 1/(\ell^{(j)}+\epsilon)},
 \qquad
 \overline{\mathbf{z}}^{t}
-=
-\sum_k w^{(k)}\mathbf{z}^{t(k)}.
+=\sum_k w^{(k)}\mathbf{z}^{t(k)}.
 $$
 
 This helps prevent the student from over-relying on a superficially accurate but poorly transferable teacher.
