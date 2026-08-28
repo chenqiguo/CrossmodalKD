@@ -1,0 +1,159 @@
+{
+  "dataset": "scene",
+  "num_classes": 6,
+  "noun_only": true,
+  "msr_llm": 1.0,
+  "failed": [],
+  "per_class": [
+    {
+      "class_name": "Buildings",
+      "num_selected": 20,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "structures",
+        "buildings_cluster",
+        "built_area",
+        "architecture",
+        "constructed_space",
+        "urban_area",
+        "cityscape",
+        "skyline",
+        "downtown",
+        "neighborhood",
+        "residential_block",
+        "office_block",
+        "apartment_block",
+        "commercial_block",
+        "facade",
+        "rooftop",
+        "window",
+        "entrance",
+        "street_level",
+        "construction"
+      ]
+    },
+    {
+      "class_name": "Forests",
+      "num_selected": 18,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "woodland",
+        "woods",
+        "tree_cover",
+        "tree_land",
+        "natural_area",
+        "undergrowth",
+        "underbrush",
+        "clearing",
+        "trail",
+        "forest_floor",
+        "leaf_litter",
+        "tree_trunk",
+        "branch",
+        "grove",
+        "jungle",
+        "rainforest"
+      ]
+    },
+    {
+      "class_name": "Glacier",
+      "num_selected": 13,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "ice_mass",
+        "ice_sheet",
+        "ice_flow",
+        "crevasse",
+        "ice_cliff",
+        "meltwater",
+        "iceberg",
+        "ice_chunk",
+        "glacial_valley",
+        "ice_ridge"
+      ]
+    },
+    {
+      "class_name": "Mountains",
+      "num_selected": 20,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "mountain_range",
+        "highlands",
+        "peaks",
+        "uplands",
+        "terrain",
+        "ridge",
+        "summit",
+        "peak",
+        "slope",
+        "cliff",
+        "valley",
+        "pass",
+        "rock",
+        "boulder",
+        "stone",
+        "hiking_trail",
+        "trailhead",
+        "wilderness",
+        "mountain_valley"
+      ]
+    },
+    {
+      "class_name": "Sea",
+      "num_selected": 19,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "saltwater",
+        "seawater",
+        "open_water",
+        "water_body",
+        "coastline",
+        "coast",
+        "beach",
+        "seaside",
+        "tide",
+        "wave",
+        "surf",
+        "current",
+        "swell",
+        "horizon",
+        "seabed",
+        "bay",
+        "harbor"
+      ]
+    },
+    {
+      "class_name": "Street",
+      "num_selected": 20,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "roadway",
+        "thoroughfare",
+        "public_way",
+        "transport_route",
+        "infrastructure",
+        "sidewalk",
+        "crosswalk",
+        "intersection",
+        "traffic_lane",
+        "lane_marker",
+        "curb",
+        "gutter",
+        "street_sign",
+        "traffic_sign",
+        "traffic_light",
+        "lamp_post",
+        "pavement",
+        "asphalt",
+        "commute"
+      ]
+    }
+  ],
+  "selection_meta": {
+    "relax_source": "llm",
+    "cluster_num": 150,
+    "topk_per_cluster": 5,
+    "num_unique_candidates": 120,
+    "num_selected_unique_terms": 110
+  }
+}

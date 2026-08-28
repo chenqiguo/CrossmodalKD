@@ -1,0 +1,60 @@
+{
+  "dataset": "UTKFace",
+  "classes": [
+    {
+      "class_name": "Asian",
+      "selected_terms": [
+        "Hmong",
+        "Korean"
+      ]
+    },
+    {
+      "class_name": "Black",
+      "selected_terms": [
+        "Barbra_Joan_Streisand",
+        "Black_woman",
+        "Carl_Lewis",
+        "Dame_Alice_Ellen_Terry",
+        "Dame_Ellen_Terry",
+        "Francis_Bacon",
+        "Jane_Fonda",
+        "Jean_Harlow",
+        "Marlene_Dietrich",
+        "Natalie_Wood",
+        "Sidney_Poitier",
+        "fat_person",
+        "ginger_family",
+        "musk_sheep",
+        "preteen",
+        "preteenager",
+        "robbery_suspect",
+        "true_dwarf"
+      ]
+    },
+    {
+      "class_name": "Indian",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Others Hispanic Latino Middle Eastern",
+      "selected_terms": []
+    },
+    {
+      "class_name": "White",
+      "selected_terms": [
+        "Black_woman",
+        "Carl_Lewis",
+        "Francis_Bacon",
+        "Maya_Lin",
+        "fat_person",
+        "ginger_family",
+        "musk_sheep",
+        "preteen",
+        "preteenager",
+        "robbery_suspect",
+        "slacks",
+        "true_dwarf"
+      ]
+    }
+  ]
+}

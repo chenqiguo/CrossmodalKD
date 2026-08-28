@@ -1,0 +1,48 @@
+You are generating candidate noun vocabularies for semantic relaxation in a vision-language distillation study.
+
+Hard constraints (must follow):
+1) Output must be VALID JSON ONLY. No markdown, no explanations.
+2) For each class_name, output exactly K=20 candidates (Avoid rare/technical terms; prefer everyday common nouns).
+3) Each candidate.term must contain only lowercase letters a-z and underscores "_".
+4) A term may be a single word or multiple words joined by "_" with at most 6 words total.
+5) Do NOT output any proper nouns, brands, places, people, organizations, events, job titles, or named entities.
+6) Do NOT output descriptive attribute phrases tied to color/shape/material/size (e.g., "red_car", "small_dog", "metal_box").
+7) Do NOT output the original class_name itself or trivial inflections of it.
+8) Do NOT output any term that equals ANY dataset class name in RESERVED_CLASSNAMES (even if that class is not in the current CLASS_LIST batch).
+9) Each term must be a common noun or a noun phrase whose head word is a noun.
+10) Assign one relation_type per candidate from: ["synonym","hypernym","co_hyponym","general_noun"].
+
+Output JSON schema (exact):
+{
+  "dataset": "CIFAR100",
+  "K": 20,
+  "classes": [
+    {
+      "class_name": "<string>",
+      "candidates": [
+        {"term":"<string>","relation_type":"<one of 4 types>"},
+        ...
+        (exactly 20 entries)
+      ]
+    },
+    ...
+  ]
+}
+
+RESERVED_CLASSNAMES = [ ... all 100 CIFAR100 class names ... ]
+
+Now generate candidates for the following class_name list (exactly these, no more, no fewer):
+CLASS_LIST = [
+  "apple",
+  "aquarium_fish",
+  ...
+]
+
+
+
+
+
+
+
+
+

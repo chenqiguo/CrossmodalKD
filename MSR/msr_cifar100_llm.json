@@ -1,0 +1,1206 @@
+{
+  "dataset": "CIFAR100",
+  "num_classes": 100,
+  "noun_only": true,
+  "msr_llm": 1.0,
+  "failed": [],
+  "per_class": [
+    {
+      "class_name": "apple",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "tree_fruit",
+        "orchard_fruit",
+        "fresh_fruit",
+        "pie_fruit",
+        "cider_fruit"
+      ]
+    },
+    {
+      "class_name": "aquarium_fish",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "freshwater_fish",
+        "swimmer",
+        "aquarium_creature"
+      ]
+    },
+    {
+      "class_name": "baby",
+      "num_selected": 7,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "infant",
+        "toddler",
+        "child",
+        "nursery_child",
+        "crib_child",
+        "caregiver",
+        "person"
+      ]
+    },
+    {
+      "class_name": "bear",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "woods_animal",
+        "mountain_animal",
+        "snout",
+        "animal",
+        "cub"
+      ]
+    },
+    {
+      "class_name": "beaver",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "rodent",
+        "front_teeth",
+        "dam",
+        "canal",
+        "waterway",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "bed",
+      "num_selected": 1,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "sleep_surface"
+      ]
+    },
+    {
+      "class_name": "bee",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "pollinator",
+        "pollen_collector",
+        "drone_insect",
+        "queen_insect",
+        "worker_insect",
+        "apiary"
+      ]
+    },
+    {
+      "class_name": "beetle",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "hardwing_insect",
+        "leaf_eater",
+        "shell"
+      ]
+    },
+    {
+      "class_name": "bicycle",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "two_wheeler",
+        "human_powered_vehicle",
+        "handlebar",
+        "kickstand"
+      ]
+    },
+    {
+      "class_name": "bottle",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "jar",
+        "vial",
+        "thermos",
+        "drink_container",
+        "cork"
+      ]
+    },
+    {
+      "class_name": "bowl",
+      "num_selected": 1,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "tableware"
+      ]
+    },
+    {
+      "class_name": "boy",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "child",
+        "lad",
+        "toddler",
+        "classmate",
+        "person",
+        "human"
+      ]
+    },
+    {
+      "class_name": "bridge",
+      "num_selected": 1,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "arch"
+      ]
+    },
+    {
+      "class_name": "bus",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "public_vehicle",
+        "coach",
+        "door"
+      ]
+    },
+    {
+      "class_name": "butterfly",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "pollinator",
+        "moth",
+        "wing"
+      ]
+    },
+    {
+      "class_name": "camel",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "desert_animal",
+        "snout",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "can",
+      "num_selected": 1,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "pantry_item"
+      ]
+    },
+    {
+      "class_name": "castle",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "palace",
+        "manor",
+        "keep",
+        "battlement"
+      ]
+    },
+    {
+      "class_name": "caterpillar",
+      "num_selected": 2,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "leaf_eater",
+        "twig_crawler"
+      ]
+    },
+    {
+      "class_name": "cattle",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "cow",
+        "calf",
+        "pasture_animal",
+        "animal",
+        "udder"
+      ]
+    },
+    {
+      "class_name": "chair",
+      "num_selected": 2,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "stool",
+        "furniture"
+      ]
+    },
+    {
+      "class_name": "chimpanzee",
+      "num_selected": 10,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "ape",
+        "primate",
+        "monkey",
+        "jungle_animal",
+        "animal",
+        "thumb",
+        "foot",
+        "face",
+        "snout"
+      ]
+    },
+    {
+      "class_name": "clock",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "timepiece",
+        "timekeeper",
+        "dial",
+        "face",
+        "wall_timer",
+        "desk_timer"
+      ]
+    },
+    {
+      "class_name": "cloud",
+      "num_selected": 10,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "sky_mass",
+        "fog",
+        "haze",
+        "sky",
+        "shadow",
+        "droplet",
+        "moisture",
+        "sky_cover",
+        "weather_front",
+        "storm_system"
+      ]
+    },
+    {
+      "class_name": "cockroach",
+      "num_selected": 2,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "scavenger_insect",
+        "wing"
+      ]
+    },
+    {
+      "class_name": "couch",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "loveseat",
+        "furniture",
+        "living_room_furniture",
+        "living_room"
+      ]
+    },
+    {
+      "class_name": "crab",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "crustacean",
+        "shore_crustacean",
+        "shell",
+        "sand_dweller"
+      ]
+    },
+    {
+      "class_name": "crocodile",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "water_predator",
+        "mammal_eater",
+        "snout",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "cup",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "goblet",
+        "drinking_vessel",
+        "beverage_container",
+        "drink",
+        "tableware"
+      ]
+    },
+    {
+      "class_name": "dinosaur",
+      "num_selected": 10,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "prehistoric_animal",
+        "fossil_animal",
+        "extinct_animal",
+        "animal",
+        "skeleton",
+        "bone",
+        "skull",
+        "tooth",
+        "footprint",
+        "museum_exhibit"
+      ]
+    },
+    {
+      "class_name": "dolphin",
+      "num_selected": 8,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "marine_mammal",
+        "sea_mammal",
+        "porpoise",
+        "whale_calf",
+        "swimmer",
+        "snout",
+        "surface",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "elephant",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "savanna_animal",
+        "giant_mammal",
+        "tusk",
+        "foot",
+        "calf",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "flatfish",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "groundfish",
+        "swimmer"
+      ]
+    },
+    {
+      "class_name": "forest",
+      "num_selected": 11,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "woods",
+        "woodland",
+        "grove",
+        "jungle",
+        "rainforest",
+        "thicket",
+        "nature_area",
+        "canopy",
+        "underbrush",
+        "tree_line",
+        "forest_floor"
+      ]
+    },
+    {
+      "class_name": "fox",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "wild_canid",
+        "woods_animal",
+        "nocturnal_hunter",
+        "snout",
+        "howl",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "girl",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "child",
+        "classmate",
+        "person",
+        "human"
+      ]
+    },
+    {
+      "class_name": "hamster",
+      "num_selected": 7,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "rodent",
+        "small_rodent",
+        "pet_rodent",
+        "pet",
+        "cage",
+        "water_bottle",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "house",
+      "num_selected": 7,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "residence",
+        "apartment",
+        "cottage",
+        "bungalow",
+        "door",
+        "driveway",
+        "room"
+      ]
+    },
+    {
+      "class_name": "kangaroo",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "marsupial",
+        "grassland_animal",
+        "hind_leg",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "keyboard",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "enter_key",
+        "shift_key",
+        "function_key"
+      ]
+    },
+    {
+      "class_name": "lamp",
+      "num_selected": 2,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "cord",
+        "glow"
+      ]
+    },
+    {
+      "class_name": "lawn_mower",
+      "num_selected": 2,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "grass_cutter",
+        "yard_machine"
+      ]
+    },
+    {
+      "class_name": "leopard",
+      "num_selected": 8,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "big_cat",
+        "wild_cat",
+        "feline",
+        "savanna_predator",
+        "paws",
+        "roar",
+        "growl",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "lion",
+      "num_selected": 8,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "big_cat",
+        "wild_cat",
+        "feline",
+        "savanna_predator",
+        "roar",
+        "mane",
+        "cub",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "lizard",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "ground_reptile",
+        "sunbather",
+        "skin",
+        "egg",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "lobster",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "crustacean",
+        "seafloor_creature",
+        "shell",
+        "boil_pot"
+      ]
+    },
+    {
+      "class_name": "man",
+      "num_selected": 10,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "adult_person",
+        "human",
+        "person",
+        "father",
+        "husband",
+        "beard",
+        "hair",
+        "face",
+        "voice",
+        "citizen"
+      ]
+    },
+    {
+      "class_name": "maple_tree",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "deciduous_tree",
+        "yard_tree",
+        "canopy",
+        "grove",
+        "park_tree"
+      ]
+    },
+    {
+      "class_name": "motorcycle",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "motorbike",
+        "two_wheeler",
+        "street_vehicle",
+        "handlebar"
+      ]
+    },
+    {
+      "class_name": "mountain",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "peak",
+        "summit",
+        "ridge",
+        "hike"
+      ]
+    },
+    {
+      "class_name": "mouse",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "rodent",
+        "small_rodent",
+        "house_rodent",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "mushroom",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "spore_body",
+        "woodland_fungus",
+        "cluster",
+        "organism"
+      ]
+    },
+    {
+      "class_name": "oak_tree",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "deciduous_tree",
+        "yard_tree",
+        "canopy",
+        "grove",
+        "park_tree"
+      ]
+    },
+    {
+      "class_name": "orange",
+      "num_selected": 7,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "citrus_fruit",
+        "tree_fruit",
+        "orchard_fruit",
+        "juicing_fruit",
+        "breakfast_fruit",
+        "slice",
+        "wedge"
+      ]
+    },
+    {
+      "class_name": "orchid",
+      "num_selected": 2,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "houseplant",
+        "flowering_plant"
+      ]
+    },
+    {
+      "class_name": "otter",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "water_mammal",
+        "swimmer",
+        "diver",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "palm_tree",
+      "num_selected": 7,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "evergreen_tree",
+        "tropical_tree",
+        "yard_tree",
+        "frond",
+        "grove",
+        "canopy",
+        "tree_line"
+      ]
+    },
+    {
+      "class_name": "pear",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "tree_fruit",
+        "orchard_fruit",
+        "fresh_fruit",
+        "juicing_fruit",
+        "lunch_fruit",
+        "compote"
+      ]
+    },
+    {
+      "class_name": "pickup_truck",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "truck",
+        "delivery_vehicle",
+        "towing_vehicle",
+        "mirror",
+        "steering_wheel"
+      ]
+    },
+    {
+      "class_name": "pine_tree",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "evergreen_tree",
+        "conifer_tree",
+        "grove",
+        "tree_line"
+      ]
+    },
+    {
+      "class_name": "plain",
+      "num_selected": 8,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "grassland",
+        "prairie",
+        "open_land",
+        "horizon",
+        "grazing_land",
+        "expanse",
+        "countryside"
+      ]
+    },
+    {
+      "class_name": "plate",
+      "num_selected": 1,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "tableware"
+      ]
+    },
+    {
+      "class_name": "poppy",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "garden_flower",
+        "field_flower",
+        "flowering_plant",
+        "seed_pod",
+        "pollen"
+      ]
+    },
+    {
+      "class_name": "porcupine",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "rodent",
+        "woodland_animal",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "possum",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "marsupial",
+        "nocturnal_animal",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "rabbit",
+      "num_selected": 2,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "pet",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "raccoon",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "nocturnal_animal",
+        "snout",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "ray",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "cartilage_fish",
+        "ocean_fish",
+        "seafloor_fish",
+        "glider",
+        "swimmer"
+      ]
+    },
+    {
+      "class_name": "road",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "highway",
+        "lane",
+        "roadway",
+        "lane_marker"
+      ]
+    },
+    {
+      "class_name": "rocket",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "space_vehicle",
+        "launch_vehicle",
+        "missile",
+        "liftoff",
+        "spaceflight"
+      ]
+    },
+    {
+      "class_name": "rose",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "garden_flower",
+        "flowering_plant",
+        "pollen"
+      ]
+    },
+    {
+      "class_name": "sea",
+      "num_selected": 9,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "ocean",
+        "water_body",
+        "coast",
+        "beach",
+        "seaside",
+        "horizon",
+        "seabed",
+        "open_water"
+      ]
+    },
+    {
+      "class_name": "seal",
+      "num_selected": 8,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "marine_mammal",
+        "sea_mammal",
+        "swimmer",
+        "diver",
+        "beach_dweller",
+        "pup",
+        "snout",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "shark",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "cartilage_fish",
+        "swimmer",
+        "tooth",
+        "snout",
+        "ocean_fish"
+      ]
+    },
+    {
+      "class_name": "shrew",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "nocturnal_animal",
+        "garden_animal",
+        "woodland_animal",
+        "snout",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "skunk",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "nocturnal_animal",
+        "snout",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "skyscraper",
+      "num_selected": 9,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "tall_building",
+        "office_building",
+        "apartment_building",
+        "city_building",
+        "downtown_building",
+        "cityscape",
+        "skyline",
+        "stairwell"
+      ]
+    },
+    {
+      "class_name": "snail",
+      "num_selected": 9,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "shell_creature",
+        "garden_mollusk",
+        "leaf_eater",
+        "slime",
+        "shell",
+        "spiral_shell",
+        "tentacle",
+        "foot",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "snake",
+      "num_selected": 7,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "serpent",
+        "ground_reptile",
+        "skin",
+        "fang",
+        "coil",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "spider",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "silk",
+        "fang",
+        "venom",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "squirrel",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "rodent",
+        "tree_rodent",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "streetcar",
+      "num_selected": 2,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "public_vehicle",
+        "door"
+      ]
+    },
+    {
+      "class_name": "sunflower",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "garden_flower",
+        "field_flower",
+        "flowering_plant",
+        "seed_head",
+        "pollen"
+      ]
+    },
+    {
+      "class_name": "sweet_pepper",
+      "num_selected": 3,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "bell_pepper",
+        "slice",
+        "skin"
+      ]
+    },
+    {
+      "class_name": "table",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "sideboard",
+        "furniture",
+        "surface",
+        "edge",
+        "room_furniture"
+      ]
+    },
+    {
+      "class_name": "tank",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "armored_vehicle",
+        "military_vehicle",
+        "combat_vehicle",
+        "tracked_vehicle",
+        "battlefield_vehicle",
+        "crew"
+      ]
+    },
+    {
+      "class_name": "telephone",
+      "num_selected": 8,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "handset",
+        "communication_device",
+        "landline",
+        "desk_phone",
+        "cordless_phone",
+        "dial",
+        "cord",
+        "contact"
+      ]
+    },
+    {
+      "class_name": "television",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "screen",
+        "display",
+        "home_screen",
+        "video"
+      ]
+    },
+    {
+      "class_name": "tiger",
+      "num_selected": 7,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "big_cat",
+        "wild_cat",
+        "feline",
+        "roar",
+        "growl",
+        "cub",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "tractor",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "farm_vehicle",
+        "farm_machine",
+        "agricultural_vehicle",
+        "steering_wheel"
+      ]
+    },
+    {
+      "class_name": "train",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "locomotive",
+        "rail_transport",
+        "passenger_train",
+        "commuter_train",
+        "railcar",
+        "coach"
+      ]
+    },
+    {
+      "class_name": "trout",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "freshwater_fish",
+        "swimmer",
+        "egg",
+        "hook"
+      ]
+    },
+    {
+      "class_name": "tulip",
+      "num_selected": 4,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "garden_flower",
+        "spring_flower",
+        "bulb_flower",
+        "flowering_plant"
+      ]
+    },
+    {
+      "class_name": "turtle",
+      "num_selected": 6,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "swimmer",
+        "beach_nester",
+        "shell",
+        "head",
+        "egg",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "wardrobe",
+      "num_selected": 7,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "closet",
+        "armoire",
+        "cabinet",
+        "furniture",
+        "storage_unit",
+        "door",
+        "bedroom_furniture"
+      ]
+    },
+    {
+      "class_name": "whale",
+      "num_selected": 9,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "marine_mammal",
+        "sea_mammal",
+        "giant_mammal",
+        "swimmer",
+        "diver",
+        "calf",
+        "skin",
+        "song",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "willow_tree",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "deciduous_tree",
+        "yard_tree",
+        "park_tree",
+        "canopy",
+        "grove"
+      ]
+    },
+    {
+      "class_name": "wolf",
+      "num_selected": 5,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "wild_canid",
+        "howl",
+        "growl",
+        "snout",
+        "animal"
+      ]
+    },
+    {
+      "class_name": "woman",
+      "num_selected": 10,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "adult_person",
+        "human",
+        "person",
+        "wife",
+        "sister",
+        "caregiver",
+        "face",
+        "hair",
+        "voice",
+        "citizen"
+      ]
+    },
+    {
+      "class_name": "worm",
+      "num_selected": 2,
+      "llm_ok": true,
+      "llm_hit_terms": [
+        "slime",
+        "compost"
+      ]
+    }
+  ],
+  "selection_meta": {
+    "relax_source": "llm",
+    "cluster_num": 150,
+    "topk_per_cluster": 5,
+    "num_unique_candidates": 1148,
+    "num_selected_unique_terms": 317
+  }
+}

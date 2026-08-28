@@ -1,0 +1,708 @@
+{
+  "num_classes": 100,
+  "noun_only": true,
+  "msr_wn": 1.0,
+  "failed": [],
+  "per_class": [
+    {
+      "class_name": "apple",
+      "normalized": "apple",
+      "head": "apple",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "aquarium_fish",
+      "normalized": "aquarium fish",
+      "head": "fish",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "baby",
+      "normalized": "baby",
+      "head": "baby",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bear",
+      "normalized": "bear",
+      "head": "bear",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "beaver",
+      "normalized": "beaver",
+      "head": "beaver",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bed",
+      "normalized": "bed",
+      "head": "bed",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bee",
+      "normalized": "bee",
+      "head": "bee",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "beetle",
+      "normalized": "beetle",
+      "head": "beetle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bicycle",
+      "normalized": "bicycle",
+      "head": "bicycle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bottle",
+      "normalized": "bottle",
+      "head": "bottle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bowl",
+      "normalized": "bowl",
+      "head": "bowl",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "boy",
+      "normalized": "boy",
+      "head": "boy",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bridge",
+      "normalized": "bridge",
+      "head": "bridge",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bus",
+      "normalized": "bus",
+      "head": "bus",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "butterfly",
+      "normalized": "butterfly",
+      "head": "butterfly",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "camel",
+      "normalized": "camel",
+      "head": "camel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "can",
+      "normalized": "can",
+      "head": "can",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "castle",
+      "normalized": "castle",
+      "head": "castle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "caterpillar",
+      "normalized": "caterpillar",
+      "head": "caterpillar",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cattle",
+      "normalized": "cattle",
+      "head": "cattle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "chair",
+      "normalized": "chair",
+      "head": "chair",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "chimpanzee",
+      "normalized": "chimpanzee",
+      "head": "chimpanzee",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "clock",
+      "normalized": "clock",
+      "head": "clock",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cloud",
+      "normalized": "cloud",
+      "head": "cloud",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cockroach",
+      "normalized": "cockroach",
+      "head": "cockroach",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "couch",
+      "normalized": "couch",
+      "head": "couch",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "crab",
+      "normalized": "crab",
+      "head": "crab",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "crocodile",
+      "normalized": "crocodile",
+      "head": "crocodile",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cup",
+      "normalized": "cup",
+      "head": "cup",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "dinosaur",
+      "normalized": "dinosaur",
+      "head": "dinosaur",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "dolphin",
+      "normalized": "dolphin",
+      "head": "dolphin",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "elephant",
+      "normalized": "elephant",
+      "head": "elephant",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "flatfish",
+      "normalized": "flatfish",
+      "head": "flatfish",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "forest",
+      "normalized": "forest",
+      "head": "forest",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "fox",
+      "normalized": "fox",
+      "head": "fox",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "girl",
+      "normalized": "girl",
+      "head": "girl",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hamster",
+      "normalized": "hamster",
+      "head": "hamster",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "house",
+      "normalized": "house",
+      "head": "house",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "kangaroo",
+      "normalized": "kangaroo",
+      "head": "kangaroo",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "keyboard",
+      "normalized": "keyboard",
+      "head": "keyboard",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lamp",
+      "normalized": "lamp",
+      "head": "lamp",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lawn_mower",
+      "normalized": "lawn mower",
+      "head": "mower",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "leopard",
+      "normalized": "leopard",
+      "head": "leopard",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lion",
+      "normalized": "lion",
+      "head": "lion",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lizard",
+      "normalized": "lizard",
+      "head": "lizard",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lobster",
+      "normalized": "lobster",
+      "head": "lobster",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "man",
+      "normalized": "man",
+      "head": "man",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "maple_tree",
+      "normalized": "maple tree",
+      "head": "tree",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "motorcycle",
+      "normalized": "motorcycle",
+      "head": "motorcycle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mountain",
+      "normalized": "mountain",
+      "head": "mountain",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mouse",
+      "normalized": "mouse",
+      "head": "mouse",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mushroom",
+      "normalized": "mushroom",
+      "head": "mushroom",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "oak_tree",
+      "normalized": "oak tree",
+      "head": "tree",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "orange",
+      "normalized": "orange",
+      "head": "orange",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "orchid",
+      "normalized": "orchid",
+      "head": "orchid",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "otter",
+      "normalized": "otter",
+      "head": "otter",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "palm_tree",
+      "normalized": "palm tree",
+      "head": "tree",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pear",
+      "normalized": "pear",
+      "head": "pear",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "pickup_truck",
+      "normalized": "pickup truck",
+      "head": "truck",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pine_tree",
+      "normalized": "pine tree",
+      "head": "tree",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "plain",
+      "normalized": "plain",
+      "head": "plain",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "plate",
+      "normalized": "plate",
+      "head": "plate",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "poppy",
+      "normalized": "poppy",
+      "head": "poppy",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "porcupine",
+      "normalized": "porcupine",
+      "head": "porcupine",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "possum",
+      "normalized": "possum",
+      "head": "possum",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "rabbit",
+      "normalized": "rabbit",
+      "head": "rabbit",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "raccoon",
+      "normalized": "raccoon",
+      "head": "raccoon",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ray",
+      "normalized": "ray",
+      "head": "ray",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "road",
+      "normalized": "road",
+      "head": "road",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "rocket",
+      "normalized": "rocket",
+      "head": "rocket",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "rose",
+      "normalized": "rose",
+      "head": "rose",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sea",
+      "normalized": "sea",
+      "head": "sea",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "seal",
+      "normalized": "seal",
+      "head": "seal",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "shark",
+      "normalized": "shark",
+      "head": "shark",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "shrew",
+      "normalized": "shrew",
+      "head": "shrew",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "skunk",
+      "normalized": "skunk",
+      "head": "skunk",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "skyscraper",
+      "normalized": "skyscraper",
+      "head": "skyscraper",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "snail",
+      "normalized": "snail",
+      "head": "snail",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "snake",
+      "normalized": "snake",
+      "head": "snake",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "spider",
+      "normalized": "spider",
+      "head": "spider",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "squirrel",
+      "normalized": "squirrel",
+      "head": "squirrel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "streetcar",
+      "normalized": "streetcar",
+      "head": "streetcar",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sunflower",
+      "normalized": "sunflower",
+      "head": "sunflower",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sweet_pepper",
+      "normalized": "sweet pepper",
+      "head": "pepper",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "table",
+      "normalized": "table",
+      "head": "table",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "tank",
+      "normalized": "tank",
+      "head": "tank",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "telephone",
+      "normalized": "telephone",
+      "head": "telephone",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "television",
+      "normalized": "television",
+      "head": "television",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "tiger",
+      "normalized": "tiger",
+      "head": "tiger",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "tractor",
+      "normalized": "tractor",
+      "head": "tractor",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "train",
+      "normalized": "train",
+      "head": "train",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "trout",
+      "normalized": "trout",
+      "head": "trout",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "tulip",
+      "normalized": "tulip",
+      "head": "tulip",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "turtle",
+      "normalized": "turtle",
+      "head": "turtle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "wardrobe",
+      "normalized": "wardrobe",
+      "head": "wardrobe",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "whale",
+      "normalized": "whale",
+      "head": "whale",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "willow_tree",
+      "normalized": "willow tree",
+      "head": "tree",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wolf",
+      "normalized": "wolf",
+      "head": "wolf",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "woman",
+      "normalized": "woman",
+      "head": "woman",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "worm",
+      "normalized": "worm",
+      "head": "worm",
+      "wn_ok": true,
+      "matched_by": "full"
+    }
+  ]
+}

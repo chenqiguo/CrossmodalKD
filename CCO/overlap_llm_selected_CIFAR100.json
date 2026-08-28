@@ -1,0 +1,940 @@
+{
+  "dataset": "CIFAR100",
+  "num_classes": 100,
+  "term_field": "selected_terms",
+  "num_unique_terms": 317,
+  "total_class_term_assignments": 501,
+  "avg_terms_per_class": 5.01,
+  "median_terms_per_class": 5.0,
+  "frac_terms_shared_ge2": 0.25236593059936907,
+  "frac_assignments_from_shared_terms": 0.5269461077844312,
+  "avg_classes_per_term": 1.5804416403785488,
+  "median_classes_per_term": 1,
+  "per_class_shared_fraction": {
+    "apple": 0.6,
+    "aquarium_fish": 0.6666666666666666,
+    "baby": 0.5714285714285714,
+    "bear": 0.6666666666666666,
+    "beaver": 0.3333333333333333,
+    "bed": 0.0,
+    "bee": 0.16666666666666666,
+    "beetle": 0.6666666666666666,
+    "bicycle": 0.5,
+    "bottle": 0.0,
+    "bowl": 1.0,
+    "boy": 0.8333333333333334,
+    "bridge": 0.0,
+    "bus": 1.0,
+    "butterfly": 0.6666666666666666,
+    "camel": 0.6666666666666666,
+    "can": 0.0,
+    "castle": 0.0,
+    "caterpillar": 0.5,
+    "cattle": 0.4,
+    "chair": 0.5,
+    "chimpanzee": 0.4,
+    "clock": 0.3333333333333333,
+    "cloud": 0.0,
+    "cockroach": 0.5,
+    "couch": 0.25,
+    "crab": 0.5,
+    "crocodile": 0.5,
+    "cup": 0.16666666666666666,
+    "dinosaur": 0.2,
+    "dolphin": 0.75,
+    "elephant": 0.6666666666666666,
+    "flatfish": 0.6666666666666666,
+    "forest": 0.2727272727272727,
+    "fox": 0.8333333333333334,
+    "girl": 1.0,
+    "hamster": 0.5714285714285714,
+    "house": 0.14285714285714285,
+    "kangaroo": 0.5,
+    "keyboard": 0.0,
+    "lamp": 0.5,
+    "lawn_mower": 0.0,
+    "leopard": 0.875,
+    "lion": 0.875,
+    "lizard": 0.8,
+    "lobster": 0.5,
+    "man": 0.7,
+    "maple_tree": 1.0,
+    "motorcycle": 0.5,
+    "mountain": 0.2,
+    "mouse": 0.75,
+    "mushroom": 0.0,
+    "oak_tree": 1.0,
+    "orange": 0.5714285714285714,
+    "orchid": 0.5,
+    "otter": 0.75,
+    "palm_tree": 0.7142857142857143,
+    "pear": 0.6666666666666666,
+    "pickup_truck": 0.2,
+    "pine_tree": 0.75,
+    "plain": 0.25,
+    "plate": 1.0,
+    "poppy": 0.8,
+    "porcupine": 1.0,
+    "possum": 1.0,
+    "rabbit": 1.0,
+    "raccoon": 1.0,
+    "ray": 0.6,
+    "road": 0.0,
+    "rocket": 0.0,
+    "rose": 1.0,
+    "sea": 0.2222222222222222,
+    "seal": 0.75,
+    "shark": 1.0,
+    "shrew": 0.8,
+    "skunk": 1.0,
+    "skyscraper": 0.0,
+    "snail": 0.5555555555555556,
+    "snake": 0.5714285714285714,
+    "spider": 0.5,
+    "squirrel": 0.6666666666666666,
+    "streetcar": 1.0,
+    "sunflower": 0.8,
+    "sweet_pepper": 0.6666666666666666,
+    "table": 0.4,
+    "tank": 0.0,
+    "telephone": 0.25,
+    "television": 0.0,
+    "tiger": 1.0,
+    "tractor": 0.25,
+    "train": 0.16666666666666666,
+    "trout": 0.75,
+    "tulip": 0.5,
+    "turtle": 0.6666666666666666,
+    "wardrobe": 0.2857142857142857,
+    "whale": 0.8888888888888888,
+    "willow_tree": 1.0,
+    "wolf": 1.0,
+    "woman": 0.8,
+    "worm": 0.5
+  },
+  "top_shared_terms": [
+    {
+      "term": "animal",
+      "num_classes": 32,
+      "classes": [
+        "bear",
+        "beaver",
+        "camel",
+        "cattle",
+        "chimpanzee",
+        "crocodile",
+        "dinosaur",
+        "dolphin",
+        "elephant",
+        "fox",
+        "hamster",
+        "kangaroo",
+        "leopard",
+        "lion",
+        "lizard",
+        "mouse",
+        "otter",
+        "porcupine",
+        "possum",
+        "rabbit",
+        "raccoon",
+        "seal",
+        "shrew",
+        "skunk",
+        "snail",
+        "snake",
+        "spider",
+        "squirrel",
+        "tiger",
+        "turtle",
+        "whale",
+        "wolf"
+      ]
+    },
+    {
+      "term": "snout",
+      "num_classes": 12,
+      "classes": [
+        "bear",
+        "camel",
+        "chimpanzee",
+        "crocodile",
+        "dolphin",
+        "fox",
+        "raccoon",
+        "seal",
+        "shark",
+        "shrew",
+        "skunk",
+        "wolf"
+      ]
+    },
+    {
+      "term": "swimmer",
+      "num_classes": 10,
+      "classes": [
+        "aquarium_fish",
+        "dolphin",
+        "flatfish",
+        "otter",
+        "ray",
+        "seal",
+        "shark",
+        "trout",
+        "turtle",
+        "whale"
+      ]
+    },
+    {
+      "term": "grove",
+      "num_classes": 6,
+      "classes": [
+        "forest",
+        "maple_tree",
+        "oak_tree",
+        "palm_tree",
+        "pine_tree",
+        "willow_tree"
+      ]
+    },
+    {
+      "term": "shell",
+      "num_classes": 5,
+      "classes": [
+        "beetle",
+        "crab",
+        "lobster",
+        "snail",
+        "turtle"
+      ]
+    },
+    {
+      "term": "rodent",
+      "num_classes": 5,
+      "classes": [
+        "beaver",
+        "hamster",
+        "mouse",
+        "porcupine",
+        "squirrel"
+      ]
+    },
+    {
+      "term": "person",
+      "num_classes": 5,
+      "classes": [
+        "baby",
+        "boy",
+        "girl",
+        "man",
+        "woman"
+      ]
+    },
+    {
+      "term": "flowering_plant",
+      "num_classes": 5,
+      "classes": [
+        "orchid",
+        "poppy",
+        "rose",
+        "sunflower",
+        "tulip"
+      ]
+    },
+    {
+      "term": "canopy",
+      "num_classes": 5,
+      "classes": [
+        "forest",
+        "maple_tree",
+        "oak_tree",
+        "palm_tree",
+        "willow_tree"
+      ]
+    },
+    {
+      "term": "yard_tree",
+      "num_classes": 4,
+      "classes": [
+        "maple_tree",
+        "oak_tree",
+        "palm_tree",
+        "willow_tree"
+      ]
+    },
+    {
+      "term": "skin",
+      "num_classes": 4,
+      "classes": [
+        "lizard",
+        "snake",
+        "sweet_pepper",
+        "whale"
+      ]
+    },
+    {
+      "term": "nocturnal_animal",
+      "num_classes": 4,
+      "classes": [
+        "possum",
+        "raccoon",
+        "shrew",
+        "skunk"
+      ]
+    },
+    {
+      "term": "human",
+      "num_classes": 4,
+      "classes": [
+        "boy",
+        "girl",
+        "man",
+        "woman"
+      ]
+    },
+    {
+      "term": "garden_flower",
+      "num_classes": 4,
+      "classes": [
+        "poppy",
+        "rose",
+        "sunflower",
+        "tulip"
+      ]
+    },
+    {
+      "term": "furniture",
+      "num_classes": 4,
+      "classes": [
+        "chair",
+        "couch",
+        "table",
+        "wardrobe"
+      ]
+    },
+    {
+      "term": "face",
+      "num_classes": 4,
+      "classes": [
+        "chimpanzee",
+        "clock",
+        "man",
+        "woman"
+      ]
+    },
+    {
+      "term": "door",
+      "num_classes": 4,
+      "classes": [
+        "bus",
+        "house",
+        "streetcar",
+        "wardrobe"
+      ]
+    },
+    {
+      "term": "wild_cat",
+      "num_classes": 3,
+      "classes": [
+        "leopard",
+        "lion",
+        "tiger"
+      ]
+    },
+    {
+      "term": "tree_line",
+      "num_classes": 3,
+      "classes": [
+        "forest",
+        "palm_tree",
+        "pine_tree"
+      ]
+    },
+    {
+      "term": "tree_fruit",
+      "num_classes": 3,
+      "classes": [
+        "apple",
+        "orange",
+        "pear"
+      ]
+    },
+    {
+      "term": "tableware",
+      "num_classes": 3,
+      "classes": [
+        "bowl",
+        "cup",
+        "plate"
+      ]
+    },
+    {
+      "term": "sea_mammal",
+      "num_classes": 3,
+      "classes": [
+        "dolphin",
+        "seal",
+        "whale"
+      ]
+    },
+    {
+      "term": "roar",
+      "num_classes": 3,
+      "classes": [
+        "leopard",
+        "lion",
+        "tiger"
+      ]
+    },
+    {
+      "term": "pollen",
+      "num_classes": 3,
+      "classes": [
+        "poppy",
+        "rose",
+        "sunflower"
+      ]
+    },
+    {
+      "term": "park_tree",
+      "num_classes": 3,
+      "classes": [
+        "maple_tree",
+        "oak_tree",
+        "willow_tree"
+      ]
+    },
+    {
+      "term": "orchard_fruit",
+      "num_classes": 3,
+      "classes": [
+        "apple",
+        "orange",
+        "pear"
+      ]
+    },
+    {
+      "term": "marine_mammal",
+      "num_classes": 3,
+      "classes": [
+        "dolphin",
+        "seal",
+        "whale"
+      ]
+    },
+    {
+      "term": "leaf_eater",
+      "num_classes": 3,
+      "classes": [
+        "beetle",
+        "caterpillar",
+        "snail"
+      ]
+    },
+    {
+      "term": "growl",
+      "num_classes": 3,
+      "classes": [
+        "leopard",
+        "tiger",
+        "wolf"
+      ]
+    },
+    {
+      "term": "foot",
+      "num_classes": 3,
+      "classes": [
+        "chimpanzee",
+        "elephant",
+        "snail"
+      ]
+    },
+    {
+      "term": "feline",
+      "num_classes": 3,
+      "classes": [
+        "leopard",
+        "lion",
+        "tiger"
+      ]
+    },
+    {
+      "term": "egg",
+      "num_classes": 3,
+      "classes": [
+        "lizard",
+        "trout",
+        "turtle"
+      ]
+    },
+    {
+      "term": "diver",
+      "num_classes": 3,
+      "classes": [
+        "otter",
+        "seal",
+        "whale"
+      ]
+    },
+    {
+      "term": "deciduous_tree",
+      "num_classes": 3,
+      "classes": [
+        "maple_tree",
+        "oak_tree",
+        "willow_tree"
+      ]
+    },
+    {
+      "term": "cub",
+      "num_classes": 3,
+      "classes": [
+        "bear",
+        "lion",
+        "tiger"
+      ]
+    },
+    {
+      "term": "child",
+      "num_classes": 3,
+      "classes": [
+        "baby",
+        "boy",
+        "girl"
+      ]
+    },
+    {
+      "term": "calf",
+      "num_classes": 3,
+      "classes": [
+        "cattle",
+        "elephant",
+        "whale"
+      ]
+    },
+    {
+      "term": "big_cat",
+      "num_classes": 3,
+      "classes": [
+        "leopard",
+        "lion",
+        "tiger"
+      ]
+    },
+    {
+      "term": "woods_animal",
+      "num_classes": 2,
+      "classes": [
+        "bear",
+        "fox"
+      ]
+    },
+    {
+      "term": "woodland_animal",
+      "num_classes": 2,
+      "classes": [
+        "porcupine",
+        "shrew"
+      ]
+    },
+    {
+      "term": "wing",
+      "num_classes": 2,
+      "classes": [
+        "butterfly",
+        "cockroach"
+      ]
+    },
+    {
+      "term": "wild_canid",
+      "num_classes": 2,
+      "classes": [
+        "fox",
+        "wolf"
+      ]
+    },
+    {
+      "term": "voice",
+      "num_classes": 2,
+      "classes": [
+        "man",
+        "woman"
+      ]
+    },
+    {
+      "term": "two_wheeler",
+      "num_classes": 2,
+      "classes": [
+        "bicycle",
+        "motorcycle"
+      ]
+    },
+    {
+      "term": "tooth",
+      "num_classes": 2,
+      "classes": [
+        "dinosaur",
+        "shark"
+      ]
+    },
+    {
+      "term": "toddler",
+      "num_classes": 2,
+      "classes": [
+        "baby",
+        "boy"
+      ]
+    },
+    {
+      "term": "surface",
+      "num_classes": 2,
+      "classes": [
+        "dolphin",
+        "table"
+      ]
+    },
+    {
+      "term": "steering_wheel",
+      "num_classes": 2,
+      "classes": [
+        "pickup_truck",
+        "tractor"
+      ]
+    },
+    {
+      "term": "small_rodent",
+      "num_classes": 2,
+      "classes": [
+        "hamster",
+        "mouse"
+      ]
+    },
+    {
+      "term": "slime",
+      "num_classes": 2,
+      "classes": [
+        "snail",
+        "worm"
+      ]
+    }
+  ],
+  "term_frequency": {
+    "cider_fruit": 1,
+    "fresh_fruit": 2,
+    "orchard_fruit": 3,
+    "pie_fruit": 1,
+    "tree_fruit": 3,
+    "aquarium_creature": 1,
+    "freshwater_fish": 2,
+    "swimmer": 10,
+    "caregiver": 2,
+    "child": 3,
+    "crib_child": 1,
+    "infant": 1,
+    "nursery_child": 1,
+    "person": 5,
+    "toddler": 2,
+    "animal": 32,
+    "cub": 3,
+    "hibernator": 1,
+    "mountain_animal": 1,
+    "snout": 12,
+    "woods_animal": 2,
+    "canal": 1,
+    "dam": 1,
+    "front_teeth": 1,
+    "rodent": 5,
+    "waterway": 1,
+    "sleep_surface": 1,
+    "apiary": 1,
+    "drone_insect": 1,
+    "pollen_collector": 1,
+    "pollinator": 2,
+    "queen_insect": 1,
+    "worker_insect": 1,
+    "hardwing_insect": 1,
+    "leaf_eater": 3,
+    "shell": 5,
+    "handlebar": 2,
+    "human_powered_vehicle": 1,
+    "kickstand": 1,
+    "two_wheeler": 2,
+    "cork": 1,
+    "drink_container": 1,
+    "jar": 1,
+    "thermos": 1,
+    "vial": 1,
+    "tableware": 3,
+    "classmate": 2,
+    "human": 4,
+    "lad": 1,
+    "arch": 1,
+    "coach": 2,
+    "door": 4,
+    "public_vehicle": 2,
+    "moth": 1,
+    "wing": 2,
+    "desert_animal": 1,
+    "pantry_item": 1,
+    "battlement": 1,
+    "keep": 1,
+    "manor": 1,
+    "palace": 1,
+    "twig_crawler": 1,
+    "calf": 3,
+    "cow": 1,
+    "pasture_animal": 1,
+    "udder": 1,
+    "furniture": 4,
+    "stool": 1,
+    "ape": 1,
+    "face": 4,
+    "foot": 3,
+    "jungle_animal": 1,
+    "monkey": 1,
+    "primate": 1,
+    "tailbone": 1,
+    "thumb": 1,
+    "desk_timer": 1,
+    "dial": 2,
+    "timekeeper": 1,
+    "timepiece": 1,
+    "wall_timer": 1,
+    "droplet": 1,
+    "fog": 1,
+    "haze": 1,
+    "moisture": 1,
+    "shadow": 1,
+    "sky": 1,
+    "sky_cover": 1,
+    "sky_mass": 1,
+    "storm_system": 1,
+    "weather_front": 1,
+    "scavenger_insect": 1,
+    "living_room": 1,
+    "living_room_furniture": 1,
+    "loveseat": 1,
+    "crustacean": 2,
+    "sand_dweller": 1,
+    "shore_crustacean": 1,
+    "mammal_eater": 1,
+    "water_predator": 1,
+    "beverage_container": 1,
+    "drink": 1,
+    "drinking_vessel": 1,
+    "drinkware": 1,
+    "goblet": 1,
+    "bone": 1,
+    "extinct_animal": 1,
+    "footprint": 1,
+    "fossil_animal": 1,
+    "museum_exhibit": 1,
+    "prehistoric_animal": 1,
+    "skeleton": 1,
+    "skull": 1,
+    "tooth": 2,
+    "marine_mammal": 3,
+    "porpoise": 1,
+    "sea_mammal": 3,
+    "surface": 2,
+    "whale_calf": 1,
+    "giant_mammal": 2,
+    "savanna_animal": 1,
+    "tusk": 1,
+    "groundfish": 1,
+    "seafloor": 2,
+    "canopy": 5,
+    "forest_floor": 1,
+    "grove": 6,
+    "jungle": 1,
+    "nature_area": 1,
+    "rainforest": 1,
+    "thicket": 1,
+    "tree_line": 3,
+    "underbrush": 1,
+    "woodland": 1,
+    "woods": 1,
+    "howl": 2,
+    "nocturnal_hunter": 1,
+    "wild_canid": 2,
+    "cage": 1,
+    "pet": 2,
+    "pet_rodent": 1,
+    "small_rodent": 2,
+    "water_bottle": 1,
+    "apartment": 1,
+    "bungalow": 1,
+    "cottage": 1,
+    "driveway": 1,
+    "residence": 1,
+    "room": 1,
+    "grassland_animal": 1,
+    "hind_leg": 1,
+    "marsupial": 2,
+    "enter_key": 1,
+    "function_key": 1,
+    "keycap": 1,
+    "shift_key": 1,
+    "spacebar": 1,
+    "cord": 2,
+    "glow": 1,
+    "grass_cutter": 1,
+    "yard_machine": 1,
+    "big_cat": 3,
+    "feline": 3,
+    "growl": 3,
+    "paws": 1,
+    "roar": 3,
+    "savanna_predator": 2,
+    "wild_cat": 3,
+    "mane": 1,
+    "egg": 3,
+    "ground_reptile": 2,
+    "skin": 4,
+    "sunbather": 1,
+    "boil_pot": 1,
+    "seafloor_creature": 1,
+    "adult_person": 2,
+    "beard": 1,
+    "citizen": 2,
+    "father": 1,
+    "hair": 2,
+    "husband": 1,
+    "voice": 2,
+    "deciduous_tree": 3,
+    "park_tree": 3,
+    "yard_tree": 4,
+    "motorbike": 1,
+    "street_vehicle": 1,
+    "hike": 1,
+    "landform": 2,
+    "peak": 1,
+    "ridge": 1,
+    "summit": 1,
+    "house_rodent": 1,
+    "cluster": 1,
+    "organism": 1,
+    "spore_body": 1,
+    "woodland_fungus": 1,
+    "breakfast_fruit": 1,
+    "citrus_fruit": 1,
+    "juicing_fruit": 2,
+    "slice": 2,
+    "wedge": 1,
+    "flowering_plant": 5,
+    "houseplant": 1,
+    "diver": 3,
+    "water_mammal": 1,
+    "evergreen_tree": 2,
+    "frond": 1,
+    "tropical_tree": 1,
+    "compote": 1,
+    "lunch_fruit": 1,
+    "delivery_vehicle": 1,
+    "mirror": 1,
+    "steering_wheel": 2,
+    "towing_vehicle": 1,
+    "truck": 1,
+    "conifer_tree": 1,
+    "countryside": 1,
+    "expanse": 1,
+    "grassland": 1,
+    "grazing_land": 1,
+    "horizon": 2,
+    "open_land": 1,
+    "prairie": 1,
+    "field_flower": 2,
+    "garden_flower": 4,
+    "pollen": 3,
+    "seed_pod": 1,
+    "woodland_animal": 2,
+    "nocturnal_animal": 4,
+    "cartilage_fish": 2,
+    "glider": 1,
+    "ocean_fish": 2,
+    "seafloor_fish": 1,
+    "highway": 1,
+    "lane": 1,
+    "lane_marker": 1,
+    "roadway": 1,
+    "launch_vehicle": 1,
+    "liftoff": 1,
+    "missile": 1,
+    "space_vehicle": 1,
+    "spaceflight": 1,
+    "beach": 1,
+    "coast": 1,
+    "ocean": 1,
+    "open_water": 1,
+    "seabed": 1,
+    "seaside": 1,
+    "water_body": 1,
+    "beach_dweller": 1,
+    "pup": 1,
+    "garden_animal": 1,
+    "apartment_building": 1,
+    "city_building": 1,
+    "cityscape": 1,
+    "downtown_building": 1,
+    "highrise": 1,
+    "office_building": 1,
+    "skyline": 1,
+    "stairwell": 1,
+    "tall_building": 1,
+    "garden_mollusk": 1,
+    "shell_creature": 1,
+    "slime": 2,
+    "spiral_shell": 1,
+    "tentacle": 1,
+    "coil": 1,
+    "fang": 2,
+    "serpent": 1,
+    "slitherer": 1,
+    "silk": 1,
+    "venom": 1,
+    "tree_rodent": 1,
+    "seed_head": 1,
+    "bell_pepper": 1,
+    "edge": 1,
+    "room_furniture": 1,
+    "sideboard": 1,
+    "armored_vehicle": 1,
+    "battlefield_vehicle": 1,
+    "combat_vehicle": 1,
+    "crew": 1,
+    "military_vehicle": 1,
+    "tracked_vehicle": 1,
+    "communication_device": 1,
+    "contact": 1,
+    "cordless_phone": 1,
+    "desk_phone": 1,
+    "handset": 1,
+    "landline": 1,
+    "display": 1,
+    "home_screen": 1,
+    "screen": 1,
+    "video": 1,
+    "agricultural_vehicle": 1,
+    "farm_machine": 1,
+    "farm_vehicle": 1,
+    "commuter_train": 1,
+    "locomotive": 1,
+    "passenger_train": 1,
+    "rail_transport": 1,
+    "railcar": 1,
+    "hook": 1,
+    "bulb_flower": 1,
+    "spring_flower": 1,
+    "beach_nester": 1,
+    "head": 1,
+    "armoire": 1,
+    "bedroom_furniture": 1,
+    "cabinet": 1,
+    "closet": 1,
+    "storage_unit": 1,
+    "song": 1,
+    "sister": 1,
+    "wife": 1,
+    "compost": 1
+  }
+}

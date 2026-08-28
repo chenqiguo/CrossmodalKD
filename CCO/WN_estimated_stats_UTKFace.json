@@ -1,0 +1,15 @@
+{
+  "dataset": "UTKFace",
+  "num_classes": 5,
+  "num_unique_terms": 96,
+  "tau": 0.35,
+  "mode": "multi",
+  "include_none": false,
+  "cco": {
+    "frac_terms_shared_ge2": 0.45454545454545453,
+    "num_terms_denom": 22,
+    "num_terms_shared_ge2": 10,
+    "avg_classes_per_term": 1.4545454545454546
+  },
+  "note": "Estimated via WordNet Wu-Palmer similarity between noun synsets and class-label synsets (with head backoff)."
+}

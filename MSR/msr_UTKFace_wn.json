@@ -1,0 +1,45 @@
+{
+  "num_classes": 5,
+  "noun_only": true,
+  "msr_wn": 0.8,
+  "failed": [
+    "Others Hispanic Latino Middle Eastern"
+  ],
+  "per_class": [
+    {
+      "class_name": "White",
+      "normalized": "white",
+      "head": "white",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Black",
+      "normalized": "black",
+      "head": "black",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Asian",
+      "normalized": "asian",
+      "head": "asian",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Indian",
+      "normalized": "indian",
+      "head": "indian",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Others Hispanic Latino Middle Eastern",
+      "normalized": "others hispanic latino middle eastern",
+      "head": "eastern",
+      "wn_ok": false,
+      "matched_by": "none"
+    }
+  ]
+}

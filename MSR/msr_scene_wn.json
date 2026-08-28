@@ -1,0 +1,50 @@
+{
+  "num_classes": 6,
+  "noun_only": true,
+  "msr_wn": 1.0,
+  "failed": [],
+  "per_class": [
+    {
+      "class_name": "Buildings",
+      "normalized": "buildings",
+      "head": "buildings",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Forests",
+      "normalized": "forests",
+      "head": "forests",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Glacier",
+      "normalized": "glacier",
+      "head": "glacier",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Mountains",
+      "normalized": "mountains",
+      "head": "mountains",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Sea",
+      "normalized": "sea",
+      "head": "sea",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Street",
+      "normalized": "street",
+      "head": "street",
+      "wn_ok": true,
+      "matched_by": "full"
+    }
+  ]
+}

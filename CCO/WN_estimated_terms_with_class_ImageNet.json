@@ -1,0 +1,6950 @@
+{
+  "dataset": "ImageNet",
+  "classes": [
+    {
+      "class_name": "Afghan hound, Afghan",
+      "selected_terms": []
+    },
+    {
+      "class_name": "African chameleon, Chamaeleo chamaeleon",
+      "selected_terms": [
+        "African_chameleon",
+        "Lampropeltis_triangulum",
+        "horned_chameleon"
+      ]
+    },
+    {
+      "class_name": "African crocodile, Nile crocodile, Crocodylus niloticus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "African elephant, Loxodonta africana",
+      "selected_terms": []
+    },
+    {
+      "class_name": "African grey, African gray, Psittacus erithacus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Airedale, Airedale terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "American alligator, Alligator mississipiensis",
+      "selected_terms": []
+    },
+    {
+      "class_name": "American black bear, black bear, Ursus americanus, Euarctos americanus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "American chameleon, anole, Anolis carolinensis",
+      "selected_terms": []
+    },
+    {
+      "class_name": "American coot, marsh hen, mud hen, water hen, Fulica americana",
+      "selected_terms": []
+    },
+    {
+      "class_name": "American egret, great white heron, Egretta albus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "American lobster, Northern lobster, Maine lobster, Homarus americanus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Angora, Angora rabbit",
+      "selected_terms": [
+        "cottontail_rabbit"
+      ]
+    },
+    {
+      "class_name": "Appenzeller",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Arabian camel, dromedary, Camelus dromedarius",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Arctic fox, white fox, Alopex lagopus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Australian terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Band Aid",
+      "selected_terms": [
+        "bonded_labor",
+        "child_care",
+        "drumming",
+        "gambling_hell",
+        "graduation",
+        "marriage_ceremony",
+        "solemnization",
+        "tea_ceremony",
+        "venipuncture",
+        "wedding_ceremony",
+        "wine_tasting"
+      ]
+    },
+    {
+      "class_name": "Bedlington terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Bernese mountain dog",
+      "selected_terms": [
+        "Alaskan_malamute",
+        "American_Staffordshire_terrier",
+        "American_pit_bull_terrier",
+        "American_water_spaniel",
+        "Arctic_fox",
+        "Arctic_wolf",
+        "Bedlington_terrier",
+        "Belgian_sheepdog",
+        "Brittany_spaniel",
+        "Chesapeake_Bay_retriever",
+        "Clydesdale_terrier",
+        "Dandie_Dinmont_terrier",
+        "English_springer_spaniel",
+        "Irish_terrier",
+        "Irish_wolfhound",
+        "Leonberg",
+        "Maltese_terrier",
+        "Old_English_sheepdog",
+        "Peke",
+        "Pekinese",
+        "Pekingese",
+        "Pomeranian",
+        "Scottish_deerhound",
+        "Scottish_terrier",
+        "Shetland_sheepdog",
+        "Shih-Tzu",
+        "Siberian_husky",
+        "Staffordshire_bull_terrier",
+        "Staffordshire_bullterrier",
+        "Staffordshire_terrier",
+        "Tasmanian_wolf",
+        "Tibetan_mastiff",
+        "Tibetan_terrier",
+        "Welsh_springer_spaniel",
+        "Welsh_terrier",
+        "Yorkshire_terrier",
+        "basset",
+        "beagle",
+        "black-and-tan_coonhound",
+        "bookshelf",
+        "briard",
+        "bull_terrier",
+        "collie",
+        "coonhound",
+        "doggie",
+        "doggy",
+        "elkhound",
+        "field_spaniel",
+        "flat-coated_retriever",
+        "housedog",
+        "husky",
+        "keeshond",
+        "lapdog",
+        "malamute",
+        "otterhound",
+        "pie-dog",
+        "pooch",
+        "puppy",
+        "rat_terrier",
+        "red_fox",
+        "silky_terrier",
+        "soft-coated_wheaten_terrier",
+        "spaniel",
+        "springer_spaniel",
+        "timber_wolf",
+        "toy_poodle",
+        "toy_terrier",
+        "water_spaniel",
+        "wire-haired_fox_terrier",
+        "wire-haired_terrier",
+        "wirehaired_terrier"
+      ]
+    },
+    {
+      "class_name": "Blenheim spaniel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Border collie",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Border terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Boston bull, Boston terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Bouvier des Flandres, Bouviers des Flandres",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Brabancon griffon",
+      "selected_terms": [
+        "Brussels_griffon",
+        "Cerberus"
+      ]
+    },
+    {
+      "class_name": "Brittany spaniel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "CD player",
+      "selected_terms": [
+        "Walther_Richard_Rudolf_Hess",
+        "accordionist",
+        "bar-room_plant",
+        "bassoonist",
+        "breadfruit_tree",
+        "carillonneur",
+        "cassette_player",
+        "clarinettist",
+        "guitar_player",
+        "koto_player",
+        "mangosteen_tree",
+        "musician",
+        "pomegranate_tree",
+        "quandong_tree",
+        "standup_comedian",
+        "sweet_corn_plant",
+        "trombone_player",
+        "volleyball_player",
+        "wild_medlar_tree",
+        "winter_squash_plant"
+      ]
+    },
+    {
+      "class_name": "Cardigan, Cardigan Welsh corgi",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Chesapeake Bay retriever",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Chihuahua",
+      "selected_terms": [
+        "Gulf_of_Antalya",
+        "Venezia",
+        "Venice"
+      ]
+    },
+    {
+      "class_name": "Christmas stocking",
+      "selected_terms": [
+        "Christmas_stocking"
+      ]
+    },
+    {
+      "class_name": "Crock Pot",
+      "selected_terms": [
+        "Altay_Mountains",
+        "Cantabrian_Mountains",
+        "Caucasus_Mountains",
+        "Coast_Mountains",
+        "Ionian_Sea",
+        "Kuenlun_Mountains",
+        "bathroom_fixture",
+        "busload",
+        "cookware",
+        "hot_pot",
+        "kitchenware",
+        "kitty",
+        "puppy_fat",
+        "watering_can",
+        "watering_pot"
+      ]
+    },
+    {
+      "class_name": "Dandie Dinmont, Dandie Dinmont terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Doberman, Doberman pinscher",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Dungeness crab, Cancer magister",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Dutch oven",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Egyptian cat",
+      "selected_terms": []
+    },
+    {
+      "class_name": "English foxhound",
+      "selected_terms": []
+    },
+    {
+      "class_name": "English setter",
+      "selected_terms": [
+        "Gordon_setter"
+      ]
+    },
+    {
+      "class_name": "English springer, English springer spaniel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "EntleBucher",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Eskimo dog, husky",
+      "selected_terms": []
+    },
+    {
+      "class_name": "European fire salamander, Salamandra salamandra",
+      "selected_terms": []
+    },
+    {
+      "class_name": "European gallinule, Porphyrio porphyrio",
+      "selected_terms": []
+    },
+    {
+      "class_name": "French bulldog",
+      "selected_terms": []
+    },
+    {
+      "class_name": "French horn, horn",
+      "selected_terms": [
+        "candied_citrus_peel",
+        "grapefruit_peel",
+        "pyromorphite"
+      ]
+    },
+    {
+      "class_name": "French loaf",
+      "selected_terms": [
+        "challah"
+      ]
+    },
+    {
+      "class_name": "German shepherd, German shepherd dog, German police dog, alsatian",
+      "selected_terms": []
+    },
+    {
+      "class_name": "German short-haired pointer",
+      "selected_terms": [
+        "German_short-haired_pointer",
+        "Space_Needle",
+        "upholstery_needle"
+      ]
+    },
+    {
+      "class_name": "Gila monster, Heloderma suspectum",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Gordon setter",
+      "selected_terms": [
+        "Gordon_setter"
+      ]
+    },
+    {
+      "class_name": "Granny Smith",
+      "selected_terms": [
+        "African_grey",
+        "Paul_Ludwig_von_Beneckendorff_und_von_Hindenburg"
+      ]
+    },
+    {
+      "class_name": "Great Dane",
+      "selected_terms": [
+        "Venetian"
+      ]
+    },
+    {
+      "class_name": "Great Pyrenees",
+      "selected_terms": [
+        "Great_Pyrenees"
+      ]
+    },
+    {
+      "class_name": "Greater Swiss Mountain dog",
+      "selected_terms": [
+        "Alaskan_malamute",
+        "American_Staffordshire_terrier",
+        "American_pit_bull_terrier",
+        "American_water_spaniel",
+        "Arctic_fox",
+        "Arctic_wolf",
+        "Bedlington_terrier",
+        "Belgian_sheepdog",
+        "Brittany_spaniel",
+        "Chesapeake_Bay_retriever",
+        "Clydesdale_terrier",
+        "Dandie_Dinmont_terrier",
+        "English_springer_spaniel",
+        "Irish_terrier",
+        "Irish_wolfhound",
+        "Leonberg",
+        "Maltese_terrier",
+        "Old_English_sheepdog",
+        "Peke",
+        "Pekinese",
+        "Pekingese",
+        "Pomeranian",
+        "Scottish_deerhound",
+        "Scottish_terrier",
+        "Shetland_sheepdog",
+        "Shih-Tzu",
+        "Siberian_husky",
+        "Staffordshire_bull_terrier",
+        "Staffordshire_bullterrier",
+        "Staffordshire_terrier",
+        "Tasmanian_wolf",
+        "Tibetan_mastiff",
+        "Tibetan_terrier",
+        "Welsh_springer_spaniel",
+        "Welsh_terrier",
+        "Yorkshire_terrier",
+        "basset",
+        "beagle",
+        "black-and-tan_coonhound",
+        "bookshelf",
+        "briard",
+        "bull_terrier",
+        "collie",
+        "coonhound",
+        "doggie",
+        "doggy",
+        "elkhound",
+        "field_spaniel",
+        "flat-coated_retriever",
+        "housedog",
+        "husky",
+        "keeshond",
+        "lapdog",
+        "malamute",
+        "otterhound",
+        "pie-dog",
+        "pooch",
+        "puppy",
+        "rat_terrier",
+        "red_fox",
+        "silky_terrier",
+        "soft-coated_wheaten_terrier",
+        "spaniel",
+        "springer_spaniel",
+        "timber_wolf",
+        "toy_poodle",
+        "toy_terrier",
+        "water_spaniel",
+        "wire-haired_fox_terrier",
+        "wire-haired_terrier",
+        "wirehaired_terrier"
+      ]
+    },
+    {
+      "class_name": "Ibizan hound, Ibizan Podenco",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Indian cobra, Naja naja",
+      "selected_terms": [
+        "Anolis",
+        "Basiliscus",
+        "genus_Anolis",
+        "genus_Basiliscus"
+      ]
+    },
+    {
+      "class_name": "Indian elephant, Elephas maximus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Irish setter, red setter",
+      "selected_terms": [
+        "Gordon_setter"
+      ]
+    },
+    {
+      "class_name": "Irish terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Irish water spaniel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Irish wolfhound",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Italian greyhound",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Japanese spaniel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Kerry blue terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Labrador retriever",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Lakeland terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Leonberg",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Lhasa, Lhasa apso",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Loafer",
+      "selected_terms": [
+        "camper_trailer",
+        "tractor_trailer"
+      ]
+    },
+    {
+      "class_name": "Madagascar cat, ring-tailed lemur, Lemur catta",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Maltese dog, Maltese terrier, Maltese",
+      "selected_terms": [
+        "Venetian"
+      ]
+    },
+    {
+      "class_name": "Mexican hairless",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Model T",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Newfoundland, Newfoundland dog",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Norfolk terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Norwegian elkhound, elkhound",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Norwich terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Old English sheepdog, bobtail",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Pekinese, Pekingese, Peke",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Pembroke, Pembroke Welsh corgi",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Persian cat",
+      "selected_terms": [
+        "Abyssinian_cat",
+        "Angora_cat",
+        "Bengal_tiger",
+        "Burmese_cat",
+        "Persian_cat",
+        "Siamese_cat",
+        "Tasmanian_tiger",
+        "baby_buster",
+        "cheetah",
+        "civet_cat",
+        "domestic_cat",
+        "leopard",
+        "leopardess",
+        "liger",
+        "prescription_drug",
+        "sand_cat",
+        "snow_leopard",
+        "tachymeter",
+        "tent_caterpillar"
+      ]
+    },
+    {
+      "class_name": "Petri dish",
+      "selected_terms": [
+        "bean_tostada",
+        "belt_bag",
+        "chef's_salad",
+        "chicken_casserole",
+        "corned_beef_hash",
+        "crockery",
+        "dish_antenna",
+        "drawstring_bag",
+        "duffle_bag",
+        "garment_bag",
+        "macaroni_salad",
+        "shoulder_bag",
+        "solar_dish",
+        "sukiyaki",
+        "tabbouleh",
+        "tuna_salad",
+        "veal_scallopini"
+      ]
+    },
+    {
+      "class_name": "Polaroid camera, Polaroid Land camera",
+      "selected_terms": [
+        "Polaroid_Land_camera",
+        "Polaroid_camera",
+        "cine-camera"
+      ]
+    },
+    {
+      "class_name": "Pomeranian",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Rhodesian ridgeback",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Rottweiler",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Saint Bernard, St Bernard",
+      "selected_terms": [
+        "Walther_Richard_Rudolf_Hess"
+      ]
+    },
+    {
+      "class_name": "Saluki, gazelle hound",
+      "selected_terms": [
+        "Afghan_hound",
+        "African_hunting_dog",
+        "Bernese_mountain_dog",
+        "German_police_dog",
+        "German_shepherd_dog",
+        "Ibizan_hound",
+        "Shetland_sheep_dog",
+        "basset_hound",
+        "devil_dog",
+        "domestic_dog",
+        "poodle_dog",
+        "sledge_dog",
+        "sporting_dog",
+        "water_dog"
+      ]
+    },
+    {
+      "class_name": "Samoyed, Samoyede",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Scotch terrier, Scottish terrier, Scottie",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Scottish deerhound, deerhound",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Sealyham terrier, Sealyham",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Shetland sheepdog, Shetland sheep dog, Shetland",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Shih-Tzu",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Siamese cat, Siamese",
+      "selected_terms": [
+        "blue_point_Siamese"
+      ]
+    },
+    {
+      "class_name": "Siberian husky",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Staffordshire bullterrier, Staffordshire bull terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Sussex spaniel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Tibetan mastiff",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Tibetan terrier, chrysanthemum dog",
+      "selected_terms": [
+        "Alaskan_malamute",
+        "American_Staffordshire_terrier",
+        "American_pit_bull_terrier",
+        "American_water_spaniel",
+        "Arctic_fox",
+        "Arctic_wolf",
+        "Bedlington_terrier",
+        "Belgian_sheepdog",
+        "Brittany_spaniel",
+        "Chesapeake_Bay_retriever",
+        "Clydesdale_terrier",
+        "Dandie_Dinmont_terrier",
+        "English_springer_spaniel",
+        "Irish_terrier",
+        "Irish_wolfhound",
+        "Leonberg",
+        "Maltese_terrier",
+        "Old_English_sheepdog",
+        "Peke",
+        "Pekinese",
+        "Pekingese",
+        "Pomeranian",
+        "Scottish_deerhound",
+        "Scottish_terrier",
+        "Shetland_sheepdog",
+        "Shih-Tzu",
+        "Siberian_husky",
+        "Staffordshire_bull_terrier",
+        "Staffordshire_bullterrier",
+        "Staffordshire_terrier",
+        "Tasmanian_wolf",
+        "Tibetan_mastiff",
+        "Tibetan_terrier",
+        "Welsh_springer_spaniel",
+        "Welsh_terrier",
+        "Yorkshire_terrier",
+        "basset",
+        "beagle",
+        "black-and-tan_coonhound",
+        "bookshelf",
+        "briard",
+        "bull_terrier",
+        "collie",
+        "coonhound",
+        "doggie",
+        "doggy",
+        "elkhound",
+        "field_spaniel",
+        "flat-coated_retriever",
+        "housedog",
+        "husky",
+        "keeshond",
+        "lapdog",
+        "malamute",
+        "otterhound",
+        "pie-dog",
+        "pooch",
+        "puppy",
+        "rat_terrier",
+        "red_fox",
+        "silky_terrier",
+        "soft-coated_wheaten_terrier",
+        "spaniel",
+        "springer_spaniel",
+        "timber_wolf",
+        "toy_poodle",
+        "toy_terrier",
+        "water_spaniel",
+        "wire-haired_fox_terrier",
+        "wire-haired_terrier",
+        "wirehaired_terrier"
+      ]
+    },
+    {
+      "class_name": "Walker hound, Walker foxhound",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Weimaraner",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Welsh springer spaniel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "West Highland white terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Windsor tie",
+      "selected_terms": []
+    },
+    {
+      "class_name": "Yorkshire terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "abacus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "abaya",
+      "selected_terms": [
+        "abaya"
+      ]
+    },
+    {
+      "class_name": "academic gown, academic robe, judge's robe",
+      "selected_terms": [
+        "academic_gown",
+        "leotard"
+      ]
+    },
+    {
+      "class_name": "accordion, piano accordion, squeeze box",
+      "selected_terms": [
+        "chancel",
+        "dog_in_the_manger",
+        "mailbox",
+        "pencil_box"
+      ]
+    },
+    {
+      "class_name": "acorn",
+      "selected_terms": [
+        "crystallized_fruit",
+        "simple_fruit"
+      ]
+    },
+    {
+      "class_name": "acorn squash",
+      "selected_terms": [
+        "acorn_squash",
+        "spaghetti_squash",
+        "turban_squash"
+      ]
+    },
+    {
+      "class_name": "acoustic guitar",
+      "selected_terms": [
+        "shamisen"
+      ]
+    },
+    {
+      "class_name": "admiral",
+      "selected_terms": [
+        "Horatio_Herbert_Kitchener",
+        "guardsman",
+        "infantryman",
+        "man-at-arms"
+      ]
+    },
+    {
+      "class_name": "affenpinscher, monkey pinscher, monkey dog",
+      "selected_terms": []
+    },
+    {
+      "class_name": "agama",
+      "selected_terms": []
+    },
+    {
+      "class_name": "agaric",
+      "selected_terms": [
+        "jack-a-lantern",
+        "jack-o-lantern"
+      ]
+    },
+    {
+      "class_name": "aircraft carrier, carrier, flattop, attack aircraft carrier",
+      "selected_terms": [
+        "Barkley",
+        "Tutankhamen",
+        "aircraft_carrier",
+        "airline",
+        "armoured_personnel_carrier",
+        "authoress",
+        "bachelor_girl",
+        "ballet_mistress",
+        "busker",
+        "candied_citrus_peel",
+        "canoeist",
+        "chorus_girl",
+        "ciliated_protozoan",
+        "clumsy_person",
+        "division_Archaebacteria",
+        "elevator_girl",
+        "geisha_girl",
+        "gondolier",
+        "grapefruit_peel",
+        "mahout",
+        "parachutist",
+        "parvovirus",
+        "pedaler",
+        "planktonic_algae",
+        "pyromorphite",
+        "room_clerk",
+        "sleepyhead",
+        "slobberer",
+        "snow_thrower",
+        "street_girl"
+      ]
+    },
+    {
+      "class_name": "airliner",
+      "selected_terms": [
+        "airliner"
+      ]
+    },
+    {
+      "class_name": "airship, dirigible",
+      "selected_terms": [
+        "amphibious_aircraft",
+        "attack_aircraft",
+        "fighter_aircraft",
+        "narrowbody_aircraft"
+      ]
+    },
+    {
+      "class_name": "albatross, mollymawk",
+      "selected_terms": [
+        "arctic_skua",
+        "black-necked_grebe",
+        "emperor_penguin",
+        "king_penguin"
+      ]
+    },
+    {
+      "class_name": "alligator lizard",
+      "selected_terms": [
+        "Komodo_lizard",
+        "caiman_lizard",
+        "collared_lizard",
+        "earless_lizard",
+        "green_lizard",
+        "sagebrush_lizard",
+        "zebra-tailed_lizard"
+      ]
+    },
+    {
+      "class_name": "alp",
+      "selected_terms": [
+        "Tyrolean_Alps"
+      ]
+    },
+    {
+      "class_name": "altar",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ambulance",
+      "selected_terms": [
+        "ambulance"
+      ]
+    },
+    {
+      "class_name": "amphibian, amphibious vehicle",
+      "selected_terms": [
+        "armored_combat_vehicle",
+        "armoured_combat_vehicle"
+      ]
+    },
+    {
+      "class_name": "analog clock",
+      "selected_terms": [
+        "analog_clock",
+        "caesium_clock",
+        "longcase_clock",
+        "pendulum_clock"
+      ]
+    },
+    {
+      "class_name": "anemone fish",
+      "selected_terms": [
+        "anemone_fish",
+        "cichlid_fish",
+        "clown_anemone_fish",
+        "lake_trout"
+      ]
+    },
+    {
+      "class_name": "ant, emmet, pismire",
+      "selected_terms": [
+        "digger_wasp"
+      ]
+    },
+    {
+      "class_name": "apiary, bee house",
+      "selected_terms": [
+        "Battle_of_Monmouth_Court_House",
+        "Monmouth_Court_House",
+        "Reserve_Officers_Training_Corps",
+        "Venezuelan_monetary_unit",
+        "bedside",
+        "ctenophore_family",
+        "dog_show",
+        "dogbane_family",
+        "drunken_revelry",
+        "morris_dancing",
+        "pinball",
+        "square_dancing",
+        "vaudeville_theatre",
+        "wall_unit",
+        "winter's_bark_family"
+      ]
+    },
+    {
+      "class_name": "apron",
+      "selected_terms": []
+    },
+    {
+      "class_name": "armadillo",
+      "selected_terms": [
+        "nine-banded_armadillo"
+      ]
+    },
+    {
+      "class_name": "artichoke, globe artichoke",
+      "selected_terms": [
+        "cruciferous_vegetable"
+      ]
+    },
+    {
+      "class_name": "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",
+      "selected_terms": [
+        "dog_in_the_manger"
+      ]
+    },
+    {
+      "class_name": "assault rifle, assault gun",
+      "selected_terms": [
+        "Bofors_gun",
+        "Browning_machine_gun",
+        "Thompson_submachine_gun",
+        "antiaircraft_gun",
+        "bicycle_pump",
+        "gas_pump",
+        "kirpan",
+        "skeet_shooting",
+        "trapshooting",
+        "treadle"
+      ]
+    },
+    {
+      "class_name": "axolotl, mud puppy, Ambystoma mexicanum",
+      "selected_terms": []
+    },
+    {
+      "class_name": "baboon",
+      "selected_terms": [
+        "Cercopithecus_talapoin",
+        "chacma_baboon"
+      ]
+    },
+    {
+      "class_name": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+      "selected_terms": []
+    },
+    {
+      "class_name": "badger",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bagel, beigel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bakery, bakeshop, bakehouse",
+      "selected_terms": [
+        "cattle_farm"
+      ]
+    },
+    {
+      "class_name": "balance beam, beam",
+      "selected_terms": [
+        "cownose_ray"
+      ]
+    },
+    {
+      "class_name": "bald eagle, American eagle, Haliaeetus leucocephalus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "balloon",
+      "selected_terms": [
+        "amphibious_aircraft",
+        "attack_aircraft",
+        "fighter_aircraft",
+        "narrowbody_aircraft"
+      ]
+    },
+    {
+      "class_name": "ballplayer, baseball player",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ballpoint, ballpoint pen, ballpen, Biro",
+      "selected_terms": []
+    },
+    {
+      "class_name": "banana",
+      "selected_terms": []
+    },
+    {
+      "class_name": "banded gecko",
+      "selected_terms": [
+        "banded_gecko",
+        "fringed_gecko"
+      ]
+    },
+    {
+      "class_name": "banjo",
+      "selected_terms": [
+        "shamisen"
+      ]
+    },
+    {
+      "class_name": "bannister, banister, balustrade, balusters, handrail",
+      "selected_terms": []
+    },
+    {
+      "class_name": "barbell",
+      "selected_terms": []
+    },
+    {
+      "class_name": "barber chair",
+      "selected_terms": [
+        "garden_chair"
+      ]
+    },
+    {
+      "class_name": "barbershop",
+      "selected_terms": [
+        "barbershop"
+      ]
+    },
+    {
+      "class_name": "barn",
+      "selected_terms": [
+        "barn",
+        "cow_barn",
+        "horse_barn",
+        "kilogram_calorie"
+      ]
+    },
+    {
+      "class_name": "barn spider, Araneus cavaticus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "barometer",
+      "selected_terms": [
+        "barograph",
+        "microbalance",
+        "micrometer_caliper",
+        "micrometer_gauge",
+        "nephoscope",
+        "tachometer"
+      ]
+    },
+    {
+      "class_name": "barracouta, snoek",
+      "selected_terms": [
+        "lake_trout"
+      ]
+    },
+    {
+      "class_name": "barrel, cask",
+      "selected_terms": [
+        "rain_barrel"
+      ]
+    },
+    {
+      "class_name": "barrow, garden cart, lawn cart, wheelbarrow",
+      "selected_terms": []
+    },
+    {
+      "class_name": "baseball",
+      "selected_terms": [
+        "no-hitter",
+        "professional_baseball"
+      ]
+    },
+    {
+      "class_name": "basenji",
+      "selected_terms": []
+    },
+    {
+      "class_name": "basketball",
+      "selected_terms": [
+        "professional_basketball"
+      ]
+    },
+    {
+      "class_name": "basset, basset hound",
+      "selected_terms": [
+        "Afghan_hound",
+        "African_hunting_dog",
+        "Bernese_mountain_dog",
+        "German_police_dog",
+        "German_shepherd_dog",
+        "Ibizan_hound",
+        "Shetland_sheep_dog",
+        "basset_hound",
+        "devil_dog",
+        "domestic_dog",
+        "poodle_dog",
+        "sledge_dog",
+        "sporting_dog",
+        "water_dog"
+      ]
+    },
+    {
+      "class_name": "bassinet",
+      "selected_terms": [
+        "bassinet"
+      ]
+    },
+    {
+      "class_name": "bassoon",
+      "selected_terms": [
+        "contrabassoon"
+      ]
+    },
+    {
+      "class_name": "bath towel",
+      "selected_terms": [
+        "tea_towel"
+      ]
+    },
+    {
+      "class_name": "bathing cap, swimming cap",
+      "selected_terms": [
+        "cervical_cap",
+        "cortina",
+        "dolman_jacket",
+        "shop_floor"
+      ]
+    },
+    {
+      "class_name": "bathtub, bathing tub, bath, tub",
+      "selected_terms": []
+    },
+    {
+      "class_name": "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",
+      "selected_terms": [
+        "Conestoga_wagon",
+        "police_wagon",
+        "station_wagon"
+      ]
+    },
+    {
+      "class_name": "beacon, lighthouse, beacon light, pharos",
+      "selected_terms": []
+    },
+    {
+      "class_name": "beagle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "beaker",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bearskin, busby, shako",
+      "selected_terms": []
+    },
+    {
+      "class_name": "beaver",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bee",
+      "selected_terms": [
+        "digger_wasp"
+      ]
+    },
+    {
+      "class_name": "bee eater",
+      "selected_terms": [
+        "bee_eater"
+      ]
+    },
+    {
+      "class_name": "beer bottle",
+      "selected_terms": [
+        "Erlenmeyer_flask",
+        "beer_bottle"
+      ]
+    },
+    {
+      "class_name": "beer glass",
+      "selected_terms": [
+        "beer_glass",
+        "dog_in_the_manger",
+        "shabu"
+      ]
+    },
+    {
+      "class_name": "bell cote, bell cot",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bell pepper",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bib",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bicycle-built-for-two, tandem bicycle, tandem",
+      "selected_terms": [
+        "bicycle-built-for-two",
+        "gasoline_mileage"
+      ]
+    },
+    {
+      "class_name": "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bikini, two-piece",
+      "selected_terms": [
+        "Bikini",
+        "bikini",
+        "swimsuit",
+        "swimwear"
+      ]
+    },
+    {
+      "class_name": "binder, ring-binder",
+      "selected_terms": []
+    },
+    {
+      "class_name": "binoculars, field glasses, opera glasses",
+      "selected_terms": [
+        "beer_glass",
+        "shabu"
+      ]
+    },
+    {
+      "class_name": "birdhouse",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bison",
+      "selected_terms": [
+        "aoudad",
+        "mouflon"
+      ]
+    },
+    {
+      "class_name": "bittern",
+      "selected_terms": [
+        "boat-billed_heron",
+        "little_blue_heron",
+        "snowy_egret",
+        "snowy_heron"
+      ]
+    },
+    {
+      "class_name": "black and gold garden spider, Argiope aurantia",
+      "selected_terms": []
+    },
+    {
+      "class_name": "black grouse",
+      "selected_terms": [
+        "Asian_black_grouse",
+        "European_black_grouse",
+        "black_grouse",
+        "pin-tailed_grouse",
+        "ruffed_grouse",
+        "sharp-tailed_grouse"
+      ]
+    },
+    {
+      "class_name": "black stork, Ciconia nigra",
+      "selected_terms": []
+    },
+    {
+      "class_name": "black swan, Cygnus atratus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "black widow, Latrodectus mactans",
+      "selected_terms": []
+    },
+    {
+      "class_name": "black-and-tan coonhound",
+      "selected_terms": []
+    },
+    {
+      "class_name": "black-footed ferret, ferret, Mustela nigripes",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bloodhound, sleuthhound",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bluetick",
+      "selected_terms": []
+    },
+    {
+      "class_name": "boa constrictor, Constrictor constrictor",
+      "selected_terms": []
+    },
+    {
+      "class_name": "boathouse",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bobsled, bobsleigh, bob",
+      "selected_terms": [
+        "Chilean_peso",
+        "Colombian_peso"
+      ]
+    },
+    {
+      "class_name": "bolete",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bolo tie, bolo, bola tie, bola",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bonnet, poke bonnet",
+      "selected_terms": []
+    },
+    {
+      "class_name": "book jacket, dust cover, dust jacket, dust wrapper",
+      "selected_terms": [
+        "gift_wrap"
+      ]
+    },
+    {
+      "class_name": "bookcase",
+      "selected_terms": [
+        "bedroom_furniture",
+        "bookcase",
+        "credenza",
+        "wasp's_nest",
+        "wasps'_nest"
+      ]
+    },
+    {
+      "class_name": "bookshop, bookstore, bookstall",
+      "selected_terms": [
+        "bookshop",
+        "bookstall",
+        "bookstore"
+      ]
+    },
+    {
+      "class_name": "borzoi, Russian wolfhound",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bottlecap",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bow",
+      "selected_terms": [
+        "fetch",
+        "graffiti",
+        "kirpan",
+        "shopfront",
+        "storefront"
+      ]
+    },
+    {
+      "class_name": "bow tie, bow-tie, bowtie",
+      "selected_terms": []
+    },
+    {
+      "class_name": "box turtle, box tortoise",
+      "selected_terms": [
+        "gopher_tortoise"
+      ]
+    },
+    {
+      "class_name": "boxer",
+      "selected_terms": [
+        "room_clerk"
+      ]
+    },
+    {
+      "class_name": "brain coral",
+      "selected_terms": [
+        "mushroom_coral",
+        "seafood",
+        "staghorn_coral"
+      ]
+    },
+    {
+      "class_name": "brambling, Fringilla montifringilla",
+      "selected_terms": []
+    },
+    {
+      "class_name": "brass, memorial tablet, plaque",
+      "selected_terms": [
+        "gravestone",
+        "headstone",
+        "plaque"
+      ]
+    },
+    {
+      "class_name": "brassiere, bra, bandeau",
+      "selected_terms": [
+        "teddy"
+      ]
+    },
+    {
+      "class_name": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+      "selected_terms": [
+        "breakwater",
+        "groyne",
+        "jetty",
+        "seawall"
+      ]
+    },
+    {
+      "class_name": "breastplate, aegis, egis",
+      "selected_terms": [
+        "sailor's_breastplate"
+      ]
+    },
+    {
+      "class_name": "briard",
+      "selected_terms": []
+    },
+    {
+      "class_name": "broccoli",
+      "selected_terms": []
+    },
+    {
+      "class_name": "broom",
+      "selected_terms": []
+    },
+    {
+      "class_name": "brown bear, bruin, Ursus arctos",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bubble",
+      "selected_terms": [
+        "dodge"
+      ]
+    },
+    {
+      "class_name": "bucket, pail",
+      "selected_terms": []
+    },
+    {
+      "class_name": "buckeye, horse chestnut, conker",
+      "selected_terms": []
+    },
+    {
+      "class_name": "buckle",
+      "selected_terms": [
+        "sash_fastener",
+        "slide_fastener",
+        "zip_fastener"
+      ]
+    },
+    {
+      "class_name": "bulbul",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bull mastiff",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bullet train, bullet",
+      "selected_terms": [
+        "bullet_train",
+        "commuter_train",
+        "concert_pitch",
+        "electric_heater",
+        "freight_train",
+        "gas_heater",
+        "hot-water_heater",
+        "oil_heater"
+      ]
+    },
+    {
+      "class_name": "bulletproof vest",
+      "selected_terms": [
+        "leotard",
+        "teddy"
+      ]
+    },
+    {
+      "class_name": "bullfrog, Rana catesbeiana",
+      "selected_terms": []
+    },
+    {
+      "class_name": "burrito",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bustard",
+      "selected_terms": [
+        "bustard"
+      ]
+    },
+    {
+      "class_name": "butcher shop, meat market",
+      "selected_terms": [
+        "drumming",
+        "farmer's_market",
+        "food_market",
+        "gambling_hell",
+        "graduation",
+        "greenmarket",
+        "marriage_ceremony",
+        "solemnization",
+        "souk",
+        "tea_ceremony",
+        "trucking_industry",
+        "venipuncture",
+        "wedding_ceremony",
+        "wine_tasting"
+      ]
+    },
+    {
+      "class_name": "butternut squash",
+      "selected_terms": [
+        "acorn_squash",
+        "spaghetti_squash",
+        "turban_squash"
+      ]
+    },
+    {
+      "class_name": "cab, hack, taxi, taxicab",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cabbage butterfly",
+      "selected_terms": [
+        "hairstreak_butterfly",
+        "sulphur_butterfly",
+        "tapestry_moth"
+      ]
+    },
+    {
+      "class_name": "cairn, cairn terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "caldron, cauldron",
+      "selected_terms": []
+    },
+    {
+      "class_name": "can opener, tin opener",
+      "selected_terms": [
+        "adjustable_wrench",
+        "crosscut_handsaw"
+      ]
+    },
+    {
+      "class_name": "candle, taper, wax light",
+      "selected_terms": [
+        "geothermal_energy",
+        "nanocephaly",
+        "pocket_lighter",
+        "room_light",
+        "torque_converter"
+      ]
+    },
+    {
+      "class_name": "cannon",
+      "selected_terms": [
+        "backhand_stroke",
+        "forehand",
+        "forehand_stroke",
+        "two-handed_backhand"
+      ]
+    },
+    {
+      "class_name": "canoe",
+      "selected_terms": [
+        "birchbark_canoe",
+        "kayak",
+        "outrigger_canoe"
+      ]
+    },
+    {
+      "class_name": "capuchin, ringtail, Cebus capucinus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "car mirror",
+      "selected_terms": [
+        "pier_mirror"
+      ]
+    },
+    {
+      "class_name": "car wheel",
+      "selected_terms": [
+        "United_States_Army_Special_Forces",
+        "all-terrain_bike",
+        "analytical_balance",
+        "bike",
+        "dish_rack",
+        "mountain_bike",
+        "push-bike",
+        "safety_bike",
+        "tandem_bicycle"
+      ]
+    },
+    {
+      "class_name": "carbonara",
+      "selected_terms": [
+        "Lyonnaise_sauce",
+        "boeuf_fondu_bourguignon",
+        "bourguignon_sauce"
+      ]
+    },
+    {
+      "class_name": "cardigan",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cardoon",
+      "selected_terms": [
+        "cruciferous_vegetable"
+      ]
+    },
+    {
+      "class_name": "carousel, carrousel, merry-go-round, roundabout, whirligig",
+      "selected_terms": []
+    },
+    {
+      "class_name": "carpenter's kit, tool kit",
+      "selected_terms": [
+        "pup",
+        "rack_of_lamb",
+        "roast_lamb",
+        "saddle_of_lamb",
+        "sewing_kit",
+        "toilet_kit",
+        "wolf_pup"
+      ]
+    },
+    {
+      "class_name": "carton",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",
+      "selected_terms": [
+        "kilogram_calorie"
+      ]
+    },
+    {
+      "class_name": "cassette",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cassette player",
+      "selected_terms": [
+        "Walther_Richard_Rudolf_Hess",
+        "accordionist",
+        "bar-room_plant",
+        "bassoonist",
+        "breadfruit_tree",
+        "carillonneur",
+        "cassette_player",
+        "clarinettist",
+        "guitar_player",
+        "koto_player",
+        "mangosteen_tree",
+        "musician",
+        "pomegranate_tree",
+        "quandong_tree",
+        "standup_comedian",
+        "sweet_corn_plant",
+        "trombone_player",
+        "volleyball_player",
+        "wild_medlar_tree",
+        "winter_squash_plant"
+      ]
+    },
+    {
+      "class_name": "castle",
+      "selected_terms": [
+        "Buckingham_Palace",
+        "Marguerite_Radclyffe_Hall",
+        "Tuileries_Palace",
+        "palace"
+      ]
+    },
+    {
+      "class_name": "catamaran",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cauliflower",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cello, violoncello",
+      "selected_terms": [
+        "contrabass"
+      ]
+    },
+    {
+      "class_name": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+      "selected_terms": [
+        "Mayan_language",
+        "cellular_phone",
+        "desk_phone",
+        "extension_phone",
+        "handset",
+        "jail_cell",
+        "orinasal_phone",
+        "prison_cell"
+      ]
+    },
+    {
+      "class_name": "centipede",
+      "selected_terms": []
+    },
+    {
+      "class_name": "chain",
+      "selected_terms": [
+        "barbed_wire",
+        "geometric_series"
+      ]
+    },
+    {
+      "class_name": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",
+      "selected_terms": [
+        "United_States_Army_Special_Forces",
+        "plate_armor",
+        "plate_armour",
+        "ring_armour",
+        "suit_of_armor"
+      ]
+    },
+    {
+      "class_name": "chain saw, chainsaw",
+      "selected_terms": [
+        "portable_circular_saw"
+      ]
+    },
+    {
+      "class_name": "chainlink fence",
+      "selected_terms": [
+        "pitchman"
+      ]
+    },
+    {
+      "class_name": "chambered nautilus, pearly nautilus, nautilus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cheeseburger",
+      "selected_terms": [
+        "Burger",
+        "burger",
+        "cheeseburger"
+      ]
+    },
+    {
+      "class_name": "cheetah, chetah, Acinonyx jubatus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "chest",
+      "selected_terms": [
+        "bedroom_furniture",
+        "credenza",
+        "pyx_chest",
+        "wasp's_nest",
+        "wasps'_nest"
+      ]
+    },
+    {
+      "class_name": "chickadee",
+      "selected_terms": []
+    },
+    {
+      "class_name": "chiffonier, commode",
+      "selected_terms": [
+        "bathroom_fixture",
+        "hot_pot",
+        "watering_can",
+        "watering_pot"
+      ]
+    },
+    {
+      "class_name": "chime, bell, gong",
+      "selected_terms": [
+        "castanets"
+      ]
+    },
+    {
+      "class_name": "chimpanzee, chimp, Pan troglodytes",
+      "selected_terms": []
+    },
+    {
+      "class_name": "china cabinet, china closet",
+      "selected_terms": [
+        "airing_cupboard",
+        "bedroom_furniture",
+        "credenza",
+        "cupboard",
+        "greenroom",
+        "kitchenette",
+        "master_bedroom",
+        "poolroom",
+        "wasp's_nest",
+        "wasps'_nest"
+      ]
+    },
+    {
+      "class_name": "chiton, coat-of-mail shell, sea cradle, polyplacophore",
+      "selected_terms": []
+    },
+    {
+      "class_name": "chocolate sauce, chocolate syrup",
+      "selected_terms": []
+    },
+    {
+      "class_name": "chow, chow chow",
+      "selected_terms": []
+    },
+    {
+      "class_name": "church, church building",
+      "selected_terms": [
+        "Greco-Roman_architecture",
+        "Roman_architecture",
+        "Roman_basilica",
+        "Roman_building",
+        "bedroom_suite",
+        "beekeeping",
+        "caravanserai",
+        "cattle_breeding",
+        "church_building",
+        "decoupage",
+        "diningroom_suite",
+        "livingroom_suite",
+        "novelisation",
+        "novelization",
+        "packaging",
+        "psychiatric_hospital",
+        "trucking"
+      ]
+    },
+    {
+      "class_name": "cicada, cicala",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cinema, movie theater, movie theatre, movie house, picture palace",
+      "selected_terms": [
+        "Buckingham_Palace",
+        "Marguerite_Radclyffe_Hall",
+        "Tuileries_Palace",
+        "palace"
+      ]
+    },
+    {
+      "class_name": "cleaver, meat cleaver, chopper",
+      "selected_terms": [
+        "amphibious_aircraft",
+        "attack_aircraft",
+        "fighter_aircraft",
+        "narrowbody_aircraft",
+        "trench_knife"
+      ]
+    },
+    {
+      "class_name": "cliff dwelling",
+      "selected_terms": [
+        "cliff_dwelling",
+        "gatehouse"
+      ]
+    },
+    {
+      "class_name": "cliff, drop, drop-off",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cloak",
+      "selected_terms": []
+    },
+    {
+      "class_name": "clog, geta, patten, sabot",
+      "selected_terms": [
+        "footwear"
+      ]
+    },
+    {
+      "class_name": "clumber, clumber spaniel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cock",
+      "selected_terms": [
+        "cockerel",
+        "rooster"
+      ]
+    },
+    {
+      "class_name": "cocker spaniel, English cocker spaniel, cocker",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cockroach, roach",
+      "selected_terms": [
+        "killifish",
+        "loach"
+      ]
+    },
+    {
+      "class_name": "cocktail shaker",
+      "selected_terms": []
+    },
+    {
+      "class_name": "coffee mug",
+      "selected_terms": [
+        "black-backed_gull",
+        "laughing_gull",
+        "toby"
+      ]
+    },
+    {
+      "class_name": "coffeepot",
+      "selected_terms": []
+    },
+    {
+      "class_name": "coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",
+      "selected_terms": []
+    },
+    {
+      "class_name": "coil, spiral, volute, whorl, helix",
+      "selected_terms": [
+        "ignition_coil"
+      ]
+    },
+    {
+      "class_name": "collie",
+      "selected_terms": []
+    },
+    {
+      "class_name": "colobus, colobus monkey",
+      "selected_terms": [
+        "bonnet_monkey",
+        "colobus_monkey",
+        "genus_Lemur",
+        "guenon_monkey",
+        "howler_monkey",
+        "preschooler",
+        "ring-tailed_lemur",
+        "titi_monkey",
+        "toddler",
+        "vervet_monkey",
+        "woolly_monkey"
+      ]
+    },
+    {
+      "class_name": "combination lock",
+      "selected_terms": [
+        "combination_lock",
+        "cylinder_lock",
+        "lever_lock",
+        "sash_fastener",
+        "sash_lock",
+        "slide_fastener",
+        "zip_fastener"
+      ]
+    },
+    {
+      "class_name": "comic book",
+      "selected_terms": [
+        "comic_book",
+        "desk_dictionary",
+        "percussion_section"
+      ]
+    },
+    {
+      "class_name": "common iguana, iguana, Iguana iguana",
+      "selected_terms": [
+        "marine_iguana"
+      ]
+    },
+    {
+      "class_name": "common newt, Triturus vulgaris",
+      "selected_terms": []
+    },
+    {
+      "class_name": "computer keyboard, keypad",
+      "selected_terms": []
+    },
+    {
+      "class_name": "conch",
+      "selected_terms": []
+    },
+    {
+      "class_name": "confectionery, confectionary, candy store",
+      "selected_terms": [
+        "drugstore",
+        "film_making",
+        "food_shop",
+        "haberdashery",
+        "movie_making",
+        "nickel-cadmium_accumulator",
+        "novelty_shop",
+        "postbox",
+        "tobacconist_shop"
+      ]
+    },
+    {
+      "class_name": "consomme",
+      "selected_terms": [
+        "oxtail_soup"
+      ]
+    },
+    {
+      "class_name": "container ship, containership, container vessel",
+      "selected_terms": [
+        "artesian_well",
+        "container_vessel",
+        "double_boiler",
+        "monstrance",
+        "racing_yacht",
+        "sailing_vessel",
+        "stockpot"
+      ]
+    },
+    {
+      "class_name": "convertible",
+      "selected_terms": [
+        "convertible"
+      ]
+    },
+    {
+      "class_name": "coral fungus",
+      "selected_terms": [
+        "Barkley",
+        "Tutankhamen",
+        "authoress",
+        "bachelor_girl",
+        "ballet_mistress",
+        "bird's-nest_fungus",
+        "busker",
+        "canoeist",
+        "chorus_girl",
+        "ciliated_protozoan",
+        "clumsy_person",
+        "division_Archaebacteria",
+        "elevator_girl",
+        "geisha_girl",
+        "genus_Lecanora",
+        "gondolier",
+        "mahout",
+        "parachutist",
+        "parvovirus",
+        "pedaler",
+        "planktonic_algae",
+        "sleepyhead",
+        "slobberer",
+        "snow_thrower",
+        "street_girl",
+        "top_fermenting_yeast"
+      ]
+    },
+    {
+      "class_name": "coral reef",
+      "selected_terms": [
+        "typewriter_ribbon"
+      ]
+    },
+    {
+      "class_name": "corkscrew, bottle screw",
+      "selected_terms": [
+        "United_States_Army_Rangers",
+        "machine_screw",
+        "sash_fastener",
+        "slide_fastener",
+        "zip_fastener"
+      ]
+    },
+    {
+      "class_name": "corn",
+      "selected_terms": [
+        "corn",
+        "edible_corn"
+      ]
+    },
+    {
+      "class_name": "cornet, horn, trumpet, trump",
+      "selected_terms": []
+    },
+    {
+      "class_name": "coucal",
+      "selected_terms": [
+        "turaco"
+      ]
+    },
+    {
+      "class_name": "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cowboy boot",
+      "selected_terms": [
+        "child_abuse",
+        "footwear"
+      ]
+    },
+    {
+      "class_name": "cowboy hat, ten-gallon hat",
+      "selected_terms": []
+    },
+    {
+      "class_name": "coyote, prairie wolf, brush wolf, Canis latrans",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cradle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "crane",
+      "selected_terms": [
+        "black-necked_stork",
+        "limpkin",
+        "marabou_stork",
+        "openbill",
+        "swamphen",
+        "wood_stork"
+      ]
+    },
+    {
+      "class_name": "crash helmet",
+      "selected_terms": []
+    },
+    {
+      "class_name": "crate",
+      "selected_terms": []
+    },
+    {
+      "class_name": "crayfish, crawfish, crawdad, crawdaddy",
+      "selected_terms": [
+        "American_crayfish",
+        "branchiopod_crustacean",
+        "crayfish"
+      ]
+    },
+    {
+      "class_name": "crib, cot",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cricket",
+      "selected_terms": [
+        "mole_cricket",
+        "tree_cricket"
+      ]
+    },
+    {
+      "class_name": "croquet ball",
+      "selected_terms": [
+        "concert_dance",
+        "concert_pitch",
+        "croquet_ball",
+        "field_hockey_ball",
+        "forehand_shot",
+        "foul_ball",
+        "golf_ball",
+        "jump_ball",
+        "morris_dance",
+        "polo_ball",
+        "rugby_football",
+        "soccer_ball"
+      ]
+    },
+    {
+      "class_name": "crossword puzzle, crossword",
+      "selected_terms": [
+        "crossword"
+      ]
+    },
+    {
+      "class_name": "crutch",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cucumber, cuke",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cuirass",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cup",
+      "selected_terms": [
+        "crockery",
+        "manhole",
+        "measuring_cup"
+      ]
+    },
+    {
+      "class_name": "curly-coated retriever",
+      "selected_terms": []
+    },
+    {
+      "class_name": "custard apple",
+      "selected_terms": []
+    },
+    {
+      "class_name": "daisy",
+      "selected_terms": [
+        "florist's_chrysanthemum",
+        "florists'_chrysanthemum",
+        "genus_Pleurothallis",
+        "pincushion_flower",
+        "pleurothallis",
+        "prairie_coneflower"
+      ]
+    },
+    {
+      "class_name": "dalmatian, coach dog, carriage dog",
+      "selected_terms": []
+    },
+    {
+      "class_name": "dam, dike, dyke",
+      "selected_terms": [
+        "dam"
+      ]
+    },
+    {
+      "class_name": "damselfly",
+      "selected_terms": [
+        "damselfly",
+        "dragonfly"
+      ]
+    },
+    {
+      "class_name": "desk",
+      "selected_terms": [
+        "desk"
+      ]
+    },
+    {
+      "class_name": "desktop computer",
+      "selected_terms": [
+        "briefcase_computer",
+        "desktop_computer",
+        "laptop_computer",
+        "portable_computer"
+      ]
+    },
+    {
+      "class_name": "dhole, Cuon alpinus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "dial telephone, dial phone",
+      "selected_terms": [
+        "Mayan_language",
+        "cellular_phone",
+        "desk_phone",
+        "extension_phone",
+        "handset",
+        "jail_cell",
+        "orinasal_phone",
+        "prison_cell"
+      ]
+    },
+    {
+      "class_name": "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "diaper, nappy, napkin",
+      "selected_terms": [
+        "leotard"
+      ]
+    },
+    {
+      "class_name": "digital clock",
+      "selected_terms": [
+        "analog_clock",
+        "caesium_clock",
+        "longcase_clock",
+        "pendulum_clock"
+      ]
+    },
+    {
+      "class_name": "digital watch",
+      "selected_terms": [
+        "1930s",
+        "1940s",
+        "1950s",
+        "1960s",
+        "analog_watch",
+        "cat_sleep",
+        "church_festival",
+        "digital_watch",
+        "dog_days",
+        "dogwatch",
+        "wedding_anniversary",
+        "wrist_watch",
+        "wristwatch"
+      ]
+    },
+    {
+      "class_name": "dingo, warrigal, warragal, Canis dingo",
+      "selected_terms": [
+        "dhole"
+      ]
+    },
+    {
+      "class_name": "dining table, board",
+      "selected_terms": [
+        "electrolytic_capacitor",
+        "highboard",
+        "liquid_metal_reactor",
+        "panchayet"
+      ]
+    },
+    {
+      "class_name": "dishrag, dishcloth",
+      "selected_terms": []
+    },
+    {
+      "class_name": "dishwasher, dish washer, dishwashing machine",
+      "selected_terms": [
+        "Central_Intelligence_Machinery",
+        "armoured_car",
+        "coastguard",
+        "estate_car",
+        "handloom",
+        "hearse",
+        "hot-rod",
+        "motorcar",
+        "passenger_car",
+        "patrol_car",
+        "police_car",
+        "police_cruiser",
+        "powder_compact",
+        "race_car",
+        "racing_car",
+        "ratch",
+        "roadster",
+        "threshing_machine",
+        "torque_converter",
+        "vending_machine"
+      ]
+    },
+    {
+      "class_name": "disk brake, disc brake",
+      "selected_terms": [
+        "adder's_tongue_fern"
+      ]
+    },
+    {
+      "class_name": "dock, dockage, docking facility",
+      "selected_terms": [
+        "arboretum",
+        "child_welfare_service",
+        "train_station"
+      ]
+    },
+    {
+      "class_name": "dogsled, dog sled, dog sleigh",
+      "selected_terms": [
+        "dog_sled"
+      ]
+    },
+    {
+      "class_name": "dome",
+      "selected_terms": []
+    },
+    {
+      "class_name": "doormat, welcome mat",
+      "selected_terms": [
+        "prayer_rug"
+      ]
+    },
+    {
+      "class_name": "dough",
+      "selected_terms": [
+        "cracked-wheat_bread",
+        "kaffir_bread",
+        "skillet_bread",
+        "stuffed_cabbage",
+        "twice-baked_bread"
+      ]
+    },
+    {
+      "class_name": "dowitcher",
+      "selected_terms": [
+        "black_turnstone",
+        "jacksnipe",
+        "oystercatcher",
+        "stilt_plover",
+        "stone_curlew",
+        "thick-knee",
+        "turnstone"
+      ]
+    },
+    {
+      "class_name": "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",
+      "selected_terms": [
+        "European_sea_eagle",
+        "Kamchatkan_sea_eagle",
+        "Montagu's_harrier",
+        "bald_eagle",
+        "barred_owl",
+        "fishing_eagle",
+        "great_grey_owl",
+        "long-eared_owl",
+        "marsh_harrier",
+        "mortarboard",
+        "northern_harrier",
+        "scops_owl",
+        "tawny_owl",
+        "white-tailed_sea_eagle"
+      ]
+    },
+    {
+      "class_name": "drake",
+      "selected_terms": [
+        "lesser_scaup",
+        "lesser_scaup_duck",
+        "scaup_duck"
+      ]
+    },
+    {
+      "class_name": "drilling platform, offshore rig",
+      "selected_terms": [
+        "cabriolet",
+        "hackney_carriage",
+        "horseless_carriage",
+        "offshore_rig",
+        "swimming_costume",
+        "tackle",
+        "trucking_rig"
+      ]
+    },
+    {
+      "class_name": "drum, membranophone, tympan",
+      "selected_terms": [
+        "castanets"
+      ]
+    },
+    {
+      "class_name": "drumstick",
+      "selected_terms": []
+    },
+    {
+      "class_name": "dugong, Dugong dugon",
+      "selected_terms": []
+    },
+    {
+      "class_name": "dumbbell",
+      "selected_terms": []
+    },
+    {
+      "class_name": "dung beetle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ear, spike, capitulum",
+      "selected_terms": [
+        "crystallized_fruit",
+        "simple_fruit"
+      ]
+    },
+    {
+      "class_name": "earthstar",
+      "selected_terms": []
+    },
+    {
+      "class_name": "echidna, spiny anteater, anteater",
+      "selected_terms": [
+        "African_elephant",
+        "Indian_elephant",
+        "echidna",
+        "mastodont",
+        "tamandua"
+      ]
+    },
+    {
+      "class_name": "eel",
+      "selected_terms": [
+        "deepwater_pipefish",
+        "dwarf_pipefish",
+        "pipefish"
+      ]
+    },
+    {
+      "class_name": "eft",
+      "selected_terms": [
+        "European_fire_salamander",
+        "axolotl",
+        "fire_salamander",
+        "spotted_salamander"
+      ]
+    },
+    {
+      "class_name": "eggnog",
+      "selected_terms": []
+    },
+    {
+      "class_name": "electric fan, blower",
+      "selected_terms": [
+        "beaked_whale",
+        "bowhead_whale",
+        "humpback_whale",
+        "pilot_whale",
+        "torque_converter"
+      ]
+    },
+    {
+      "class_name": "electric guitar",
+      "selected_terms": [
+        "shamisen"
+      ]
+    },
+    {
+      "class_name": "electric locomotive",
+      "selected_terms": [
+        "Wankel_rotary_engine",
+        "diesel-electric_locomotive",
+        "diesel-hydraulic_locomotive",
+        "diesel_locomotive",
+        "electric_locomotive",
+        "railway_locomotive",
+        "rotary_engine",
+        "traction_engine"
+      ]
+    },
+    {
+      "class_name": "electric ray, crampfish, numbfish, torpedo",
+      "selected_terms": [
+        "fleet_ballistic_missile_submarine",
+        "guitarfish"
+      ]
+    },
+    {
+      "class_name": "entertainment center",
+      "selected_terms": [
+        "Mildred_Ella_Didrikson_Zaharias",
+        "Sinai_Desert",
+        "Thar_Desert",
+        "Turkestan_Desert",
+        "Western_Sahara",
+        "brotherly_love",
+        "fondant",
+        "gymnast",
+        "puppy_love",
+        "railyard"
+      ]
+    },
+    {
+      "class_name": "envelope",
+      "selected_terms": [
+        "floral_envelope"
+      ]
+    },
+    {
+      "class_name": "espresso",
+      "selected_terms": [
+        "Turkish_coffee",
+        "cappuccino_coffee",
+        "coffee_cappuccino",
+        "drip_coffee",
+        "instant_coffee"
+      ]
+    },
+    {
+      "class_name": "espresso maker",
+      "selected_terms": [
+        "Steinway"
+      ]
+    },
+    {
+      "class_name": "face powder",
+      "selected_terms": [
+        "anticoagulant_medication",
+        "lipid-lowering_medication",
+        "patent_medicine",
+        "pharmaceutical"
+      ]
+    },
+    {
+      "class_name": "feather boa, boa",
+      "selected_terms": [
+        "rosy_boa"
+      ]
+    },
+    {
+      "class_name": "fiddler crab",
+      "selected_terms": [
+        "European_spider_crab",
+        "auto_racing",
+        "boat_racing",
+        "branchiopod_crustacean",
+        "car_racing",
+        "cherrystone_clam",
+        "cross-country_skiing",
+        "dune_cycling",
+        "hydroplane_racing",
+        "seafood",
+        "sledding",
+        "snorkeling",
+        "water_sport"
+      ]
+    },
+    {
+      "class_name": "fig",
+      "selected_terms": []
+    },
+    {
+      "class_name": "file, file cabinet, filing cabinet",
+      "selected_terms": [
+        "kitchen_cabinet"
+      ]
+    },
+    {
+      "class_name": "fire engine, fire truck",
+      "selected_terms": [
+        "Segway_Human_Transporter",
+        "fire_truck",
+        "garbage_truck",
+        "hearse",
+        "ladder_truck",
+        "tipper_truck",
+        "tow_truck"
+      ]
+    },
+    {
+      "class_name": "fire screen, fireguard",
+      "selected_terms": [
+        "wheatfield"
+      ]
+    },
+    {
+      "class_name": "fireboat",
+      "selected_terms": [
+        "fireboat",
+        "pilot_boat"
+      ]
+    },
+    {
+      "class_name": "flagpole, flagstaff",
+      "selected_terms": [
+        "Plymouth",
+        "flagpole"
+      ]
+    },
+    {
+      "class_name": "flamingo",
+      "selected_terms": [
+        "black-necked_stork",
+        "flamingo",
+        "limpkin",
+        "marabou_stork",
+        "openbill",
+        "swamphen",
+        "wood_stork"
+      ]
+    },
+    {
+      "class_name": "flat-coated retriever",
+      "selected_terms": []
+    },
+    {
+      "class_name": "flatworm, platyhelminth",
+      "selected_terms": []
+    },
+    {
+      "class_name": "flute, transverse flute",
+      "selected_terms": [
+        "Bristol_Channel"
+      ]
+    },
+    {
+      "class_name": "fly",
+      "selected_terms": [
+        "greenbottle_fly",
+        "robber_fly"
+      ]
+    },
+    {
+      "class_name": "folding chair",
+      "selected_terms": [
+        "garden_chair"
+      ]
+    },
+    {
+      "class_name": "football helmet",
+      "selected_terms": []
+    },
+    {
+      "class_name": "forklift",
+      "selected_terms": []
+    },
+    {
+      "class_name": "fountain",
+      "selected_terms": [
+        "bathroom_fixture"
+      ]
+    },
+    {
+      "class_name": "fountain pen",
+      "selected_terms": [
+        "Dachau",
+        "jailhouse"
+      ]
+    },
+    {
+      "class_name": "four-poster",
+      "selected_terms": []
+    },
+    {
+      "class_name": "fox squirrel, eastern fox squirrel, Sciurus niger",
+      "selected_terms": [
+        "Anglia",
+        "Lake_Malawi"
+      ]
+    },
+    {
+      "class_name": "freight car",
+      "selected_terms": [
+        "armoured_car",
+        "estate_car",
+        "hearse",
+        "hot-rod",
+        "motorcar",
+        "passenger_car",
+        "patrol_car",
+        "police_car",
+        "police_cruiser",
+        "powder_compact",
+        "race_car",
+        "racing_car",
+        "roadster",
+        "threshing_machine",
+        "vending_machine"
+      ]
+    },
+    {
+      "class_name": "frilled lizard, Chlamydosaurus kingi",
+      "selected_terms": []
+    },
+    {
+      "class_name": "frying pan, frypan, skillet",
+      "selected_terms": [
+        "cooking_pan"
+      ]
+    },
+    {
+      "class_name": "fur coat",
+      "selected_terms": [
+        "hooded_seal"
+      ]
+    },
+    {
+      "class_name": "gar, garfish, garpike, billfish, Lepisosteus osseus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "garbage truck, dustcart",
+      "selected_terms": []
+    },
+    {
+      "class_name": "garden spider, Aranea diademata",
+      "selected_terms": []
+    },
+    {
+      "class_name": "garter snake, grass snake",
+      "selected_terms": [
+        "Arno_River",
+        "River_Thames",
+        "Yellowstone",
+        "coachwhip_snake",
+        "common_garter_snake",
+        "gopher_snake",
+        "hognose_snake",
+        "ring-necked_snake",
+        "ringneck_snake"
+      ]
+    },
+    {
+      "class_name": "gas pump, gasoline pump, petrol pump, island dispenser",
+      "selected_terms": [
+        "businesswoman",
+        "cash_dispenser",
+        "soap_dispenser"
+      ]
+    },
+    {
+      "class_name": "gasmask, respirator, gas helmet",
+      "selected_terms": []
+    },
+    {
+      "class_name": "gazelle",
+      "selected_terms": [
+        "gemsbok",
+        "pronghorn_antelope",
+        "sable_antelope",
+        "waterbuck"
+      ]
+    },
+    {
+      "class_name": "geyser",
+      "selected_terms": [
+        "geyser"
+      ]
+    },
+    {
+      "class_name": "giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",
+      "selected_terms": []
+    },
+    {
+      "class_name": "giant schnauzer",
+      "selected_terms": []
+    },
+    {
+      "class_name": "gibbon, Hylobates lar",
+      "selected_terms": []
+    },
+    {
+      "class_name": "go-kart",
+      "selected_terms": []
+    },
+    {
+      "class_name": "goblet",
+      "selected_terms": []
+    },
+    {
+      "class_name": "golden retriever",
+      "selected_terms": []
+    },
+    {
+      "class_name": "goldfinch, Carduelis carduelis",
+      "selected_terms": []
+    },
+    {
+      "class_name": "goldfish, Carassius auratus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "golf ball",
+      "selected_terms": [
+        "concert_dance",
+        "concert_pitch",
+        "croquet_ball",
+        "field_hockey_ball",
+        "forehand_shot",
+        "foul_ball",
+        "golf_ball",
+        "jump_ball",
+        "morris_dance",
+        "polo_ball",
+        "rugby_football",
+        "soccer_ball"
+      ]
+    },
+    {
+      "class_name": "golfcart, golf cart",
+      "selected_terms": [
+        "donkey_cart"
+      ]
+    },
+    {
+      "class_name": "gondola",
+      "selected_terms": [
+        "armoured_car",
+        "boxcar",
+        "boxcars",
+        "estate_car",
+        "passenger_car",
+        "patrol_car",
+        "pilot_boat",
+        "police_car",
+        "race_car",
+        "racing_car"
+      ]
+    },
+    {
+      "class_name": "gong, tam-tam",
+      "selected_terms": [
+        "castanets"
+      ]
+    },
+    {
+      "class_name": "goose",
+      "selected_terms": [
+        "black-billed_cuckoo",
+        "horned_screamer"
+      ]
+    },
+    {
+      "class_name": "gorilla, Gorilla gorilla",
+      "selected_terms": [
+        "bonobo",
+        "eastern_lowland_gorilla",
+        "mountain_gorilla",
+        "siamang",
+        "western_lowland_gorilla"
+      ]
+    },
+    {
+      "class_name": "gown",
+      "selected_terms": [
+        "academic_gown",
+        "coatdress",
+        "lingerie",
+        "shirtdress"
+      ]
+    },
+    {
+      "class_name": "grand piano, grand",
+      "selected_terms": [
+        "rope_yard"
+      ]
+    },
+    {
+      "class_name": "grasshopper, hopper",
+      "selected_terms": [
+        "Mildred_Ella_Didrikson_Zaharias",
+        "chamberpot",
+        "gymnast",
+        "long-horned_grasshopper"
+      ]
+    },
+    {
+      "class_name": "great grey owl, great gray owl, Strix nebulosa",
+      "selected_terms": []
+    },
+    {
+      "class_name": "great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",
+      "selected_terms": [
+        "Argiope",
+        "Balsamorhiza",
+        "Camponotus",
+        "Epinephelus",
+        "Geastrum",
+        "Porcellio",
+        "genus_Argiope",
+        "genus_Argynnis",
+        "genus_Armadillidium",
+        "genus_Camponotus",
+        "genus_Cortinarius",
+        "genus_Geastrum",
+        "genus_Lycaena",
+        "genus_Porcellio"
+      ]
+    },
+    {
+      "class_name": "green lizard, Lacerta viridis",
+      "selected_terms": []
+    },
+    {
+      "class_name": "green mamba",
+      "selected_terms": []
+    },
+    {
+      "class_name": "green snake, grass snake",
+      "selected_terms": [
+        "Arno_River",
+        "Lampropeltis_triangulum",
+        "River_Thames",
+        "Yellowstone",
+        "coachwhip_snake",
+        "common_garter_snake",
+        "gopher_snake",
+        "hognose_snake",
+        "ring-necked_snake",
+        "ringneck_snake"
+      ]
+    },
+    {
+      "class_name": "greenhouse, nursery, glasshouse",
+      "selected_terms": []
+    },
+    {
+      "class_name": "grey fox, gray fox, Urocyon cinereoargenteus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "grille, radiator grille",
+      "selected_terms": [
+        "pergola"
+      ]
+    },
+    {
+      "class_name": "grocery store, grocery, food market, market",
+      "selected_terms": [
+        "drumming",
+        "farmer's_market",
+        "food_market",
+        "gambling_hell",
+        "graduation",
+        "greenmarket",
+        "marriage_ceremony",
+        "solemnization",
+        "souk",
+        "tea_ceremony",
+        "trucking_industry",
+        "venipuncture",
+        "wedding_ceremony",
+        "wine_tasting"
+      ]
+    },
+    {
+      "class_name": "groenendael",
+      "selected_terms": []
+    },
+    {
+      "class_name": "groom, bridegroom",
+      "selected_terms": [
+        "sleeping_partner"
+      ]
+    },
+    {
+      "class_name": "ground beetle, carabid beetle",
+      "selected_terms": [
+        "blister_beetle",
+        "carabid_beetle",
+        "green_June_beetle",
+        "lady_beetle",
+        "ladybeetle",
+        "ladybird_beetle",
+        "long-horned_beetle",
+        "two-spotted_ladybug"
+      ]
+    },
+    {
+      "class_name": "guacamole",
+      "selected_terms": [
+        "clam_dip",
+        "guacamole"
+      ]
+    },
+    {
+      "class_name": "guenon, guenon monkey",
+      "selected_terms": [
+        "bonnet_monkey",
+        "colobus_monkey",
+        "genus_Lemur",
+        "guenon_monkey",
+        "howler_monkey",
+        "preschooler",
+        "ring-tailed_lemur",
+        "titi_monkey",
+        "toddler",
+        "vervet_monkey",
+        "woolly_monkey"
+      ]
+    },
+    {
+      "class_name": "guillotine",
+      "selected_terms": []
+    },
+    {
+      "class_name": "guinea pig, Cavia cobaya",
+      "selected_terms": []
+    },
+    {
+      "class_name": "gyromitra",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hair slide",
+      "selected_terms": [
+        "parachuting"
+      ]
+    },
+    {
+      "class_name": "hair spray",
+      "selected_terms": []
+    },
+    {
+      "class_name": "half track",
+      "selected_terms": [
+        "Bristol_Channel",
+        "auto_racing",
+        "boat_racing",
+        "car_racing",
+        "crochet_stitch",
+        "cross-country_skiing",
+        "dune_cycling",
+        "embroidery_stitch",
+        "garter_stitch",
+        "hydroplane_racing",
+        "knit_stitch",
+        "money_belt",
+        "sledding",
+        "snorkeling",
+        "stockinette_stitch",
+        "suspender_belt",
+        "water_sport"
+      ]
+    },
+    {
+      "class_name": "hammer",
+      "selected_terms": [
+        "adjustable_wrench",
+        "crosscut_handsaw"
+      ]
+    },
+    {
+      "class_name": "hammerhead, hammerhead shark",
+      "selected_terms": [
+        "oceanic_whitetip_shark",
+        "reef_whitetip_shark",
+        "sandbar_shark",
+        "whitetip_shark"
+      ]
+    },
+    {
+      "class_name": "hamper",
+      "selected_terms": [
+        "trouser_cuff"
+      ]
+    },
+    {
+      "class_name": "hamster",
+      "selected_terms": [
+        "Eurasian_hamster",
+        "Syrian_hamster",
+        "hamster",
+        "round-tailed_muskrat",
+        "water_vole"
+      ]
+    },
+    {
+      "class_name": "hand blower, blow dryer, blow drier, hair dryer, hair drier",
+      "selected_terms": [
+        "kitchen_appliance"
+      ]
+    },
+    {
+      "class_name": "hand-held computer, hand-held microcomputer",
+      "selected_terms": [
+        "workstation"
+      ]
+    },
+    {
+      "class_name": "handkerchief, hankie, hanky, hankey",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hard disc, hard disk, fixed disk",
+      "selected_terms": [
+        "nickel-cadmium_accumulator"
+      ]
+    },
+    {
+      "class_name": "hare",
+      "selected_terms": [
+        "blacktail_jackrabbit",
+        "cottontail_rabbit",
+        "leveret",
+        "white-tailed_jackrabbit",
+        "whitetail_jackrabbit"
+      ]
+    },
+    {
+      "class_name": "harmonica, mouth organ, harp, mouth harp",
+      "selected_terms": []
+    },
+    {
+      "class_name": "harp",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hartebeest",
+      "selected_terms": [
+        "gemsbok",
+        "hartebeest",
+        "pronghorn_antelope",
+        "sable_antelope",
+        "waterbuck"
+      ]
+    },
+    {
+      "class_name": "harvester, reaper",
+      "selected_terms": [
+        "disc_harrow"
+      ]
+    },
+    {
+      "class_name": "harvestman, daddy longlegs, Phalangium opilio",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hatchet",
+      "selected_terms": [
+        "kirpan"
+      ]
+    },
+    {
+      "class_name": "hay",
+      "selected_terms": []
+    },
+    {
+      "class_name": "head cabbage",
+      "selected_terms": [
+        "USS_Cole",
+        "cracked-wheat_bread",
+        "kaffir_bread",
+        "skillet_bread",
+        "stuffed_cabbage",
+        "twice-baked_bread"
+      ]
+    },
+    {
+      "class_name": "hen",
+      "selected_terms": [
+        "broody_hen",
+        "maori_hen",
+        "pet_sitter"
+      ]
+    },
+    {
+      "class_name": "hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondose",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hermit crab",
+      "selected_terms": [
+        "European_spider_crab",
+        "auto_racing",
+        "boat_racing",
+        "car_racing",
+        "cherrystone_clam",
+        "cross-country_skiing",
+        "dune_cycling",
+        "hydroplane_racing",
+        "sledding",
+        "snorkeling",
+        "water_sport"
+      ]
+    },
+    {
+      "class_name": "hip, rose hip, rosehip",
+      "selected_terms": [
+        "crystallized_fruit",
+        "simple_fruit"
+      ]
+    },
+    {
+      "class_name": "hippopotamus, hippo, river horse, Hippopotamus amphibius",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hog, pig, grunter, squealer, Sus scrofa",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hognose snake, puff adder, sand viper",
+      "selected_terms": [
+        "Western_diamondback_rattlesnake",
+        "banded_adder",
+        "massasauga_rattler",
+        "rock_rattlesnake",
+        "tiger_rattlesnake",
+        "timber_rattlesnake"
+      ]
+    },
+    {
+      "class_name": "holster",
+      "selected_terms": [
+        "computer_accessory",
+        "money_belt",
+        "suspender_belt"
+      ]
+    },
+    {
+      "class_name": "home theater, home theatre",
+      "selected_terms": [
+        "Battle_of_Monmouth_Court_House",
+        "Monmouth_Court_House",
+        "bicycle_traffic",
+        "needlepoint_embroidery",
+        "school_district",
+        "vaudeville_theatre",
+        "wheat_field"
+      ]
+    },
+    {
+      "class_name": "honeycomb",
+      "selected_terms": [
+        "pergola"
+      ]
+    },
+    {
+      "class_name": "hook, claw",
+      "selected_terms": [
+        "mooring_anchor",
+        "pleopod",
+        "ratch"
+      ]
+    },
+    {
+      "class_name": "hoopskirt, crinoline",
+      "selected_terms": [
+        "batik",
+        "fore-and-aft_topsail",
+        "plush",
+        "staysail",
+        "wire_cloth"
+      ]
+    },
+    {
+      "class_name": "horizontal bar, high bar",
+      "selected_terms": [
+        "brass_band",
+        "concert_band",
+        "dance_band",
+        "film_making",
+        "greenroom",
+        "ice-cream_cake",
+        "kitchenette",
+        "master_bedroom",
+        "movie_making",
+        "poolroom",
+        "skillet_cake",
+        "stoneware",
+        "uneven_bars",
+        "uneven_parallel_bars"
+      ]
+    },
+    {
+      "class_name": "hornbill",
+      "selected_terms": [
+        "motmot"
+      ]
+    },
+    {
+      "class_name": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "horse cart, horse-cart",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hot pot, hotpot",
+      "selected_terms": [
+        "hotpot",
+        "lobster_stew",
+        "pork-and-veal_goulash"
+      ]
+    },
+    {
+      "class_name": "hotdog, hot dog, red hot",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hourglass",
+      "selected_terms": []
+    },
+    {
+      "class_name": "house finch, linnet, Carpodacus mexicanus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "howler monkey, howler",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hummingbird",
+      "selected_terms": []
+    },
+    {
+      "class_name": "hyena, hyaena",
+      "selected_terms": [
+        "Hyaena_hyaena",
+        "hyaena"
+      ]
+    },
+    {
+      "class_name": "iPod",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ibex, Capra ibex",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ice cream, icecream",
+      "selected_terms": [
+        "dessert",
+        "tiramisu",
+        "zabaglione"
+      ]
+    },
+    {
+      "class_name": "ice lolly, lolly, lollipop, popsicle",
+      "selected_terms": [
+        "dessert",
+        "tiramisu",
+        "zabaglione"
+      ]
+    },
+    {
+      "class_name": "impala, Aepyceros melampus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "indigo bunting, indigo finch, indigo bird, Passerina cyanea",
+      "selected_terms": []
+    },
+    {
+      "class_name": "indri, indris, Indri indri, Indri brevicaudatus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "iron, smoothing iron",
+      "selected_terms": [
+        "corrugated_iron",
+        "darmstadtium",
+        "grid_metal",
+        "stoneware"
+      ]
+    },
+    {
+      "class_name": "isopod",
+      "selected_terms": []
+    },
+    {
+      "class_name": "jacamar",
+      "selected_terms": [
+        "downy_woodpecker",
+        "jacamar",
+        "red-breasted_sapsucker",
+        "redheaded_woodpecker",
+        "yellow-bellied_sapsucker"
+      ]
+    },
+    {
+      "class_name": "jack-o'-lantern",
+      "selected_terms": [
+        "jack-o'-lantern"
+      ]
+    },
+    {
+      "class_name": "jackfruit, jak, jack",
+      "selected_terms": [
+        "Belgian_shepherd",
+        "German_shepherd",
+        "agricultural_laborer",
+        "agricultural_labourer",
+        "cichlid",
+        "damselfish",
+        "electrolytic_capacitor",
+        "liquid_metal_reactor",
+        "mudskipper",
+        "northern_pike",
+        "pikeblenny",
+        "pudding-wife",
+        "room_clerk",
+        "totem",
+        "wrasse"
+      ]
+    },
+    {
+      "class_name": "jaguar, panther, Panthera onca, Felis onca",
+      "selected_terms": []
+    },
+    {
+      "class_name": "jay",
+      "selected_terms": [
+        "serjeant-at-arms"
+      ]
+    },
+    {
+      "class_name": "jean, blue jean, denim",
+      "selected_terms": [
+        "batik",
+        "fore-and-aft_topsail",
+        "plush",
+        "staysail",
+        "wire_cloth"
+      ]
+    },
+    {
+      "class_name": "jeep, landrover",
+      "selected_terms": []
+    },
+    {
+      "class_name": "jellyfish",
+      "selected_terms": [
+        "hydrozoan",
+        "scyphozoan"
+      ]
+    },
+    {
+      "class_name": "jersey, T-shirt, tee shirt",
+      "selected_terms": [
+        "tee_shirt",
+        "work-shirt"
+      ]
+    },
+    {
+      "class_name": "jigsaw puzzle",
+      "selected_terms": [
+        "crossword_puzzle",
+        "pinball_game"
+      ]
+    },
+    {
+      "class_name": "jinrikisha, ricksha, rickshaw",
+      "selected_terms": [
+        "cycle_rickshaw",
+        "rickshaw"
+      ]
+    },
+    {
+      "class_name": "joystick",
+      "selected_terms": []
+    },
+    {
+      "class_name": "junco, snowbird",
+      "selected_terms": [
+        "Hawaiian_honeycreeper",
+        "evening_grosbeak",
+        "green-tailed_towhee",
+        "grosbeak",
+        "pine_grosbeak",
+        "yellow-breasted_bunting"
+      ]
+    },
+    {
+      "class_name": "keeshond",
+      "selected_terms": []
+    },
+    {
+      "class_name": "kelpie",
+      "selected_terms": []
+    },
+    {
+      "class_name": "killer whale, killer, orca, grampus, sea wolf, Orcinus orca",
+      "selected_terms": [
+        "river_dolphin"
+      ]
+    },
+    {
+      "class_name": "kimono",
+      "selected_terms": [
+        "kimono"
+      ]
+    },
+    {
+      "class_name": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",
+      "selected_terms": []
+    },
+    {
+      "class_name": "king penguin, Aptenodytes patagonica",
+      "selected_terms": []
+    },
+    {
+      "class_name": "king snake, kingsnake",
+      "selected_terms": []
+    },
+    {
+      "class_name": "kit fox, Vulpes macrotis",
+      "selected_terms": [
+        "Alouatta",
+        "Vulpes_macrotis",
+        "genus_Alouatta",
+        "genus_Cercopithecus",
+        "genus_Myrmecobius"
+      ]
+    },
+    {
+      "class_name": "kite",
+      "selected_terms": [
+        "swallow-tailed_kite",
+        "white-tailed_kite"
+      ]
+    },
+    {
+      "class_name": "knee pad",
+      "selected_terms": [
+        "candied_citrus_peel",
+        "grapefruit_peel",
+        "memorial_tablet",
+        "pyromorphite"
+      ]
+    },
+    {
+      "class_name": "knot",
+      "selected_terms": [
+        "black_turnstone",
+        "curlew_sandpiper",
+        "greenshank",
+        "jacksnipe",
+        "oystercatcher",
+        "pectoral_sandpiper",
+        "red-backed_sandpiper",
+        "spotted_sandpiper",
+        "stilt_plover",
+        "stone_curlew",
+        "thick-knee",
+        "turnstone"
+      ]
+    },
+    {
+      "class_name": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "komondor",
+      "selected_terms": []
+    },
+    {
+      "class_name": "kuvasz",
+      "selected_terms": []
+    },
+    {
+      "class_name": "lab coat, laboratory coat",
+      "selected_terms": [
+        "hooded_seal"
+      ]
+    },
+    {
+      "class_name": "lacewing, lacewing fly",
+      "selected_terms": [
+        "greenbottle_fly",
+        "robber_fly"
+      ]
+    },
+    {
+      "class_name": "ladle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+      "selected_terms": [
+        "blister_beetle",
+        "carabid_beetle",
+        "green_June_beetle",
+        "lady_beetle",
+        "ladybeetle",
+        "ladybird_beetle",
+        "long-horned_beetle",
+        "two-spotted_ladybug"
+      ]
+    },
+    {
+      "class_name": "lakeside, lakeshore",
+      "selected_terms": []
+    },
+    {
+      "class_name": "lampshade, lamp shade",
+      "selected_terms": [
+        "crewelwork",
+        "double_crochet",
+        "needlepoint_embroidery"
+      ]
+    },
+    {
+      "class_name": "langur",
+      "selected_terms": []
+    },
+    {
+      "class_name": "laptop, laptop computer",
+      "selected_terms": [
+        "briefcase_computer",
+        "desktop_computer",
+        "laptop_computer",
+        "portable_computer"
+      ]
+    },
+    {
+      "class_name": "lawn mower, mower",
+      "selected_terms": []
+    },
+    {
+      "class_name": "leaf beetle, chrysomelid",
+      "selected_terms": []
+    },
+    {
+      "class_name": "leafhopper",
+      "selected_terms": []
+    },
+    {
+      "class_name": "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",
+      "selected_terms": []
+    },
+    {
+      "class_name": "lemon",
+      "selected_terms": [
+        "pomelo"
+      ]
+    },
+    {
+      "class_name": "lens cap, lens cover",
+      "selected_terms": [
+        "free_throw",
+        "manhole_cover",
+        "pellicle",
+        "penalty_free_throw",
+        "quilted_bedspread",
+        "winter's_bark"
+      ]
+    },
+    {
+      "class_name": "leopard, Panthera pardus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",
+      "selected_terms": []
+    },
+    {
+      "class_name": "letter opener, paper knife, paperknife",
+      "selected_terms": [
+        "trench_knife"
+      ]
+    },
+    {
+      "class_name": "library",
+      "selected_terms": [
+        "greenroom",
+        "kitchenette",
+        "master_bedroom",
+        "poolroom",
+        "postbox"
+      ]
+    },
+    {
+      "class_name": "lifeboat",
+      "selected_terms": [
+        "lifeboat"
+      ]
+    },
+    {
+      "class_name": "lighter, light, igniter, ignitor",
+      "selected_terms": [
+        "pocket_lighter",
+        "room_light"
+      ]
+    },
+    {
+      "class_name": "limousine, limo",
+      "selected_terms": [
+        "limo",
+        "limousine"
+      ]
+    },
+    {
+      "class_name": "limpkin, Aramus pictus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "liner, ocean liner",
+      "selected_terms": []
+    },
+    {
+      "class_name": "lion, king of beasts, Panthera leo",
+      "selected_terms": [
+        "Panthera_leo"
+      ]
+    },
+    {
+      "class_name": "lionfish",
+      "selected_terms": []
+    },
+    {
+      "class_name": "lipstick, lip rouge",
+      "selected_terms": [
+        "eyeshadow",
+        "lipstick"
+      ]
+    },
+    {
+      "class_name": "little blue heron, Egretta caerulea",
+      "selected_terms": []
+    },
+    {
+      "class_name": "llama",
+      "selected_terms": [
+        "Bactrian_camel",
+        "alpaca",
+        "dromedary",
+        "guanaco",
+        "javelina"
+      ]
+    },
+    {
+      "class_name": "loggerhead, loggerhead turtle, Caretta caretta",
+      "selected_terms": [
+        "Anolis",
+        "Basiliscus",
+        "genus_Anolis",
+        "genus_Basiliscus"
+      ]
+    },
+    {
+      "class_name": "long-horned beetle, longicorn, longicorn beetle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "lorikeet",
+      "selected_terms": [
+        "lorikeet",
+        "rainbow_lorikeet",
+        "varied_Lorikeet"
+      ]
+    },
+    {
+      "class_name": "lotion",
+      "selected_terms": [
+        "after-shave_lotion",
+        "body_lotion",
+        "hand_lotion",
+        "lip_balm",
+        "lotion"
+      ]
+    },
+    {
+      "class_name": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+      "selected_terms": [
+        "articulatory_system",
+        "scaffolding"
+      ]
+    },
+    {
+      "class_name": "loupe, jeweler's loupe",
+      "selected_terms": []
+    },
+    {
+      "class_name": "lumbermill, sawmill",
+      "selected_terms": [
+        "pepper_mill",
+        "portable_circular_saw"
+      ]
+    },
+    {
+      "class_name": "lycaenid, lycaenid butterfly",
+      "selected_terms": []
+    },
+    {
+      "class_name": "lynx, catamount",
+      "selected_terms": [
+        "Canada_lynx",
+        "Lynx_caracal",
+        "jaguarundi"
+      ]
+    },
+    {
+      "class_name": "macaque",
+      "selected_terms": [
+        "Cercopithecus_talapoin"
+      ]
+    },
+    {
+      "class_name": "macaw",
+      "selected_terms": [
+        "cockatiel",
+        "cockatoo",
+        "cockatoo_parrot",
+        "sulphur-crested_cockatoo"
+      ]
+    },
+    {
+      "class_name": "magnetic compass",
+      "selected_terms": [
+        "artificial_horizon"
+      ]
+    },
+    {
+      "class_name": "magpie",
+      "selected_terms": []
+    },
+    {
+      "class_name": "mailbag, postbag",
+      "selected_terms": []
+    },
+    {
+      "class_name": "mailbox, letter box",
+      "selected_terms": [
+        "chancel",
+        "mailbox",
+        "pencil_box"
+      ]
+    },
+    {
+      "class_name": "maillot",
+      "selected_terms": [
+        "swimsuit",
+        "swimwear"
+      ]
+    },
+    {
+      "class_name": "maillot, tank suit",
+      "selected_terms": [
+        "Deere",
+        "Edsel_Bryant_Ford",
+        "Ford",
+        "John_Deere",
+        "bathing_suit",
+        "biohazard_suit",
+        "businesswoman",
+        "camera_operator",
+        "pencil_case"
+      ]
+    },
+    {
+      "class_name": "malamute, malemute, Alaskan malamute",
+      "selected_terms": []
+    },
+    {
+      "class_name": "malinois",
+      "selected_terms": [
+        "malinois"
+      ]
+    },
+    {
+      "class_name": "manhole cover",
+      "selected_terms": [
+        "free_throw",
+        "manhole_cover",
+        "pellicle",
+        "penalty_free_throw",
+        "quilted_bedspread",
+        "winter's_bark"
+      ]
+    },
+    {
+      "class_name": "mantis, mantid",
+      "selected_terms": []
+    },
+    {
+      "class_name": "maraca",
+      "selected_terms": []
+    },
+    {
+      "class_name": "marimba, xylophone",
+      "selected_terms": []
+    },
+    {
+      "class_name": "marmoset",
+      "selected_terms": []
+    },
+    {
+      "class_name": "marmot",
+      "selected_terms": [
+        "hoary_marmot",
+        "round-tailed_muskrat",
+        "water_vole"
+      ]
+    },
+    {
+      "class_name": "mashed potato",
+      "selected_terms": [
+        "mashed_potato"
+      ]
+    },
+    {
+      "class_name": "mask",
+      "selected_terms": [
+        "gasmask",
+        "masquerade_party",
+        "respirator",
+        "welder's_mask"
+      ]
+    },
+    {
+      "class_name": "matchstick",
+      "selected_terms": []
+    },
+    {
+      "class_name": "maypole",
+      "selected_terms": [
+        "maypole",
+        "sheet_piling"
+      ]
+    },
+    {
+      "class_name": "maze, labyrinth",
+      "selected_terms": []
+    },
+    {
+      "class_name": "measuring cup",
+      "selected_terms": [
+        "crockery",
+        "manhole",
+        "measuring_cup"
+      ]
+    },
+    {
+      "class_name": "meat loaf, meatloaf",
+      "selected_terms": []
+    },
+    {
+      "class_name": "medicine chest, medicine cabinet",
+      "selected_terms": [
+        "kitchen_cabinet"
+      ]
+    },
+    {
+      "class_name": "meerkat, mierkat",
+      "selected_terms": [
+        "banded_palm_civet"
+      ]
+    },
+    {
+      "class_name": "megalith, megalithic structure",
+      "selected_terms": [
+        "Caledonian_Canal",
+        "amusement_arcade",
+        "hayloft",
+        "megalithic_structure",
+        "shop_floor",
+        "transept"
+      ]
+    },
+    {
+      "class_name": "menu",
+      "selected_terms": [
+        "playbill"
+      ]
+    },
+    {
+      "class_name": "microphone, mike",
+      "selected_terms": [
+        "leaf-footed_bug"
+      ]
+    },
+    {
+      "class_name": "microwave, microwave oven",
+      "selected_terms": []
+    },
+    {
+      "class_name": "military uniform",
+      "selected_terms": [
+        "full-dress_uniform"
+      ]
+    },
+    {
+      "class_name": "milk can",
+      "selected_terms": [
+        "hot_pot",
+        "lobster_tail",
+        "watering_can",
+        "watering_pot"
+      ]
+    },
+    {
+      "class_name": "miniature pinscher",
+      "selected_terms": []
+    },
+    {
+      "class_name": "miniature poodle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "miniature schnauzer",
+      "selected_terms": []
+    },
+    {
+      "class_name": "minibus",
+      "selected_terms": [
+        "minibus"
+      ]
+    },
+    {
+      "class_name": "miniskirt, mini",
+      "selected_terms": []
+    },
+    {
+      "class_name": "minivan",
+      "selected_terms": []
+    },
+    {
+      "class_name": "mink",
+      "selected_terms": [
+        "black-footed_ferret",
+        "pine_marten",
+        "yellow-throated_marten"
+      ]
+    },
+    {
+      "class_name": "missile",
+      "selected_terms": [
+        "air-to-ground_missile",
+        "anti-submarine_rocket",
+        "intercontinental_ballistic_missile",
+        "naval_missile"
+      ]
+    },
+    {
+      "class_name": "mitten",
+      "selected_terms": []
+    },
+    {
+      "class_name": "mixing bowl",
+      "selected_terms": [
+        "Arches_National_Park",
+        "Katmai_National_Park",
+        "Lassen_Volcanic_National_Park",
+        "Mesa_Verde_National_Park",
+        "Yellowstone_National_Park",
+        "hamburger_roll"
+      ]
+    },
+    {
+      "class_name": "mobile home, manufactured home",
+      "selected_terms": [
+        "Battle_of_Monmouth_Court_House",
+        "Monmouth_Court_House",
+        "Venezuelan_monetary_unit",
+        "cliff_dwelling",
+        "ctenophore_family",
+        "dessert_plate",
+        "dogbane_family",
+        "gatehouse",
+        "wall_unit",
+        "winter's_bark_family",
+        "woman_of_the_street"
+      ]
+    },
+    {
+      "class_name": "modem",
+      "selected_terms": []
+    },
+    {
+      "class_name": "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "monastery",
+      "selected_terms": [
+        "friary"
+      ]
+    },
+    {
+      "class_name": "mongoose",
+      "selected_terms": [
+        "banded_palm_civet"
+      ]
+    },
+    {
+      "class_name": "monitor",
+      "selected_terms": [
+        "Shield_of_David",
+        "beefeater",
+        "theater_director",
+        "theatre_director"
+      ]
+    },
+    {
+      "class_name": "moped",
+      "selected_terms": [
+        "minibike"
+      ]
+    },
+    {
+      "class_name": "mortar",
+      "selected_terms": []
+    },
+    {
+      "class_name": "mortarboard",
+      "selected_terms": [
+        "mortarboard"
+      ]
+    },
+    {
+      "class_name": "mosque",
+      "selected_terms": [
+        "Old_Catholic_Church",
+        "Protestant_Church",
+        "Roman_Church",
+        "lady_chapel",
+        "masjid",
+        "mosque",
+        "musjid"
+      ]
+    },
+    {
+      "class_name": "mosquito net",
+      "selected_terms": [
+        "batik",
+        "fore-and-aft_topsail",
+        "plush",
+        "staysail",
+        "wire_cloth"
+      ]
+    },
+    {
+      "class_name": "motor scooter, scooter",
+      "selected_terms": [
+        "powerboat",
+        "red-breasted_merganser"
+      ]
+    },
+    {
+      "class_name": "mountain bike, all-terrain bike, off-roader",
+      "selected_terms": []
+    },
+    {
+      "class_name": "mountain tent",
+      "selected_terms": [
+        "choir_loft",
+        "cottage_tent",
+        "lean-to_tent",
+        "organ_loft"
+      ]
+    },
+    {
+      "class_name": "mouse, computer mouse",
+      "selected_terms": [
+        "Streptomyces_scabies",
+        "crystal_oscillator",
+        "plagiocephaly"
+      ]
+    },
+    {
+      "class_name": "mousetrap",
+      "selected_terms": []
+    },
+    {
+      "class_name": "moving van",
+      "selected_terms": [
+        "bookmobile",
+        "delivery_van",
+        "guard's_van",
+        "police_van",
+        "trucking_company"
+      ]
+    },
+    {
+      "class_name": "mud turtle",
+      "selected_terms": [
+        "T-shirt",
+        "mud_turtle",
+        "musk_turtle"
+      ]
+    },
+    {
+      "class_name": "mushroom",
+      "selected_terms": [
+        "hydroelectricity"
+      ]
+    },
+    {
+      "class_name": "muzzle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "nail",
+      "selected_terms": []
+    },
+    {
+      "class_name": "neck brace",
+      "selected_terms": [
+        "Wilhelm_II",
+        "bedroom_suite",
+        "diningroom_suite",
+        "livingroom_suite",
+        "manicure_set",
+        "tea_set",
+        "twosome"
+      ]
+    },
+    {
+      "class_name": "necklace",
+      "selected_terms": [
+        "Roman_collar",
+        "coral_necklace",
+        "jewellery",
+        "necklace",
+        "pendant_earring",
+        "soutache"
+      ]
+    },
+    {
+      "class_name": "nematode, nematode worm, roundworm",
+      "selected_terms": []
+    },
+    {
+      "class_name": "night snake, Hypsiglena torquata",
+      "selected_terms": []
+    },
+    {
+      "class_name": "nipple",
+      "selected_terms": []
+    },
+    {
+      "class_name": "notebook, notebook computer",
+      "selected_terms": [
+        "briefcase_computer",
+        "desktop_computer",
+        "laptop_computer",
+        "portable_computer"
+      ]
+    },
+    {
+      "class_name": "obelisk",
+      "selected_terms": [
+        "obelisk"
+      ]
+    },
+    {
+      "class_name": "oboe, hautboy, hautbois",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ocarina, sweet potato",
+      "selected_terms": [
+        "mashed_potato"
+      ]
+    },
+    {
+      "class_name": "odometer, hodometer, mileometer, milometer",
+      "selected_terms": [
+        "mileometer",
+        "odometer"
+      ]
+    },
+    {
+      "class_name": "oil filter",
+      "selected_terms": [
+        "electrolytic_capacitor",
+        "liquid_metal_reactor"
+      ]
+    },
+    {
+      "class_name": "orange",
+      "selected_terms": [
+        "pomelo"
+      ]
+    },
+    {
+      "class_name": "orangutan, orang, orangutang, Pongo pygmaeus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "organ, pipe organ",
+      "selected_terms": [
+        "ocarina",
+        "panchayet",
+        "street_organ"
+      ]
+    },
+    {
+      "class_name": "oscilloscope, scope, cathode-ray oscilloscope, CRO",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ostrich, Struthio camelus",
+      "selected_terms": [
+        "Alouatta",
+        "Argiope",
+        "Balsamorhiza",
+        "Camponotus",
+        "Geastrum",
+        "Porcellio",
+        "genus_Alouatta",
+        "genus_Argiope",
+        "genus_Argynnis",
+        "genus_Armadillidium",
+        "genus_Camponotus",
+        "genus_Cercopithecus",
+        "genus_Cortinarius",
+        "genus_Geastrum",
+        "genus_Lycaena",
+        "genus_Myrmecobius",
+        "genus_Porcellio"
+      ]
+    },
+    {
+      "class_name": "otter",
+      "selected_terms": [
+        "black-footed_ferret",
+        "pine_marten",
+        "river_otter",
+        "yellow-throated_marten"
+      ]
+    },
+    {
+      "class_name": "otterhound, otter hound",
+      "selected_terms": [
+        "Afghan_hound",
+        "African_hunting_dog",
+        "Bernese_mountain_dog",
+        "German_police_dog",
+        "German_shepherd_dog",
+        "Ibizan_hound",
+        "Shetland_sheep_dog",
+        "basset_hound",
+        "devil_dog",
+        "domestic_dog",
+        "poodle_dog",
+        "sledge_dog",
+        "sporting_dog",
+        "water_dog"
+      ]
+    },
+    {
+      "class_name": "overskirt",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ox",
+      "selected_terms": [
+        "Charolais",
+        "zebu"
+      ]
+    },
+    {
+      "class_name": "oxcart",
+      "selected_terms": []
+    },
+    {
+      "class_name": "oxygen mask",
+      "selected_terms": [
+        "gasmask",
+        "masquerade_party",
+        "respirator",
+        "welder's_mask"
+      ]
+    },
+    {
+      "class_name": "oystercatcher, oyster catcher",
+      "selected_terms": [
+        "pass_catcher"
+      ]
+    },
+    {
+      "class_name": "packet",
+      "selected_terms": [
+        "cassette_deck",
+        "pilot_boat",
+        "tape_deck"
+      ]
+    },
+    {
+      "class_name": "paddle, boat paddle",
+      "selected_terms": [
+        "boat_paddle"
+      ]
+    },
+    {
+      "class_name": "paddlewheel, paddle wheel",
+      "selected_terms": [
+        "United_States_Army_Special_Forces",
+        "all-terrain_bike",
+        "analytical_balance",
+        "bike",
+        "dish_rack",
+        "mountain_bike",
+        "push-bike",
+        "safety_bike",
+        "tandem_bicycle"
+      ]
+    },
+    {
+      "class_name": "padlock",
+      "selected_terms": [
+        "padlock"
+      ]
+    },
+    {
+      "class_name": "paintbrush",
+      "selected_terms": []
+    },
+    {
+      "class_name": "pajama, pyjama, pj's, jammies",
+      "selected_terms": []
+    },
+    {
+      "class_name": "palace",
+      "selected_terms": [
+        "Buckingham_Palace",
+        "Marguerite_Radclyffe_Hall",
+        "Tuileries_Palace",
+        "palace"
+      ]
+    },
+    {
+      "class_name": "panpipe, pandean pipe, syrinx",
+      "selected_terms": [
+        "calabash_pipe"
+      ]
+    },
+    {
+      "class_name": "paper towel",
+      "selected_terms": [
+        "tea_towel"
+      ]
+    },
+    {
+      "class_name": "papillon",
+      "selected_terms": []
+    },
+    {
+      "class_name": "parachute, chute",
+      "selected_terms": [
+        "parasail"
+      ]
+    },
+    {
+      "class_name": "parallel bars, bars",
+      "selected_terms": [
+        "brass_band",
+        "concert_band",
+        "dance_band",
+        "film_making",
+        "ice-cream_cake",
+        "movie_making",
+        "skillet_cake",
+        "stoneware",
+        "uneven_bars",
+        "uneven_parallel_bars"
+      ]
+    },
+    {
+      "class_name": "park bench",
+      "selected_terms": [
+        "Lake_Constance",
+        "park_bench"
+      ]
+    },
+    {
+      "class_name": "parking meter",
+      "selected_terms": [
+        "microbalance",
+        "micrometer_caliper",
+        "micrometer_gauge",
+        "nephoscope",
+        "nursery_rhyme",
+        "speedometer",
+        "tachometer"
+      ]
+    },
+    {
+      "class_name": "partridge",
+      "selected_terms": []
+    },
+    {
+      "class_name": "passenger car, coach, carriage",
+      "selected_terms": [
+        "cabriolet",
+        "hackney_carriage",
+        "horseless_carriage",
+        "offshore_rig",
+        "trucking_rig"
+      ]
+    },
+    {
+      "class_name": "patas, hussar monkey, Erythrocebus patas",
+      "selected_terms": [
+        "Cercopithecus_talapoin"
+      ]
+    },
+    {
+      "class_name": "patio, terrace",
+      "selected_terms": [
+        "chancel",
+        "park_bench"
+      ]
+    },
+    {
+      "class_name": "pay-phone, pay-station",
+      "selected_terms": [
+        "pay-phone",
+        "pay-station"
+      ]
+    },
+    {
+      "class_name": "peacock",
+      "selected_terms": []
+    },
+    {
+      "class_name": "pedestal, plinth, footstall",
+      "selected_terms": []
+    },
+    {
+      "class_name": "pelican",
+      "selected_terms": [
+        "anhinga",
+        "arctic_skua",
+        "black-necked_grebe",
+        "emperor_penguin",
+        "king_penguin",
+        "white_pelican"
+      ]
+    },
+    {
+      "class_name": "pencil box, pencil case",
+      "selected_terms": [
+        "bathing_suit",
+        "biohazard_suit",
+        "chamberpot",
+        "clumsy_person",
+        "pencil_case",
+        "pergola",
+        "pillowcase",
+        "trouser_clip",
+        "typewriter_font"
+      ]
+    },
+    {
+      "class_name": "pencil sharpener",
+      "selected_terms": []
+    },
+    {
+      "class_name": "perfume, essence",
+      "selected_terms": []
+    },
+    {
+      "class_name": "photocopier",
+      "selected_terms": [
+        "gymnastic_apparatus",
+        "photocopier"
+      ]
+    },
+    {
+      "class_name": "pick, plectrum, plectron",
+      "selected_terms": []
+    },
+    {
+      "class_name": "pickelhaube",
+      "selected_terms": []
+    },
+    {
+      "class_name": "picket fence, paling",
+      "selected_terms": []
+    },
+    {
+      "class_name": "pickup, pickup truck",
+      "selected_terms": [
+        "Segway_Human_Transporter",
+        "fire_truck",
+        "garbage_truck",
+        "ladder_truck",
+        "tipper_truck",
+        "tow_truck"
+      ]
+    },
+    {
+      "class_name": "pier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "piggy bank, penny bank",
+      "selected_terms": [
+        "coin_bank",
+        "piggy_bank",
+        "postbox"
+      ]
+    },
+    {
+      "class_name": "pill bottle",
+      "selected_terms": [
+        "Erlenmeyer_flask",
+        "beer_bottle"
+      ]
+    },
+    {
+      "class_name": "pillow",
+      "selected_terms": []
+    },
+    {
+      "class_name": "pineapple, ananas",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ping-pong ball",
+      "selected_terms": [
+        "concert_dance",
+        "croquet_ball",
+        "field_hockey_ball",
+        "forehand_shot",
+        "foul_ball",
+        "golf_ball",
+        "jump_ball",
+        "morris_dance",
+        "polo_ball",
+        "rugby_football",
+        "soccer_ball"
+      ]
+    },
+    {
+      "class_name": "pinwheel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "pirate, pirate ship",
+      "selected_terms": [
+        "cargo_ship",
+        "clipper_ship",
+        "container_ship",
+        "containership",
+        "sailing_ship",
+        "submersible_warship",
+        "warship"
+      ]
+    },
+    {
+      "class_name": "pitcher, ewer",
+      "selected_terms": []
+    },
+    {
+      "class_name": "pizza, pizza pie",
+      "selected_terms": [
+        "lobster_tart",
+        "tamale_pie"
+      ]
+    },
+    {
+      "class_name": "plane, carpenter's plane, woodworking plane",
+      "selected_terms": [
+        "adjustable_wrench",
+        "crosscut_handsaw",
+        "jetliner",
+        "military_plane",
+        "multiengine_airplane",
+        "router_plane",
+        "spokeshave"
+      ]
+    },
+    {
+      "class_name": "planetarium",
+      "selected_terms": [
+        "planetarium"
+      ]
+    },
+    {
+      "class_name": "plastic bag",
+      "selected_terms": [
+        "belt_bag",
+        "drawstring_bag",
+        "duffle_bag",
+        "garment_bag",
+        "shoulder_bag",
+        "solar_dish",
+        "vest_pocket"
+      ]
+    },
+    {
+      "class_name": "plate",
+      "selected_terms": [
+        "dessert_plate"
+      ]
+    },
+    {
+      "class_name": "plate rack",
+      "selected_terms": [
+        "child_abuse",
+        "crew_neck",
+        "dish_rack",
+        "hamburger_steak",
+        "pork_roast",
+        "toastrack"
+      ]
+    },
+    {
+      "class_name": "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "plow, plough",
+      "selected_terms": [
+        "Conestoga_wagon",
+        "police_wagon",
+        "station_wagon"
+      ]
+    },
+    {
+      "class_name": "plunger, plumber's helper",
+      "selected_terms": [
+        "keyboard_instrument",
+        "musical_instrument"
+      ]
+    },
+    {
+      "class_name": "pole",
+      "selected_terms": [
+        "Venetian",
+        "banded_stilt",
+        "black-necked_stilt",
+        "coastline",
+        "totem_pole"
+      ]
+    },
+    {
+      "class_name": "polecat, fitch, foulmart, foumart, Mustela putorius",
+      "selected_terms": []
+    },
+    {
+      "class_name": "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",
+      "selected_terms": [
+        "bedside",
+        "breadfruit_tree",
+        "mangosteen_tree",
+        "pomegranate_tree",
+        "quandong_tree",
+        "wild_medlar_tree"
+      ]
+    },
+    {
+      "class_name": "pomegranate",
+      "selected_terms": [
+        "breadfruit",
+        "flowering_quince",
+        "soursop"
+      ]
+    },
+    {
+      "class_name": "poncho",
+      "selected_terms": []
+    },
+    {
+      "class_name": "pool table, billiard table, snooker table",
+      "selected_terms": [
+        "bedroom_suite",
+        "diningroom_suite",
+        "livingroom_suite"
+      ]
+    },
+    {
+      "class_name": "pop bottle, soda bottle",
+      "selected_terms": [
+        "Erlenmeyer_flask",
+        "beer_bottle"
+      ]
+    },
+    {
+      "class_name": "porcupine, hedgehog",
+      "selected_terms": [
+        "round-tailed_muskrat",
+        "tailless_tenrec",
+        "water_vole"
+      ]
+    },
+    {
+      "class_name": "pot, flowerpot",
+      "selected_terms": []
+    },
+    {
+      "class_name": "potpie",
+      "selected_terms": []
+    },
+    {
+      "class_name": "potter's wheel",
+      "selected_terms": [
+        "all-terrain_bike",
+        "analytical_balance",
+        "bike",
+        "mountain_bike",
+        "push-bike",
+        "safety_bike",
+        "tandem_bicycle"
+      ]
+    },
+    {
+      "class_name": "power drill",
+      "selected_terms": [
+        "gymnastic_exercise"
+      ]
+    },
+    {
+      "class_name": "prairie chicken, prairie grouse, prairie fowl",
+      "selected_terms": [
+        "pin-tailed_sandgrouse",
+        "red_jungle_fowl",
+        "roast_pork",
+        "secretary_bird"
+      ]
+    },
+    {
+      "class_name": "prayer rug, prayer mat",
+      "selected_terms": [
+        "prayer_rug"
+      ]
+    },
+    {
+      "class_name": "pretzel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "printer",
+      "selected_terms": [
+        "dot_matrix_printer",
+        "electric_typewriter",
+        "laser_printer",
+        "matrix_printer",
+        "typewriter",
+        "wire_matrix_printer"
+      ]
+    },
+    {
+      "class_name": "prison, prison house",
+      "selected_terms": [
+        "Reserve_Officers_Training_Corps",
+        "Venezuelan_monetary_unit",
+        "bedside",
+        "ctenophore_family",
+        "dog_show",
+        "dogbane_family",
+        "drunken_revelry",
+        "morris_dancing",
+        "pinball",
+        "square_dancing",
+        "vaudeville_theatre",
+        "wall_unit",
+        "winter's_bark_family"
+      ]
+    },
+    {
+      "class_name": "proboscis monkey, Nasalis larvatus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "projectile, missile",
+      "selected_terms": [
+        "air-to-ground_missile",
+        "anti-submarine_rocket",
+        "intercontinental_ballistic_missile",
+        "naval_missile"
+      ]
+    },
+    {
+      "class_name": "projector",
+      "selected_terms": [
+        "cine_projector",
+        "slide_projector"
+      ]
+    },
+    {
+      "class_name": "promontory, headland, head, foreland",
+      "selected_terms": [
+        "Labrador-Ungava_Peninsula"
+      ]
+    },
+    {
+      "class_name": "ptarmigan",
+      "selected_terms": [
+        "ptarmigan"
+      ]
+    },
+    {
+      "class_name": "puck, hockey puck",
+      "selected_terms": []
+    },
+    {
+      "class_name": "puffer, pufferfish, blowfish, globefish",
+      "selected_terms": [
+        "filefish",
+        "trunkfish"
+      ]
+    },
+    {
+      "class_name": "pug, pug-dog",
+      "selected_terms": []
+    },
+    {
+      "class_name": "punching bag, punch bag, punching ball, punchball",
+      "selected_terms": []
+    },
+    {
+      "class_name": "purse",
+      "selected_terms": [
+        "belt_bag",
+        "drawstring_bag",
+        "duffle_bag",
+        "garment_bag",
+        "shoulder_bag"
+      ]
+    },
+    {
+      "class_name": "quail",
+      "selected_terms": [
+        "bobwhite_quail"
+      ]
+    },
+    {
+      "class_name": "quill, quill pen",
+      "selected_terms": [
+        "Dachau",
+        "jailhouse"
+      ]
+    },
+    {
+      "class_name": "quilt, comforter, comfort, puff",
+      "selected_terms": [
+        "free_throw",
+        "patchwork_quilt",
+        "penalty_free_throw",
+        "quilted_bedspread"
+      ]
+    },
+    {
+      "class_name": "racer, race car, racing car",
+      "selected_terms": [
+        "hot-rod",
+        "motorcar",
+        "police_cruiser",
+        "powder_compact",
+        "roadster",
+        "threshing_machine",
+        "vending_machine"
+      ]
+    },
+    {
+      "class_name": "racket, racquet",
+      "selected_terms": []
+    },
+    {
+      "class_name": "radiator",
+      "selected_terms": []
+    },
+    {
+      "class_name": "radio telescope, radio reflector",
+      "selected_terms": [
+        "optical_telescope",
+        "radio_telescope"
+      ]
+    },
+    {
+      "class_name": "radio, wireless",
+      "selected_terms": []
+    },
+    {
+      "class_name": "rain barrel",
+      "selected_terms": [
+        "blowgun",
+        "element_of_a_cylinder",
+        "gas-discharge_tube",
+        "meerschaum",
+        "rain_barrel",
+        "spillway"
+      ]
+    },
+    {
+      "class_name": "ram, tup",
+      "selected_terms": [
+        "Dall_sheep",
+        "Rocky_Mountain_sheep",
+        "bighorn_sheep",
+        "merino_sheep"
+      ]
+    },
+    {
+      "class_name": "rapeseed",
+      "selected_terms": [
+        "rapeseed"
+      ]
+    },
+    {
+      "class_name": "recreational vehicle, RV, R.V.",
+      "selected_terms": []
+    },
+    {
+      "class_name": "red fox, Vulpes vulpes",
+      "selected_terms": [
+        "Alouatta",
+        "genus_Alouatta",
+        "genus_Cercopithecus",
+        "genus_Myrmecobius"
+      ]
+    },
+    {
+      "class_name": "red wine",
+      "selected_terms": [
+        "beer",
+        "dessert_wine",
+        "fermentation_alcohol",
+        "lager_beer",
+        "light_beer",
+        "table_wine",
+        "wine"
+      ]
+    },
+    {
+      "class_name": "red wolf, maned wolf, Canis rufus, Canis niger",
+      "selected_terms": [
+        "Anglia",
+        "Lake_Malawi"
+      ]
+    },
+    {
+      "class_name": "red-backed sandpiper, dunlin, Erolia alpina",
+      "selected_terms": []
+    },
+    {
+      "class_name": "red-breasted merganser, Mergus serrator",
+      "selected_terms": []
+    },
+    {
+      "class_name": "redbone",
+      "selected_terms": []
+    },
+    {
+      "class_name": "redshank, Tringa totanus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "reel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "reflex camera",
+      "selected_terms": [
+        "Polaroid_Land_camera",
+        "Polaroid_camera",
+        "cine-camera"
+      ]
+    },
+    {
+      "class_name": "refrigerator, icebox",
+      "selected_terms": []
+    },
+    {
+      "class_name": "remote control, remote",
+      "selected_terms": []
+    },
+    {
+      "class_name": "restaurant, eating house, eating place, eatery",
+      "selected_terms": []
+    },
+    {
+      "class_name": "revolver, six-gun, six-shooter",
+      "selected_terms": [
+        "semiautomatic_pistol"
+      ]
+    },
+    {
+      "class_name": "rhinoceros beetle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "rifle",
+      "selected_terms": [
+        "Browning_automatic_rifle",
+        "semiautomatic_firearm"
+      ]
+    },
+    {
+      "class_name": "ringlet, ringlet butterfly",
+      "selected_terms": [
+        "hairstreak_butterfly",
+        "sulphur_butterfly",
+        "tapestry_moth"
+      ]
+    },
+    {
+      "class_name": "ringneck snake, ring-necked snake, ring snake",
+      "selected_terms": [
+        "Arno_River",
+        "Lampropeltis_triangulum",
+        "River_Thames",
+        "Yellowstone",
+        "coachwhip_snake",
+        "common_garter_snake",
+        "gopher_snake",
+        "hognose_snake",
+        "ring-necked_snake",
+        "ringneck_snake"
+      ]
+    },
+    {
+      "class_name": "robin, American robin, Turdus migratorius",
+      "selected_terms": []
+    },
+    {
+      "class_name": "rock beauty, Holocanthus tricolor",
+      "selected_terms": [
+        "totem"
+      ]
+    },
+    {
+      "class_name": "rock crab, Cancer irroratus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "rock python, rock snake, Python sebae",
+      "selected_terms": []
+    },
+    {
+      "class_name": "rocking chair, rocker",
+      "selected_terms": [
+        "lifeguard"
+      ]
+    },
+    {
+      "class_name": "rotisserie",
+      "selected_terms": []
+    },
+    {
+      "class_name": "rubber eraser, rubber, pencil eraser",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ruddy turnstone, Arenaria interpres",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ruffed grouse, partridge, Bonasa umbellus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "rugby ball",
+      "selected_terms": []
+    },
+    {
+      "class_name": "rule, ruler",
+      "selected_terms": []
+    },
+    {
+      "class_name": "running shoe",
+      "selected_terms": [
+        "Tennessee_walker",
+        "footwear",
+        "jodhpur_shoe",
+        "shoes"
+      ]
+    },
+    {
+      "class_name": "safe",
+      "selected_terms": [
+        "buna_rubber",
+        "crepe_rubber"
+      ]
+    },
+    {
+      "class_name": "safety pin",
+      "selected_terms": [
+        "jewellery",
+        "label",
+        "pendant_earring",
+        "soutache",
+        "turnspit"
+      ]
+    },
+    {
+      "class_name": "saltshaker, salt shaker",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sandal",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sandbar, sand bar",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sarong",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sax, saxophone",
+      "selected_terms": []
+    },
+    {
+      "class_name": "scabbard",
+      "selected_terms": []
+    },
+    {
+      "class_name": "scale, weighing machine",
+      "selected_terms": [
+        "Central_Intelligence_Machinery",
+        "coastguard",
+        "handloom",
+        "ratch"
+      ]
+    },
+    {
+      "class_name": "schipperke",
+      "selected_terms": []
+    },
+    {
+      "class_name": "school bus",
+      "selected_terms": [
+        "Mayan_language",
+        "charabanc",
+        "electronic_transistor",
+        "field-effect_transistor",
+        "jitney",
+        "motorcoach",
+        "school_bus",
+        "thermistor",
+        "trolleybus"
+      ]
+    },
+    {
+      "class_name": "schooner",
+      "selected_terms": [
+        "square-rigger"
+      ]
+    },
+    {
+      "class_name": "scoreboard",
+      "selected_terms": [
+        "scoreboard"
+      ]
+    },
+    {
+      "class_name": "scorpion",
+      "selected_terms": [
+        "pseudoscorpion"
+      ]
+    },
+    {
+      "class_name": "screen, CRT screen",
+      "selected_terms": [
+        "manhole_cover",
+        "window_blind"
+      ]
+    },
+    {
+      "class_name": "screw",
+      "selected_terms": [
+        "United_States_Army_Rangers",
+        "machine_screw"
+      ]
+    },
+    {
+      "class_name": "screwdriver",
+      "selected_terms": []
+    },
+    {
+      "class_name": "scuba diver",
+      "selected_terms": [
+        "arctic_skua",
+        "black-necked_grebe",
+        "emperor_penguin",
+        "king_penguin",
+        "scuba_diver",
+        "underwater_diver"
+      ]
+    },
+    {
+      "class_name": "sea anemone, anemone",
+      "selected_terms": [
+        "florist's_chrysanthemum",
+        "florists'_chrysanthemum",
+        "genus_Pleurothallis",
+        "pincushion_flower",
+        "pleurothallis",
+        "prairie_coneflower"
+      ]
+    },
+    {
+      "class_name": "sea cucumber, holothurian",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sea lion",
+      "selected_terms": [
+        "Panthera_leo"
+      ]
+    },
+    {
+      "class_name": "sea slug, nudibranch",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sea snake",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sea urchin",
+      "selected_terms": [
+        "preschooler",
+        "ragamuffin",
+        "toddler"
+      ]
+    },
+    {
+      "class_name": "seashore, coast, seacoast, sea-coast",
+      "selected_terms": []
+    },
+    {
+      "class_name": "seat belt, seatbelt",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sewing machine",
+      "selected_terms": [
+        "Central_Intelligence_Machinery",
+        "coastguard",
+        "handloom"
+      ]
+    },
+    {
+      "class_name": "shield, buckler",
+      "selected_terms": []
+    },
+    {
+      "class_name": "shoe shop, shoe-shop, shoe store",
+      "selected_terms": [
+        "drugstore",
+        "food_shop",
+        "haberdashery",
+        "nickel-cadmium_accumulator",
+        "novelty_shop",
+        "tobacconist_shop"
+      ]
+    },
+    {
+      "class_name": "shoji",
+      "selected_terms": []
+    },
+    {
+      "class_name": "shopping basket",
+      "selected_terms": [
+        "baseball_score",
+        "clothes_basket"
+      ]
+    },
+    {
+      "class_name": "shopping cart",
+      "selected_terms": [
+        "donkey_cart"
+      ]
+    },
+    {
+      "class_name": "shovel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "shower cap",
+      "selected_terms": [
+        "cervical_cap",
+        "cortina",
+        "dolman_jacket",
+        "shop_floor"
+      ]
+    },
+    {
+      "class_name": "shower curtain",
+      "selected_terms": [
+        "prayer_rug"
+      ]
+    },
+    {
+      "class_name": "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sidewinder, horned rattlesnake, Crotalus cerastes",
+      "selected_terms": []
+    },
+    {
+      "class_name": "silky terrier, Sydney silky",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ski",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ski mask",
+      "selected_terms": [
+        "gasmask",
+        "masquerade_party",
+        "respirator",
+        "welder's_mask"
+      ]
+    },
+    {
+      "class_name": "skunk, polecat, wood pussy",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sleeping bag",
+      "selected_terms": [
+        "solar_dish",
+        "vest_pocket"
+      ]
+    },
+    {
+      "class_name": "slide rule, slipstick",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sliding door",
+      "selected_terms": []
+    },
+    {
+      "class_name": "slot, one-armed bandit",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sloth bear, Melursus ursinus, Ursus ursinus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "slug",
+      "selected_terms": [
+        "beer",
+        "fermentation_alcohol",
+        "kilogram_calorie",
+        "lager_beer",
+        "light_beer"
+      ]
+    },
+    {
+      "class_name": "snail",
+      "selected_terms": [
+        "roast_pork",
+        "sea_snail"
+      ]
+    },
+    {
+      "class_name": "snorkel",
+      "selected_terms": []
+    },
+    {
+      "class_name": "snow leopard, ounce, Panthera uncia",
+      "selected_terms": []
+    },
+    {
+      "class_name": "snowmobile",
+      "selected_terms": []
+    },
+    {
+      "class_name": "snowplow, snowplough",
+      "selected_terms": []
+    },
+    {
+      "class_name": "soap dispenser",
+      "selected_terms": [
+        "businesswoman",
+        "cash_dispenser",
+        "soap_dispenser"
+      ]
+    },
+    {
+      "class_name": "soccer ball",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sock",
+      "selected_terms": []
+    },
+    {
+      "class_name": "soft-coated wheaten terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "solar dish, solar collector, solar furnace",
+      "selected_terms": [
+        "anechoic_chamber"
+      ]
+    },
+    {
+      "class_name": "sombrero",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sorrel",
+      "selected_terms": [
+        "African_grey",
+        "American_saddle_horse",
+        "Tennessee_walking_horse",
+        "United_Nations_Secretariat",
+        "draft_horse",
+        "harness_horse",
+        "macaroni_and_cheese"
+      ]
+    },
+    {
+      "class_name": "soup bowl",
+      "selected_terms": [
+        "Arches_National_Park",
+        "Katmai_National_Park",
+        "Lassen_Volcanic_National_Park",
+        "Mesa_Verde_National_Park",
+        "Yellowstone_National_Park",
+        "hamburger_roll"
+      ]
+    },
+    {
+      "class_name": "space bar",
+      "selected_terms": [
+        "brass_band",
+        "concert_band",
+        "dance_band",
+        "ice-cream_cake",
+        "skillet_cake",
+        "uneven_bars",
+        "uneven_parallel_bars"
+      ]
+    },
+    {
+      "class_name": "space heater",
+      "selected_terms": [
+        "electric_heater",
+        "gas_heater",
+        "hot-water_heater",
+        "oil_heater"
+      ]
+    },
+    {
+      "class_name": "space shuttle",
+      "selected_terms": [
+        "secretary_bird",
+        "shuttle",
+        "space_shuttle"
+      ]
+    },
+    {
+      "class_name": "spaghetti squash",
+      "selected_terms": [
+        "acorn_squash",
+        "spaghetti_squash",
+        "turban_squash"
+      ]
+    },
+    {
+      "class_name": "spatula",
+      "selected_terms": []
+    },
+    {
+      "class_name": "speedboat",
+      "selected_terms": [
+        "hydrofoil",
+        "powerboat",
+        "speedboat"
+      ]
+    },
+    {
+      "class_name": "spider monkey, Ateles geoffroyi",
+      "selected_terms": []
+    },
+    {
+      "class_name": "spider web, spider's web",
+      "selected_terms": []
+    },
+    {
+      "class_name": "spindle",
+      "selected_terms": [
+        "wood_vise",
+        "woodworking_vise"
+      ]
+    },
+    {
+      "class_name": "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",
+      "selected_terms": [
+        "American_crayfish",
+        "Norway_lobster",
+        "branchiopod_crustacean",
+        "cherrystone_clam",
+        "crayfish",
+        "seafood"
+      ]
+    },
+    {
+      "class_name": "spoonbill",
+      "selected_terms": [
+        "black-necked_stork",
+        "limpkin",
+        "marabou_stork",
+        "openbill",
+        "roseate_spoonbill",
+        "spoonbill",
+        "swamphen",
+        "wood_stork"
+      ]
+    },
+    {
+      "class_name": "sports car, sport car",
+      "selected_terms": []
+    },
+    {
+      "class_name": "spotlight, spot",
+      "selected_terms": [
+        "Changtzu",
+        "Home_Office",
+        "cabinetmaking",
+        "cabinetry",
+        "label",
+        "maglev",
+        "papermaking",
+        "percussion_section",
+        "portal_tomb",
+        "wall_painting"
+      ]
+    },
+    {
+      "class_name": "spotted salamander, Ambystoma maculatum",
+      "selected_terms": []
+    },
+    {
+      "class_name": "squirrel monkey, Saimiri sciureus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "stage",
+      "selected_terms": [
+        "1930s",
+        "1940s",
+        "1950s",
+        "1960s",
+        "cat_sleep",
+        "church_festival",
+        "crab_legs",
+        "cross-country_riding",
+        "dog_days",
+        "musth",
+        "paragliding",
+        "parasailing",
+        "spaceflight",
+        "trail_riding",
+        "wedding_anniversary"
+      ]
+    },
+    {
+      "class_name": "standard poodle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "standard schnauzer",
+      "selected_terms": []
+    },
+    {
+      "class_name": "starfish, sea star",
+      "selected_terms": []
+    },
+    {
+      "class_name": "steam locomotive",
+      "selected_terms": [
+        "Wankel_rotary_engine",
+        "diesel-electric_locomotive",
+        "diesel-hydraulic_locomotive",
+        "diesel_locomotive",
+        "electric_locomotive",
+        "railway_locomotive",
+        "rotary_engine",
+        "traction_engine"
+      ]
+    },
+    {
+      "class_name": "steel arch bridge",
+      "selected_terms": [
+        "Brooklyn_Bridge",
+        "Delaware_Memorial_Bridge",
+        "George_Washington_Bridge",
+        "Golden_Gate_Bridge",
+        "Pierre_Laporte_Bridge",
+        "Quebec_Bridge",
+        "Queensboro_Bridge",
+        "Sydney_Harbor_Bridge",
+        "Verrazano-Narrows_Bridge",
+        "Walt_Whitman_Bridge"
+      ]
+    },
+    {
+      "class_name": "steel drum",
+      "selected_terms": [
+        "cichlid",
+        "damselfish",
+        "element_of_a_cylinder",
+        "mudskipper",
+        "northern_pike",
+        "pikeblenny",
+        "pudding-wife",
+        "rain_barrel",
+        "snore",
+        "weakfish",
+        "wrasse"
+      ]
+    },
+    {
+      "class_name": "stethoscope",
+      "selected_terms": []
+    },
+    {
+      "class_name": "stingray",
+      "selected_terms": [
+        "guitarfish"
+      ]
+    },
+    {
+      "class_name": "stinkhorn, carrion fungus",
+      "selected_terms": [
+        "Barkley",
+        "Tutankhamen",
+        "authoress",
+        "bachelor_girl",
+        "ballet_mistress",
+        "bird's-nest_fungus",
+        "busker",
+        "canoeist",
+        "chorus_girl",
+        "ciliated_protozoan",
+        "division_Archaebacteria",
+        "elevator_girl",
+        "geisha_girl",
+        "genus_Lecanora",
+        "gondolier",
+        "mahout",
+        "parachutist",
+        "parvovirus",
+        "pedaler",
+        "planktonic_algae",
+        "sleepyhead",
+        "slobberer",
+        "snow_thrower",
+        "street_girl",
+        "top_fermenting_yeast"
+      ]
+    },
+    {
+      "class_name": "stole",
+      "selected_terms": []
+    },
+    {
+      "class_name": "stone wall",
+      "selected_terms": [
+        "Hadrian's_Wall"
+      ]
+    },
+    {
+      "class_name": "stopwatch, stop watch",
+      "selected_terms": [
+        "1930s",
+        "1940s",
+        "1950s",
+        "1960s",
+        "analog_watch",
+        "cat_sleep",
+        "church_festival",
+        "digital_watch",
+        "dog_days",
+        "dogwatch",
+        "wedding_anniversary",
+        "wrist_watch",
+        "wristwatch"
+      ]
+    },
+    {
+      "class_name": "stove",
+      "selected_terms": []
+    },
+    {
+      "class_name": "strainer",
+      "selected_terms": []
+    },
+    {
+      "class_name": "strawberry",
+      "selected_terms": []
+    },
+    {
+      "class_name": "street sign",
+      "selected_terms": [
+        "crochet_stitch",
+        "dog-ear",
+        "embroidery_stitch",
+        "garter_stitch",
+        "knit_stitch",
+        "stockinette_stitch"
+      ]
+    },
+    {
+      "class_name": "streetcar, tram, tramcar, trolley, trolley car",
+      "selected_terms": []
+    },
+    {
+      "class_name": "stretcher",
+      "selected_terms": [
+        "gravestone",
+        "headstone",
+        "litter"
+      ]
+    },
+    {
+      "class_name": "studio couch, day bed",
+      "selected_terms": [
+        "formal_garden"
+      ]
+    },
+    {
+      "class_name": "stupa, tope",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sturgeon",
+      "selected_terms": [
+        "deepwater_pipefish",
+        "dwarf_pipefish",
+        "pipefish"
+      ]
+    },
+    {
+      "class_name": "submarine, pigboat, sub, U-boat",
+      "selected_terms": [
+        "fleet_ballistic_missile_submarine"
+      ]
+    },
+    {
+      "class_name": "suit, suit of clothes",
+      "selected_terms": [
+        "cocktail_dress",
+        "evening_dress",
+        "intimate_apparel",
+        "street_clothes"
+      ]
+    },
+    {
+      "class_name": "sulphur butterfly, sulfur butterfly",
+      "selected_terms": [
+        "hairstreak_butterfly",
+        "sulphur_butterfly",
+        "tapestry_moth"
+      ]
+    },
+    {
+      "class_name": "sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sundial",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sunglass",
+      "selected_terms": []
+    },
+    {
+      "class_name": "sunglasses, dark glasses, shades",
+      "selected_terms": [
+        "crewelwork",
+        "double_crochet",
+        "needlepoint_embroidery"
+      ]
+    },
+    {
+      "class_name": "sunscreen, sunblock, sun blocker",
+      "selected_terms": [
+        "Mildred_Ella_Didrikson_Zaharias",
+        "anticoagulant_medication",
+        "gymnast",
+        "lipid-lowering_medication",
+        "patent_medicine",
+        "pharmaceutical"
+      ]
+    },
+    {
+      "class_name": "suspension bridge",
+      "selected_terms": [
+        "Brooklyn_Bridge",
+        "Delaware_Memorial_Bridge",
+        "George_Washington_Bridge",
+        "Golden_Gate_Bridge",
+        "Pierre_Laporte_Bridge",
+        "Quebec_Bridge",
+        "Queensboro_Bridge",
+        "Sydney_Harbor_Bridge",
+        "Verrazano-Narrows_Bridge",
+        "Walt_Whitman_Bridge"
+      ]
+    },
+    {
+      "class_name": "swab, swob, mop",
+      "selected_terms": [
+        "dustmop"
+      ]
+    },
+    {
+      "class_name": "sweatshirt",
+      "selected_terms": []
+    },
+    {
+      "class_name": "swimming trunks, bathing trunks",
+      "selected_terms": [
+        "automobile_trunk"
+      ]
+    },
+    {
+      "class_name": "swing",
+      "selected_terms": [
+        "CD-ROM_drive",
+        "backhand_stroke",
+        "forehand",
+        "forehand_stroke",
+        "parachuting",
+        "two-handed_backhand"
+      ]
+    },
+    {
+      "class_name": "switch, electric switch, electrical switch",
+      "selected_terms": [
+        "clock_dial",
+        "detente",
+        "fetch"
+      ]
+    },
+    {
+      "class_name": "syringe",
+      "selected_terms": []
+    },
+    {
+      "class_name": "tabby, tabby cat",
+      "selected_terms": [
+        "Abyssinian_cat",
+        "Angora_cat",
+        "Bengal_tiger",
+        "Burmese_cat",
+        "Persian_cat",
+        "Siamese_cat",
+        "Tasmanian_tiger",
+        "baby_buster",
+        "cheetah",
+        "civet_cat",
+        "domestic_cat",
+        "leopard",
+        "leopardess",
+        "liger",
+        "prescription_drug",
+        "sand_cat",
+        "snow_leopard",
+        "tachymeter",
+        "tent_caterpillar"
+      ]
+    },
+    {
+      "class_name": "table lamp",
+      "selected_terms": [
+        "Lady_with_the_Lamp",
+        "floor_lamp",
+        "gas-discharge_lamp",
+        "incandescent_lamp",
+        "infrared_lamp",
+        "sodium-vapor_lamp",
+        "table_lamp"
+      ]
+    },
+    {
+      "class_name": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+      "selected_terms": []
+    },
+    {
+      "class_name": "tank, army tank, armored combat vehicle, armoured combat vehicle",
+      "selected_terms": [
+        "armored_combat_vehicle",
+        "armoured_combat_vehicle"
+      ]
+    },
+    {
+      "class_name": "tape player",
+      "selected_terms": [
+        "accordionist",
+        "bar-room_plant",
+        "bassoonist",
+        "carillonneur",
+        "cassette_player",
+        "clarinettist",
+        "guitar_player",
+        "koto_player",
+        "musician",
+        "standup_comedian",
+        "sweet_corn_plant",
+        "trombone_player",
+        "volleyball_player",
+        "winter_squash_plant"
+      ]
+    },
+    {
+      "class_name": "tarantula",
+      "selected_terms": []
+    },
+    {
+      "class_name": "teapot",
+      "selected_terms": []
+    },
+    {
+      "class_name": "teddy, teddy bear",
+      "selected_terms": [
+        "Alaskan_brown_bear",
+        "Asiatic_black_bear",
+        "Kodiak_bear",
+        "giant_panda",
+        "lesser_panda",
+        "panda",
+        "red_panda",
+        "sloth_bear",
+        "teddy_bear"
+      ]
+    },
+    {
+      "class_name": "television, television system",
+      "selected_terms": [
+        "articulatory_system",
+        "scaffolding"
+      ]
+    },
+    {
+      "class_name": "tench, Tinca tinca",
+      "selected_terms": [
+        "Argiope",
+        "Balsamorhiza",
+        "Camponotus",
+        "Epinephelus",
+        "Geastrum",
+        "Porcellio",
+        "genus_Argiope",
+        "genus_Argynnis",
+        "genus_Armadillidium",
+        "genus_Camponotus",
+        "genus_Cortinarius",
+        "genus_Geastrum",
+        "genus_Lycaena",
+        "genus_Porcellio"
+      ]
+    },
+    {
+      "class_name": "tennis ball",
+      "selected_terms": []
+    },
+    {
+      "class_name": "terrapin",
+      "selected_terms": [
+        "diamondback_terrapin",
+        "yellow-bellied_terrapin"
+      ]
+    },
+    {
+      "class_name": "thatch, thatched roof",
+      "selected_terms": [
+        "cervical_cap"
+      ]
+    },
+    {
+      "class_name": "theater curtain, theatre curtain",
+      "selected_terms": []
+    },
+    {
+      "class_name": "thimble",
+      "selected_terms": []
+    },
+    {
+      "class_name": "three-toed sloth, ai, Bradypus tridactylus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "thresher, thrasher, threshing machine",
+      "selected_terms": []
+    },
+    {
+      "class_name": "throne",
+      "selected_terms": []
+    },
+    {
+      "class_name": "thunder snake, worm snake, Carphophis amoenus",
+      "selected_terms": []
+    },
+    {
+      "class_name": "tick",
+      "selected_terms": [
+        "snore"
+      ]
+    },
+    {
+      "class_name": "tiger beetle",
+      "selected_terms": [
+        "blister_beetle",
+        "carabid_beetle",
+        "green_June_beetle",
+        "lady_beetle",
+        "ladybeetle",
+        "ladybird_beetle",
+        "long-horned_beetle",
+        "two-spotted_ladybug"
+      ]
+    },
+    {
+      "class_name": "tiger cat",
+      "selected_terms": [
+        "Abyssinian_cat",
+        "Angora_cat",
+        "Bengal_tiger",
+        "Burmese_cat",
+        "Persian_cat",
+        "Siamese_cat",
+        "Tasmanian_tiger",
+        "baby_buster",
+        "cheetah",
+        "civet_cat",
+        "domestic_cat",
+        "leopard",
+        "leopardess",
+        "liger",
+        "prescription_drug",
+        "sand_cat",
+        "snow_leopard",
+        "tachymeter",
+        "tent_caterpillar"
+      ]
+    },
+    {
+      "class_name": "tiger shark, Galeocerdo cuvieri",
+      "selected_terms": []
+    },
+    {
+      "class_name": "tiger, Panthera tigris",
+      "selected_terms": [
+        "Panthera_tigris"
+      ]
+    },
+    {
+      "class_name": "tile roof",
+      "selected_terms": []
+    },
+    {
+      "class_name": "timber wolf, grey wolf, gray wolf, Canis lupus",
+      "selected_terms": [
+        "manic_depressive_illness"
+      ]
+    },
+    {
+      "class_name": "titi, titi monkey",
+      "selected_terms": [
+        "bonnet_monkey",
+        "colobus_monkey",
+        "genus_Lemur",
+        "guenon_monkey",
+        "howler_monkey",
+        "ring-tailed_lemur",
+        "titi_monkey",
+        "vervet_monkey",
+        "woolly_monkey"
+      ]
+    },
+    {
+      "class_name": "toaster",
+      "selected_terms": []
+    },
+    {
+      "class_name": "tobacco shop, tobacconist shop, tobacconist",
+      "selected_terms": [
+        "pitchman"
+      ]
+    },
+    {
+      "class_name": "toilet seat",
+      "selected_terms": [
+        "lobster_tail",
+        "workspace"
+      ]
+    },
+    {
+      "class_name": "toilet tissue, toilet paper, bathroom tissue",
+      "selected_terms": [
+        "bathroom_tissue"
+      ]
+    },
+    {
+      "class_name": "torch",
+      "selected_terms": [
+        "gymnastic_apparatus"
+      ]
+    },
+    {
+      "class_name": "totem pole",
+      "selected_terms": [
+        "banded_stilt",
+        "black-necked_stilt",
+        "coastline",
+        "totem_pole"
+      ]
+    },
+    {
+      "class_name": "toucan",
+      "selected_terms": [
+        "downy_woodpecker",
+        "red-breasted_sapsucker",
+        "redheaded_woodpecker",
+        "toucanet",
+        "yellow-bellied_sapsucker"
+      ]
+    },
+    {
+      "class_name": "tow truck, tow car, wrecker",
+      "selected_terms": [
+        "guided_missile_destroyer"
+      ]
+    },
+    {
+      "class_name": "toy poodle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "toy terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "toyshop",
+      "selected_terms": [
+        "toyshop"
+      ]
+    },
+    {
+      "class_name": "tractor",
+      "selected_terms": [
+        "tractor"
+      ]
+    },
+    {
+      "class_name": "traffic light, traffic signal, stoplight",
+      "selected_terms": []
+    },
+    {
+      "class_name": "trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",
+      "selected_terms": [
+        "Iditarod_Trail_Dog_Sled_Race",
+        "automobile_race",
+        "dogfight",
+        "offshore_rig",
+        "sailing-race",
+        "scratch_race",
+        "scuba_diving",
+        "snorkel_diving",
+        "trucking_rig",
+        "tug-of-war",
+        "yacht_race"
+      ]
+    },
+    {
+      "class_name": "tray",
+      "selected_terms": [
+        "chamberpot"
+      ]
+    },
+    {
+      "class_name": "tree frog, tree-frog",
+      "selected_terms": [
+        "African_clawed_frog",
+        "cascades_frog",
+        "chameleon_tree_frog",
+        "pickerel_frog",
+        "spadefoot_toad",
+        "wood-frog"
+      ]
+    },
+    {
+      "class_name": "trench coat",
+      "selected_terms": [
+        "hooded_seal"
+      ]
+    },
+    {
+      "class_name": "triceratops",
+      "selected_terms": [
+        "Edmontonia",
+        "ceratopsian",
+        "genus_Protoceratops",
+        "protoceratops"
+      ]
+    },
+    {
+      "class_name": "tricycle, trike, velocipede",
+      "selected_terms": [
+        "pedicab",
+        "trike"
+      ]
+    },
+    {
+      "class_name": "trifle",
+      "selected_terms": [
+        "dessert",
+        "tiramisu",
+        "zabaglione"
+      ]
+    },
+    {
+      "class_name": "trilobite",
+      "selected_terms": []
+    },
+    {
+      "class_name": "trimaran",
+      "selected_terms": [
+        "trimaran"
+      ]
+    },
+    {
+      "class_name": "tripod",
+      "selected_terms": []
+    },
+    {
+      "class_name": "triumphal arch",
+      "selected_terms": [
+        "Roman_arch",
+        "trimmer_arch"
+      ]
+    },
+    {
+      "class_name": "trolleybus, trolley coach, trackless trolley",
+      "selected_terms": [
+        "horsecar",
+        "streetcar",
+        "tram"
+      ]
+    },
+    {
+      "class_name": "trombone",
+      "selected_terms": []
+    },
+    {
+      "class_name": "tub, vat",
+      "selected_terms": []
+    },
+    {
+      "class_name": "turnstile",
+      "selected_terms": []
+    },
+    {
+      "class_name": "tusker",
+      "selected_terms": []
+    },
+    {
+      "class_name": "typewriter keyboard",
+      "selected_terms": [
+        "typewriter_keyboard"
+      ]
+    },
+    {
+      "class_name": "umbrella",
+      "selected_terms": [
+        "battle_of_Tannenberg"
+      ]
+    },
+    {
+      "class_name": "unicycle, monocycle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "upright, upright piano",
+      "selected_terms": [
+        "mechanical_piano",
+        "upright_piano"
+      ]
+    },
+    {
+      "class_name": "vacuum, vacuum cleaner",
+      "selected_terms": [
+        "lollipop_woman",
+        "nail_polish",
+        "pitchman",
+        "rainwater"
+      ]
+    },
+    {
+      "class_name": "valley, vale",
+      "selected_terms": []
+    },
+    {
+      "class_name": "vase",
+      "selected_terms": []
+    },
+    {
+      "class_name": "vault",
+      "selected_terms": []
+    },
+    {
+      "class_name": "velvet",
+      "selected_terms": []
+    },
+    {
+      "class_name": "vending machine",
+      "selected_terms": []
+    },
+    {
+      "class_name": "vestment",
+      "selected_terms": [
+        "chasuble"
+      ]
+    },
+    {
+      "class_name": "viaduct",
+      "selected_terms": []
+    },
+    {
+      "class_name": "vine snake",
+      "selected_terms": []
+    },
+    {
+      "class_name": "violin, fiddle",
+      "selected_terms": [
+        "contrabass"
+      ]
+    },
+    {
+      "class_name": "vizsla, Hungarian pointer",
+      "selected_terms": [
+        "German_short-haired_pointer",
+        "Space_Needle",
+        "upholstery_needle"
+      ]
+    },
+    {
+      "class_name": "volcano",
+      "selected_terms": []
+    },
+    {
+      "class_name": "volleyball",
+      "selected_terms": []
+    },
+    {
+      "class_name": "vulture",
+      "selected_terms": [
+        "European_sea_eagle",
+        "Kamchatkan_sea_eagle",
+        "bald_eagle",
+        "barred_owl",
+        "fishing_eagle",
+        "great_grey_owl",
+        "long-eared_owl",
+        "scops_owl",
+        "tawny_owl",
+        "white-tailed_sea_eagle"
+      ]
+    },
+    {
+      "class_name": "waffle iron",
+      "selected_terms": [
+        "corrugated_iron",
+        "darmstadtium",
+        "grid_metal"
+      ]
+    },
+    {
+      "class_name": "walking stick, walkingstick, stick insect",
+      "selected_terms": [
+        "leaf_insect",
+        "stick_insect",
+        "velvet_worm"
+      ]
+    },
+    {
+      "class_name": "wall clock",
+      "selected_terms": [
+        "analog_clock",
+        "caesium_clock",
+        "longcase_clock",
+        "pendulum_clock"
+      ]
+    },
+    {
+      "class_name": "wallaby, brush kangaroo",
+      "selected_terms": [
+        "nail-tailed_wallaby",
+        "pademelon",
+        "rock_wallaby",
+        "tree_kangaroo"
+      ]
+    },
+    {
+      "class_name": "wallet, billfold, notecase, pocketbook",
+      "selected_terms": []
+    },
+    {
+      "class_name": "wardrobe, closet, press",
+      "selected_terms": [
+        "graph_paper",
+        "linen_paper",
+        "pulp_magazine",
+        "tissue_paper",
+        "wrapping_paper",
+        "writing_paper"
+      ]
+    },
+    {
+      "class_name": "warplane, military plane",
+      "selected_terms": [
+        "jetliner",
+        "military_plane",
+        "multiengine_airplane",
+        "router_plane",
+        "spokeshave"
+      ]
+    },
+    {
+      "class_name": "warthog",
+      "selected_terms": [
+        "babiroussa",
+        "babirusa",
+        "guinea_pig"
+      ]
+    },
+    {
+      "class_name": "washbasin, handbasin, washbowl, lavabo, wash-hand basin",
+      "selected_terms": [
+        "bidet",
+        "farmland"
+      ]
+    },
+    {
+      "class_name": "washer, automatic washer, washing machine",
+      "selected_terms": []
+    },
+    {
+      "class_name": "water bottle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",
+      "selected_terms": []
+    },
+    {
+      "class_name": "water jug",
+      "selected_terms": []
+    },
+    {
+      "class_name": "water ouzel, dipper",
+      "selected_terms": [
+        "Conestoga_wagon",
+        "black-fronted_bush_shrike",
+        "crested_myna",
+        "emerald_creeper",
+        "genus_Cotinga",
+        "lesser_scaup",
+        "lesser_scaup_duck",
+        "police_wagon",
+        "scaup_duck",
+        "station_wagon",
+        "tree_swallow"
+      ]
+    },
+    {
+      "class_name": "water snake",
+      "selected_terms": []
+    },
+    {
+      "class_name": "water tower",
+      "selected_terms": [
+        "CN_Tower",
+        "church_tower",
+        "minaret",
+        "observation_tower",
+        "water_tower"
+      ]
+    },
+    {
+      "class_name": "weasel",
+      "selected_terms": [
+        "black-footed_ferret",
+        "pine_marten",
+        "yellow-throated_marten"
+      ]
+    },
+    {
+      "class_name": "web site, website, internet site, site",
+      "selected_terms": [
+        "Sinai_Desert",
+        "Thar_Desert",
+        "Turkestan_Desert",
+        "Western_Sahara",
+        "campsite",
+        "football_tee",
+        "half-mast",
+        "half-staff",
+        "railyard",
+        "trailer_camp"
+      ]
+    },
+    {
+      "class_name": "weevil",
+      "selected_terms": []
+    },
+    {
+      "class_name": "whippet",
+      "selected_terms": []
+    },
+    {
+      "class_name": "whiptail, whiptail lizard",
+      "selected_terms": [
+        "Komodo_lizard",
+        "caiman_lizard",
+        "collared_lizard",
+        "earless_lizard",
+        "green_lizard",
+        "sagebrush_lizard",
+        "zebra-tailed_lizard"
+      ]
+    },
+    {
+      "class_name": "whiskey jug",
+      "selected_terms": []
+    },
+    {
+      "class_name": "whistle",
+      "selected_terms": [
+        "cassette_recorder",
+        "ocarina",
+        "snore",
+        "videocassette_recorder"
+      ]
+    },
+    {
+      "class_name": "white stork, Ciconia ciconia",
+      "selected_terms": []
+    },
+    {
+      "class_name": "white wolf, Arctic wolf, Canis lupus tundrarum",
+      "selected_terms": []
+    },
+    {
+      "class_name": "wig",
+      "selected_terms": []
+    },
+    {
+      "class_name": "wild boar, boar, Sus scrofa",
+      "selected_terms": []
+    },
+    {
+      "class_name": "window screen",
+      "selected_terms": [
+        "window_blind"
+      ]
+    },
+    {
+      "class_name": "window shade",
+      "selected_terms": [
+        "crewelwork",
+        "double_crochet"
+      ]
+    },
+    {
+      "class_name": "wine bottle",
+      "selected_terms": []
+    },
+    {
+      "class_name": "wing",
+      "selected_terms": [
+        "half-mast",
+        "half-staff"
+      ]
+    },
+    {
+      "class_name": "wire-haired fox terrier",
+      "selected_terms": []
+    },
+    {
+      "class_name": "wok",
+      "selected_terms": [
+        "cooking_pan"
+      ]
+    },
+    {
+      "class_name": "wolf spider, hunting spider",
+      "selected_terms": [
+        "black_and_gold_garden_spider",
+        "garden_spider",
+        "pseudoscorpion"
+      ]
+    },
+    {
+      "class_name": "wombat",
+      "selected_terms": []
+    },
+    {
+      "class_name": "wood rabbit, cottontail, cottontail rabbit",
+      "selected_terms": [
+        "cottontail_rabbit"
+      ]
+    },
+    {
+      "class_name": "wooden spoon",
+      "selected_terms": [
+        "cabinet_wood"
+      ]
+    },
+    {
+      "class_name": "wool, woolen, woolen",
+      "selected_terms": []
+    },
+    {
+      "class_name": "worm fence, snake fence, snake-rail fence, Virginia fence",
+      "selected_terms": []
+    },
+    {
+      "class_name": "wreck",
+      "selected_terms": []
+    },
+    {
+      "class_name": "yawl",
+      "selected_terms": [
+        "square-rigger"
+      ]
+    },
+    {
+      "class_name": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",
+      "selected_terms": []
+    },
+    {
+      "class_name": "yurt",
+      "selected_terms": []
+    },
+    {
+      "class_name": "zebra",
+      "selected_terms": [
+        "common_zebra",
+        "grevy's_zebra",
+        "zebra"
+      ]
+    },
+    {
+      "class_name": "zucchini, courgetti",
+      "selected_terms": []
+    }
+  ]
+}

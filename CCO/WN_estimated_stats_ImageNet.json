@@ -1,0 +1,15 @@
+{
+  "dataset": "ImageNet",
+  "num_classes": 999,
+  "num_unique_terms": 1407,
+  "tau": 0.35,
+  "mode": "multi",
+  "include_none": false,
+  "cco": {
+    "frac_terms_shared_ge2": 0.5063957863054929,
+    "num_terms_denom": 1329,
+    "num_terms_shared_ge2": 673,
+    "avg_classes_per_term": 1.8133935289691496
+  },
+  "note": "Estimated via WordNet Wu-Palmer similarity between noun synsets and class-label synsets (with head backoff)."
+}

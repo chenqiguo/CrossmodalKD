@@ -1,0 +1,1114 @@
+{
+  "dataset": "CIFAR100",
+  "classes": [
+    {
+      "class_name": "apple",
+      "selected_terms": []
+    },
+    {
+      "class_name": "aquarium_fish",
+      "selected_terms": [
+        "Eurasian_woodcock",
+        "Kamehameha_the_Great",
+        "Oriental_scops_owl",
+        "Resurrection_of_Christ",
+        "barred_owl",
+        "bleacher",
+        "canned_food",
+        "canned_foods",
+        "capercaillie",
+        "chaotic_attractor",
+        "characin_fish",
+        "cichlid_fish",
+        "cliff_swallow",
+        "curassow",
+        "cybernaut",
+        "delicatessen_food",
+        "eucaryote",
+        "hoopoe",
+        "hornbill",
+        "laughing_owl",
+        "long-eared_owl",
+        "mercenary",
+        "owl",
+        "pickerel_frog",
+        "rainbow_lorikeet",
+        "retard",
+        "robbery_suspect",
+        "skillet_cake",
+        "spadefoot_toad",
+        "underwater_diver",
+        "wryneck"
+      ]
+    },
+    {
+      "class_name": "baby",
+      "selected_terms": [
+        "Eurasian_woodcock",
+        "Kamehameha_the_Great",
+        "Oriental_scops_owl",
+        "Resurrection_of_Christ",
+        "barred_owl",
+        "bathymetry",
+        "bleacher",
+        "capercaillie",
+        "chaotic_attractor",
+        "cliff_swallow",
+        "curassow",
+        "cybernaut",
+        "eucaryote",
+        "feeding",
+        "frisk",
+        "hoopoe",
+        "hornbill",
+        "laughing_owl",
+        "long-eared_owl",
+        "mercenary",
+        "open-air_marketplace",
+        "owl",
+        "pickerel_frog",
+        "rainbow_lorikeet",
+        "retard",
+        "robbery_suspect",
+        "spadefoot_toad",
+        "topographic_anatomy",
+        "underwater_diver",
+        "wryneck"
+      ]
+    },
+    {
+      "class_name": "bear",
+      "selected_terms": [
+        "big-eared_bat",
+        "genus_Tamandua",
+        "long-eared_bat",
+        "pallid_bat",
+        "tamandua",
+        "tube-nosed_bat",
+        "western_big-eared_bat"
+      ]
+    },
+    {
+      "class_name": "beaver",
+      "selected_terms": [
+        "big-eared_bat",
+        "chasuble",
+        "crotch_hair",
+        "genus_Tamandua",
+        "imperial_beard",
+        "jerboa",
+        "kaffiyeh",
+        "long-eared_bat",
+        "mandibular_bone",
+        "old_man's_beard",
+        "pallid_bat",
+        "tamandua",
+        "tube-nosed_bat",
+        "western_big-eared_bat",
+        "whit_leather"
+      ]
+    },
+    {
+      "class_name": "bed",
+      "selected_terms": [
+        "Charlestown_Navy_Yard",
+        "Jockey_shorts",
+        "artificial_horizon",
+        "canned_goods",
+        "clock_face",
+        "coal_seam",
+        "combat_ceiling",
+        "diptych",
+        "dry_wall",
+        "farmland",
+        "gas_station",
+        "kaleidoscope",
+        "podzol_soil",
+        "skillet_cake",
+        "upper_surface",
+        "wheatfield"
+      ]
+    },
+    {
+      "class_name": "bee",
+      "selected_terms": [
+        "Kurdistan_Workers_Party",
+        "bald-faced_hornet",
+        "box_number",
+        "bus_company"
+      ]
+    },
+    {
+      "class_name": "beetle",
+      "selected_terms": [
+        "carabid_beetle",
+        "double-propeller_plane",
+        "propeller_plane",
+        "single-propeller_plane",
+        "turbo-propeller_plane"
+      ]
+    },
+    {
+      "class_name": "bicycle",
+      "selected_terms": [
+        "bicycle",
+        "bicycle-built-for-two",
+        "push-bike",
+        "safety_bicycle",
+        "tandem_bicycle"
+      ]
+    },
+    {
+      "class_name": "bottle",
+      "selected_terms": [
+        "Bodoni_font",
+        "beer_bottle",
+        "bottle",
+        "monospaced_font",
+        "screen_font"
+      ]
+    },
+    {
+      "class_name": "bowl",
+      "selected_terms": [
+        "Bodoni_font",
+        "CN_Tower",
+        "Carnegie_Mellon_University",
+        "Mount_Ranier_National_Park",
+        "Sears_Tower",
+        "Uncompahgre_Peak",
+        "breakwater",
+        "crevice",
+        "launch",
+        "monospaced_font",
+        "mountain_peak",
+        "organ_loft",
+        "rocket_firing",
+        "rocket_launching",
+        "screen_font",
+        "window_envelope"
+      ]
+    },
+    {
+      "class_name": "boy",
+      "selected_terms": []
+    },
+    {
+      "class_name": "bridge",
+      "selected_terms": [
+        "CN_Tower",
+        "Carnegie_Mellon_University",
+        "Lake_Michigan",
+        "Sears_Tower",
+        "Uncompahgre_Peak",
+        "bathymetry",
+        "breakwater",
+        "business_card",
+        "facial_vein",
+        "feeding",
+        "frisk",
+        "lunar_module",
+        "mountain_peak",
+        "open-air_marketplace",
+        "organ_loft",
+        "shelf_bracket",
+        "vocal_fold"
+      ]
+    },
+    {
+      "class_name": "bus",
+      "selected_terms": [
+        "armoured_car",
+        "autobus",
+        "bumper_car",
+        "dialysis_machine",
+        "gnome",
+        "railway_car",
+        "trolleybus"
+      ]
+    },
+    {
+      "class_name": "butterfly",
+      "selected_terms": [
+        "translation"
+      ]
+    },
+    {
+      "class_name": "camel",
+      "selected_terms": [
+        "Arabian_camel",
+        "Bactrian_camel",
+        "camel",
+        "dromedary",
+        "okapi"
+      ]
+    },
+    {
+      "class_name": "can",
+      "selected_terms": [
+        "coffee_can",
+        "dance_floor",
+        "dorm_room",
+        "forehead",
+        "gum_boot",
+        "hotel_room",
+        "laminar_flow_clean_room",
+        "nucleolus",
+        "rainbow_shower",
+        "soda_can",
+        "torso",
+        "window_envelope"
+      ]
+    },
+    {
+      "class_name": "castle",
+      "selected_terms": [
+        "Balmoral_Castle",
+        "Marguerite_Radclyffe_Hall",
+        "Przewalski's_horse",
+        "castle",
+        "dugout",
+        "houndstooth_check"
+      ]
+    },
+    {
+      "class_name": "caterpillar",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cattle",
+      "selected_terms": [
+        "Holstein-Friesian",
+        "cows",
+        "dairy_cattle",
+        "milking_shorthorn",
+        "sable_antelope",
+        "shorthorn"
+      ]
+    },
+    {
+      "class_name": "chair",
+      "selected_terms": [
+        "Morris_chair",
+        "bathymetry",
+        "chair",
+        "feeding",
+        "frisk",
+        "open-air_marketplace"
+      ]
+    },
+    {
+      "class_name": "chimpanzee",
+      "selected_terms": []
+    },
+    {
+      "class_name": "clock",
+      "selected_terms": [
+        "analog_clock",
+        "clock",
+        "longcase_clock",
+        "thermograph"
+      ]
+    },
+    {
+      "class_name": "cloud",
+      "selected_terms": [
+        "acid_rain",
+        "altocumulus",
+        "altocumulus_cloud",
+        "cirrocumulus_cloud",
+        "cloudburst",
+        "diffuse_nebula",
+        "electron_spin_resonance",
+        "planetary_nebula",
+        "spiral_nebula",
+        "sunrise",
+        "sunset",
+        "void",
+        "whiteout"
+      ]
+    },
+    {
+      "class_name": "cockroach",
+      "selected_terms": [
+        "Asiatic_cockroach"
+      ]
+    },
+    {
+      "class_name": "couch",
+      "selected_terms": []
+    },
+    {
+      "class_name": "crab",
+      "selected_terms": [
+        "Greco-Roman_wrestling",
+        "Kamehameha_the_Great",
+        "Resurrection_of_Christ",
+        "bleacher",
+        "camel_racing",
+        "chaotic_attractor",
+        "cockfighting",
+        "cybernaut",
+        "eucaryote",
+        "harness_racing",
+        "mercenary",
+        "retard",
+        "robbery_suspect"
+      ]
+    },
+    {
+      "class_name": "crocodile",
+      "selected_terms": []
+    },
+    {
+      "class_name": "cup",
+      "selected_terms": [
+        "Bravais_lattice",
+        "bus_service",
+        "canal_boat",
+        "chalice",
+        "crevice",
+        "crystal_lattice",
+        "goblet",
+        "lattice",
+        "narrow_boat",
+        "window_envelope"
+      ]
+    },
+    {
+      "class_name": "dinosaur",
+      "selected_terms": [
+        "anatotitan",
+        "edmontosaurus",
+        "genus_Anatotitan",
+        "genus_Protoceratops",
+        "psittacosaur"
+      ]
+    },
+    {
+      "class_name": "dolphin",
+      "selected_terms": [
+        "Atlantic_bottlenose_dolphin",
+        "common_dolphin",
+        "dolphinfish",
+        "wrasse"
+      ]
+    },
+    {
+      "class_name": "elephant",
+      "selected_terms": [
+        "Stars_and_Stripes",
+        "big-eared_bat",
+        "columbian_mammoth",
+        "genus_Tamandua",
+        "long-eared_bat",
+        "merit_badge",
+        "pallid_bat",
+        "tamandua",
+        "tube-nosed_bat",
+        "western_big-eared_bat",
+        "wet_dream"
+      ]
+    },
+    {
+      "class_name": "flatfish",
+      "selected_terms": []
+    },
+    {
+      "class_name": "forest",
+      "selected_terms": [
+        "Natalie_Wood",
+        "New_Forest",
+        "Northern_Marianas",
+        "Paumotu_Archipelago",
+        "archipelago",
+        "biome"
+      ]
+    },
+    {
+      "class_name": "fox",
+      "selected_terms": [
+        "Alaskan_malamute",
+        "Ciudad_Bolivar",
+        "Fumimaro_Konoe",
+        "Hmong",
+        "Maltese_dog",
+        "Mount_Shasta",
+        "Old_English_sheepdog",
+        "Prince_Fumimaro_Konoe",
+        "Prince_Fumimaro_Konoye",
+        "Samoyed",
+        "Shetland_sheepdog",
+        "dingo",
+        "giant_schnauzer",
+        "mandibular_bone",
+        "whit_leather"
+      ]
+    },
+    {
+      "class_name": "girl",
+      "selected_terms": [
+        "elevator_girl",
+        "geisha_girl",
+        "poster_girl"
+      ]
+    },
+    {
+      "class_name": "hamster",
+      "selected_terms": [
+        "Eurasian_hamster",
+        "Syrian_hamster",
+        "hamster",
+        "jerboa"
+      ]
+    },
+    {
+      "class_name": "house",
+      "selected_terms": [
+        "American_Federation_of_Labor_and_Congress_of_Industrial_Organizations",
+        "Attorney_General_of_the_United_States",
+        "Empire_State_Building",
+        "Tudor_architecture",
+        "Villa",
+        "asteroid_belt",
+        "bus_company",
+        "card_trick",
+        "chair_of_state",
+        "chateau",
+        "cover_song",
+        "duckweed_family",
+        "duplex_house",
+        "ecstatic_state",
+        "graph_paper",
+        "harlequinade",
+        "ice-hockey_rink",
+        "ice_hockey_rink",
+        "intergalactic_space",
+        "landscape_architecture",
+        "mujahideen",
+        "music_paper",
+        "nude_dancing",
+        "professional_organisation",
+        "redevelopment_authority",
+        "semi-detached_house",
+        "truck_dealer",
+        "villa",
+        "whip_scorpion"
+      ]
+    },
+    {
+      "class_name": "kangaroo",
+      "selected_terms": [
+        "giant_anteater"
+      ]
+    },
+    {
+      "class_name": "keyboard",
+      "selected_terms": [
+        "Space_Needle",
+        "clock_dial",
+        "hand-held_microcomputer",
+        "mail_slot",
+        "mantrap",
+        "pocket_flap",
+        "portable_computer"
+      ]
+    },
+    {
+      "class_name": "lamp",
+      "selected_terms": [
+        "Rolodex",
+        "bedroom_furniture",
+        "heat_lamp"
+      ]
+    },
+    {
+      "class_name": "lawn_mower",
+      "selected_terms": [
+        "double-bitted_axe"
+      ]
+    },
+    {
+      "class_name": "leopard",
+      "selected_terms": [
+        "Lynx_caracal",
+        "liger",
+        "mandibular_bone",
+        "tigon",
+        "whit_leather"
+      ]
+    },
+    {
+      "class_name": "lion",
+      "selected_terms": [
+        "Lynx_caracal",
+        "liger",
+        "tigon"
+      ]
+    },
+    {
+      "class_name": "lizard",
+      "selected_terms": [
+        "flying_gecko"
+      ]
+    },
+    {
+      "class_name": "lobster",
+      "selected_terms": []
+    },
+    {
+      "class_name": "man",
+      "selected_terms": [
+        "Aegadean_Islands",
+        "Confederate_soldier",
+        "Erin",
+        "Friendly_Islands",
+        "US_Attorney_General",
+        "cassette_recorder",
+        "doughboy",
+        "ducks_and_drakes",
+        "gentleman-at-arms",
+        "isle",
+        "man-at-arms",
+        "soliton_wave",
+        "sports_page",
+        "title_page"
+      ]
+    },
+    {
+      "class_name": "maple_tree",
+      "selected_terms": [
+        "Jean_Harlow",
+        "Joan_Miro",
+        "Judy_Garland",
+        "Norway_maple",
+        "Spike_Lee",
+        "actress",
+        "adder's_tongue_fern",
+        "bird's_nest_fern",
+        "climbing_bird's_nest_fern",
+        "coconut_tree",
+        "coniferous_tree",
+        "emerald_creeper",
+        "enchanter's_nightshade",
+        "florist's_gloxinia",
+        "metasequoia",
+        "mountain_swamp_gum",
+        "palm_tree",
+        "royal_palm",
+        "sago_palm",
+        "stoneface",
+        "sundew_plant",
+        "swamp_bay"
+      ]
+    },
+    {
+      "class_name": "motorcycle",
+      "selected_terms": [
+        "go-kart",
+        "minibike",
+        "moped",
+        "motorbike",
+        "motorcycle"
+      ]
+    },
+    {
+      "class_name": "mountain",
+      "selected_terms": []
+    },
+    {
+      "class_name": "mouse",
+      "selected_terms": [
+        "cosmic_microwave_background",
+        "gas-discharge_tube",
+        "jerboa",
+        "plagiocephaly"
+      ]
+    },
+    {
+      "class_name": "mushroom",
+      "selected_terms": [
+        "blushing_mushroom",
+        "exploding_cucumber",
+        "iceberg",
+        "scaly_polypore"
+      ]
+    },
+    {
+      "class_name": "oak_tree",
+      "selected_terms": [
+        "Jean_Harlow",
+        "Joan_Miro",
+        "Judy_Garland",
+        "Norway_maple",
+        "Spike_Lee",
+        "actress",
+        "adder's_tongue_fern",
+        "bird's_nest_fern",
+        "climbing_bird's_nest_fern",
+        "coconut_tree",
+        "coniferous_tree",
+        "emerald_creeper",
+        "enchanter's_nightshade",
+        "florist's_gloxinia",
+        "metasequoia",
+        "mountain_swamp_gum",
+        "palm_tree",
+        "royal_palm",
+        "sago_palm",
+        "stoneface",
+        "sundew_plant",
+        "swamp_bay"
+      ]
+    },
+    {
+      "class_name": "orange",
+      "selected_terms": [
+        "Harlem_River",
+        "chalcopyrite",
+        "complementary_color",
+        "hydrogen_atom",
+        "methyl_orange",
+        "potato_peel",
+        "spectral_color",
+        "spectral_colour"
+      ]
+    },
+    {
+      "class_name": "orchid",
+      "selected_terms": [
+        "mistflower",
+        "tulip_orchid"
+      ]
+    },
+    {
+      "class_name": "otter",
+      "selected_terms": [
+        "yellow-throated_marten"
+      ]
+    },
+    {
+      "class_name": "palm_tree",
+      "selected_terms": [
+        "Jean_Harlow",
+        "Joan_Miro",
+        "Judy_Garland",
+        "Norway_maple",
+        "Spike_Lee",
+        "actress",
+        "adder's_tongue_fern",
+        "bird's_nest_fern",
+        "climbing_bird's_nest_fern",
+        "coconut_tree",
+        "coniferous_tree",
+        "emerald_creeper",
+        "enchanter's_nightshade",
+        "florist's_gloxinia",
+        "metasequoia",
+        "mountain_swamp_gum",
+        "palm_tree",
+        "royal_palm",
+        "sago_palm",
+        "stoneface",
+        "sundew_plant",
+        "swamp_bay"
+      ]
+    },
+    {
+      "class_name": "pear",
+      "selected_terms": [
+        "persimmon"
+      ]
+    },
+    {
+      "class_name": "pickup_truck",
+      "selected_terms": [
+        "bookmobile",
+        "car_transporter",
+        "go-cart",
+        "go-kart",
+        "pickup_truck",
+        "tow_truck",
+        "truck"
+      ]
+    },
+    {
+      "class_name": "pine_tree",
+      "selected_terms": []
+    },
+    {
+      "class_name": "plain",
+      "selected_terms": [
+        "Battle_of_Flodden_Field",
+        "Northern_Marianas",
+        "Paumotu_Archipelago",
+        "Serengeti_Plain",
+        "archipelago",
+        "wheat_field"
+      ]
+    },
+    {
+      "class_name": "plate",
+      "selected_terms": [
+        "X-ray_photograph",
+        "bus_service",
+        "cloud_cover",
+        "color_chart",
+        "contour_map",
+        "dessert_plate",
+        "facial_vein",
+        "monochrome",
+        "relief_map",
+        "sandwich_plate",
+        "soup_plate",
+        "storage-battery_grid",
+        "suit_of_armor",
+        "vocal_fold"
+      ]
+    },
+    {
+      "class_name": "poppy",
+      "selected_terms": [
+        "flaming_poppy",
+        "mistflower"
+      ]
+    },
+    {
+      "class_name": "porcupine",
+      "selected_terms": []
+    },
+    {
+      "class_name": "possum",
+      "selected_terms": [
+        "crab-eating_opossum",
+        "giant_anteater"
+      ]
+    },
+    {
+      "class_name": "rabbit",
+      "selected_terms": [
+        "Angora_rabbit",
+        "golf_game"
+      ]
+    },
+    {
+      "class_name": "raccoon",
+      "selected_terms": []
+    },
+    {
+      "class_name": "ray",
+      "selected_terms": [
+        "cosmic_microwave_background_radiation",
+        "primary_color_for_light",
+        "primary_colour_for_light",
+        "primary_subtractive_color_for_light",
+        "primary_subtractive_colour_for_light"
+      ]
+    },
+    {
+      "class_name": "road",
+      "selected_terms": [
+        "carriageway",
+        "divided_highway",
+        "dual_carriageway",
+        "highway",
+        "labyrinthine_artery",
+        "local_road",
+        "private_road",
+        "road",
+        "roadway",
+        "side_road"
+      ]
+    },
+    {
+      "class_name": "rocket",
+      "selected_terms": [
+        "Second_Epistle_of_Paul_the_Apostle_to_Timothy",
+        "armored_combat_vehicle",
+        "armoured_combat_vehicle",
+        "jack-in-the-pulpit",
+        "plum_tomato",
+        "potato_bean",
+        "sounding_rocket",
+        "sundew",
+        "takeoff_rocket",
+        "tomato"
+      ]
+    },
+    {
+      "class_name": "rose",
+      "selected_terms": [
+        "Willie_Mays",
+        "bird-on-the-wing",
+        "gorgonian_coral"
+      ]
+    },
+    {
+      "class_name": "sea",
+      "selected_terms": [
+        "Antarctic_Ocean",
+        "Lake_Superior",
+        "Mediterranean_Sea",
+        "mud_puddle",
+        "puddle"
+      ]
+    },
+    {
+      "class_name": "seal",
+      "selected_terms": [
+        "business_letter",
+        "peptide_bond",
+        "pope's_nose"
+      ]
+    },
+    {
+      "class_name": "shark",
+      "selected_terms": [
+        "longfin_mako",
+        "oceanic_whitetip_shark",
+        "whitetip_shark"
+      ]
+    },
+    {
+      "class_name": "shrew",
+      "selected_terms": [
+        "American_shrew_mole",
+        "hair-tailed_mole",
+        "marsupial_mole",
+        "otter_shrew"
+      ]
+    },
+    {
+      "class_name": "skunk",
+      "selected_terms": [
+        "Korean_lawn_grass",
+        "U.S._National_Library_of_Medicine",
+        "ball_of_fire",
+        "face_soap",
+        "jerboa_rat",
+        "yellow-throated_marten"
+      ]
+    },
+    {
+      "class_name": "skyscraper",
+      "selected_terms": [
+        "Empire_State_Building",
+        "Tudor_architecture",
+        "ice-hockey_rink",
+        "ice_hockey_rink",
+        "landscape_architecture",
+        "skyscraper"
+      ]
+    },
+    {
+      "class_name": "snail",
+      "selected_terms": []
+    },
+    {
+      "class_name": "snake",
+      "selected_terms": [
+        "Harlem_River",
+        "Vulpecula",
+        "common_garter_snake",
+        "flying_reptile",
+        "garter_snake",
+        "lunar_crater",
+        "podzol_soil",
+        "quasar",
+        "ring-necked_snake",
+        "ringneck_snake",
+        "rosy_boa"
+      ]
+    },
+    {
+      "class_name": "spider",
+      "selected_terms": [
+        "whip-scorpion"
+      ]
+    },
+    {
+      "class_name": "squirrel",
+      "selected_terms": [
+        "eastern_fox_squirrel",
+        "eastern_grey_squirrel",
+        "mantled_ground_squirrel",
+        "whitetail_antelope_squirrel"
+      ]
+    },
+    {
+      "class_name": "streetcar",
+      "selected_terms": [
+        "armored_personnel_carrier",
+        "armoured_personnel_carrier",
+        "diesel-electric_locomotive",
+        "diesel-hydraulic_locomotive",
+        "diesel_locomotive",
+        "forklift"
+      ]
+    },
+    {
+      "class_name": "sunflower",
+      "selected_terms": [
+        "common_sunflower",
+        "desert_sunflower",
+        "giant_sunflower",
+        "mistflower",
+        "showy_sunflower",
+        "sunflower"
+      ]
+    },
+    {
+      "class_name": "sweet_pepper",
+      "selected_terms": [
+        "Willie_Mays",
+        "baked_potato",
+        "bird-on-the-wing",
+        "curly-heads",
+        "fertilized_egg",
+        "kudzu",
+        "wisteria"
+      ]
+    },
+    {
+      "class_name": "table",
+      "selected_terms": [
+        "Quezon_City",
+        "Rolodex",
+        "absorption_spectrum",
+        "bedroom_furniture",
+        "diningroom_suite",
+        "livingroom_suite",
+        "market_town",
+        "phone_booth",
+        "speech_spectrum",
+        "string_quartet",
+        "telephone_booth",
+        "title_bar"
+      ]
+    },
+    {
+      "class_name": "tank",
+      "selected_terms": [
+        "Bodoni_font",
+        "Portuguese_man-of-war",
+        "bone-forming_cell",
+        "lymph_cell",
+        "monospaced_font",
+        "screen_font"
+      ]
+    },
+    {
+      "class_name": "telephone",
+      "selected_terms": [
+        "cassette_recorder",
+        "desk_phone"
+      ]
+    },
+    {
+      "class_name": "television",
+      "selected_terms": []
+    },
+    {
+      "class_name": "tiger",
+      "selected_terms": [
+        "Lynx_caracal",
+        "Tasmanian_tiger",
+        "liger",
+        "tigon"
+      ]
+    },
+    {
+      "class_name": "tractor",
+      "selected_terms": [
+        "armored_personnel_carrier",
+        "armoured_personnel_carrier",
+        "diesel-electric_locomotive",
+        "diesel-hydraulic_locomotive",
+        "diesel_locomotive",
+        "forklift",
+        "tractor"
+      ]
+    },
+    {
+      "class_name": "train",
+      "selected_terms": [
+        "Donald_Duck",
+        "duck",
+        "geometric_series",
+        "harpoon_gun",
+        "passenger_train"
+      ]
+    },
+    {
+      "class_name": "trout",
+      "selected_terms": []
+    },
+    {
+      "class_name": "tulip",
+      "selected_terms": [
+        "Ramsons"
+      ]
+    },
+    {
+      "class_name": "turtle",
+      "selected_terms": [
+        "churidars",
+        "dashiki"
+      ]
+    },
+    {
+      "class_name": "wardrobe",
+      "selected_terms": [
+        "Rolodex",
+        "bedroom_furniture",
+        "bottle_collection",
+        "pop-up_book"
+      ]
+    },
+    {
+      "class_name": "whale",
+      "selected_terms": []
+    },
+    {
+      "class_name": "willow_tree",
+      "selected_terms": []
+    },
+    {
+      "class_name": "wolf",
+      "selected_terms": [
+        "Alaskan_malamute",
+        "Edward_Weston",
+        "Hans_Arp",
+        "Henri_Toulouse-Lautrec",
+        "Hilaire_Germain_Edgar_Degas",
+        "John_Singleton_Copley",
+        "Josef_Albers",
+        "Maltese_dog",
+        "Old_English_sheepdog",
+        "Samoyed",
+        "Shetland_sheepdog",
+        "dingo",
+        "facial_muscle",
+        "fauvist",
+        "giant_schnauzer",
+        "moss-trooper",
+        "timber_wolf"
+      ]
+    },
+    {
+      "class_name": "woman",
+      "selected_terms": [
+        "chargeman",
+        "disagreeable_woman",
+        "mentally_retarded",
+        "young_woman"
+      ]
+    },
+    {
+      "class_name": "worm",
+      "selected_terms": [
+        "siphonophore"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7103 @@
+{
+  "num_classes": 999,
+  "noun_only": true,
+  "msr_wn": 0.8988988988988988,
+  "failed": [
+    "goldfish, Carassius auratus",
+    "tiger shark, Galeocerdo cuvieri",
+    "brambling, Fringilla montifringilla",
+    "house finch, linnet, Carpodacus mexicanus",
+    "indigo bunting, indigo finch, indigo bird, Passerina cyanea",
+    "robin, American robin, Turdus migratorius",
+    "bald eagle, American eagle, Haliaeetus leucocephalus",
+    "great grey owl, great gray owl, Strix nebulosa",
+    "common newt, Triturus vulgaris",
+    "spotted salamander, Ambystoma maculatum",
+    "axolotl, mud puppy, Ambystoma mexicanum",
+    "bullfrog, Rana catesbeiana",
+    "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+    "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",
+    "American chameleon, anole, Anolis carolinensis",
+    "frilled lizard, Chlamydosaurus kingi",
+    "Gila monster, Heloderma suspectum",
+    "green lizard, Lacerta viridis",
+    "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",
+    "African crocodile, Nile crocodile, Crocodylus niloticus",
+    "American alligator, Alligator mississipiensis",
+    "thunder snake, worm snake, Carphophis amoenus",
+    "night snake, Hypsiglena torquata",
+    "rock python, rock snake, Python sebae",
+    "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",
+    "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+    "harvestman, daddy longlegs, Phalangium opilio",
+    "black and gold garden spider, Argiope aurantia",
+    "barn spider, Araneus cavaticus",
+    "garden spider, Aranea diademata",
+    "black widow, Latrodectus mactans",
+    "ruffed grouse, partridge, Bonasa umbellus",
+    "sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",
+    "red-breasted merganser, Mergus serrator",
+    "black swan, Cygnus atratus",
+    "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",
+    "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",
+    "Dungeness crab, Cancer magister",
+    "rock crab, Cancer irroratus",
+    "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",
+    "American lobster, Northern lobster, Maine lobster, Homarus americanus",
+    "little blue heron, Egretta caerulea",
+    "American egret, great white heron, Egretta albus",
+    "limpkin, Aramus pictus",
+    "ruddy turnstone, Arenaria interpres",
+    "red-backed sandpiper, dunlin, Erolia alpina",
+    "redshank, Tringa totanus",
+    "king penguin, Aptenodytes patagonica",
+    "grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",
+    "dugong, Dugong dugon",
+    "Rhodesian ridgeback",
+    "Ibizan hound, Ibizan Podenco",
+    "silky terrier, Sydney silky",
+    "Lhasa, Lhasa apso",
+    "Bouvier des Flandres, Bouviers des Flandres",
+    "Mexican hairless",
+    "white wolf, Arctic wolf, Canis lupus tundrarum",
+    "coyote, prairie wolf, brush wolf, Canis latrans",
+    "dhole, Cuon alpinus",
+    "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",
+    "grey fox, gray fox, Urocyon cinereoargenteus",
+    "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",
+    "leopard, Panthera pardus",
+    "snow leopard, ounce, Panthera uncia",
+    "jaguar, panther, Panthera onca, Felis onca",
+    "cheetah, chetah, Acinonyx jubatus",
+    "brown bear, bruin, Ursus arctos",
+    "American black bear, black bear, Ursus americanus, Euarctos americanus",
+    "ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",
+    "sloth bear, Melursus ursinus, Ursus ursinus",
+    "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",
+    "guinea pig, Cavia cobaya",
+    "hog, pig, grunter, squealer, Sus scrofa",
+    "wild boar, boar, Sus scrofa",
+    "hippopotamus, hippo, river horse, Hippopotamus amphibius",
+    "water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",
+    "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",
+    "impala, Aepyceros melampus",
+    "Arabian camel, dromedary, Camelus dromedarius",
+    "polecat, fitch, foulmart, foumart, Mustela putorius",
+    "black-footed ferret, ferret, Mustela nigripes",
+    "three-toed sloth, ai, Bradypus tridactylus",
+    "orangutan, orang, orangutang, Pongo pygmaeus",
+    "gibbon, Hylobates lar",
+    "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+    "proboscis monkey, Nasalis larvatus",
+    "capuchin, ringtail, Cebus capucinus",
+    "spider monkey, Ateles geoffroyi",
+    "squirrel monkey, Saimiri sciureus",
+    "Madagascar cat, ring-tailed lemur, Lemur catta",
+    "indri, indris, Indri indri, Indri brevicaudatus",
+    "Indian elephant, Elephas maximus",
+    "African elephant, Loxodonta africana",
+    "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",
+    "giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",
+    "coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",
+    "gar, garfish, garpike, billfish, Lepisosteus osseus",
+    "hotdog, hot dog, red hot",
+    "zucchini, courgetti",
+    "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",
+    "hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondose"
+  ],
+  "per_class": [
+    {
+      "class_name": "tench, Tinca tinca",
+      "normalized": "tench, tinca tinca",
+      "head": "tinca",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "goldfish, Carassius auratus",
+      "normalized": "goldfish, carassius auratus",
+      "head": "auratus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",
+      "normalized": "great white shark, white shark, man-eater, man-eating shark, carcharodon carcharias",
+      "head": "carcharias",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tiger shark, Galeocerdo cuvieri",
+      "normalized": "tiger shark, galeocerdo cuvieri",
+      "head": "cuvieri",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "hammerhead, hammerhead shark",
+      "normalized": "hammerhead, hammerhead shark",
+      "head": "shark",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "electric ray, crampfish, numbfish, torpedo",
+      "normalized": "electric ray, crampfish, numbfish, torpedo",
+      "head": "torpedo",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "stingray",
+      "normalized": "stingray",
+      "head": "stingray",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cock",
+      "normalized": "cock",
+      "head": "cock",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hen",
+      "normalized": "hen",
+      "head": "hen",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ostrich, Struthio camelus",
+      "normalized": "ostrich, struthio camelus",
+      "head": "camelus",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "brambling, Fringilla montifringilla",
+      "normalized": "brambling, fringilla montifringilla",
+      "head": "montifringilla",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "goldfinch, Carduelis carduelis",
+      "normalized": "goldfinch, carduelis carduelis",
+      "head": "carduelis",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "house finch, linnet, Carpodacus mexicanus",
+      "normalized": "house finch, linnet, carpodacus mexicanus",
+      "head": "mexicanus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "junco, snowbird",
+      "normalized": "junco, snowbird",
+      "head": "snowbird",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "indigo bunting, indigo finch, indigo bird, Passerina cyanea",
+      "normalized": "indigo bunting, indigo finch, indigo bird, passerina cyanea",
+      "head": "cyanea",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "robin, American robin, Turdus migratorius",
+      "normalized": "robin, american robin, turdus migratorius",
+      "head": "migratorius",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "bulbul",
+      "normalized": "bulbul",
+      "head": "bulbul",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "jay",
+      "normalized": "jay",
+      "head": "jay",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "magpie",
+      "normalized": "magpie",
+      "head": "magpie",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "chickadee",
+      "normalized": "chickadee",
+      "head": "chickadee",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "water ouzel, dipper",
+      "normalized": "water ouzel, dipper",
+      "head": "dipper",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "kite",
+      "normalized": "kite",
+      "head": "kite",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bald eagle, American eagle, Haliaeetus leucocephalus",
+      "normalized": "bald eagle, american eagle, haliaeetus leucocephalus",
+      "head": "leucocephalus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "vulture",
+      "normalized": "vulture",
+      "head": "vulture",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "great grey owl, great gray owl, Strix nebulosa",
+      "normalized": "great grey owl, great gray owl, strix nebulosa",
+      "head": "nebulosa",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "European fire salamander, Salamandra salamandra",
+      "normalized": "european fire salamander, salamandra salamandra",
+      "head": "salamandra",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "common newt, Triturus vulgaris",
+      "normalized": "common newt, triturus vulgaris",
+      "head": "vulgaris",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "eft",
+      "normalized": "eft",
+      "head": "eft",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "spotted salamander, Ambystoma maculatum",
+      "normalized": "spotted salamander, ambystoma maculatum",
+      "head": "maculatum",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "axolotl, mud puppy, Ambystoma mexicanum",
+      "normalized": "axolotl, mud puppy, ambystoma mexicanum",
+      "head": "mexicanum",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "bullfrog, Rana catesbeiana",
+      "normalized": "bullfrog, rana catesbeiana",
+      "head": "catesbeiana",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "tree frog, tree-frog",
+      "normalized": "tree frog, tree-frog",
+      "head": "tree-frog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+      "normalized": "tailed frog, bell toad, ribbed toad, tailed toad, ascaphus trui",
+      "head": "trui",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "loggerhead, loggerhead turtle, Caretta caretta",
+      "normalized": "loggerhead, loggerhead turtle, caretta caretta",
+      "head": "caretta",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",
+      "normalized": "leatherback turtle, leatherback, leathery turtle, dermochelys coriacea",
+      "head": "coriacea",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "mud turtle",
+      "normalized": "mud turtle",
+      "head": "turtle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "terrapin",
+      "normalized": "terrapin",
+      "head": "terrapin",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "box turtle, box tortoise",
+      "normalized": "box turtle, box tortoise",
+      "head": "tortoise",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "banded gecko",
+      "normalized": "banded gecko",
+      "head": "gecko",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "common iguana, iguana, Iguana iguana",
+      "normalized": "common iguana, iguana, iguana iguana",
+      "head": "iguana",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "American chameleon, anole, Anolis carolinensis",
+      "normalized": "american chameleon, anole, anolis carolinensis",
+      "head": "carolinensis",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "whiptail, whiptail lizard",
+      "normalized": "whiptail, whiptail lizard",
+      "head": "lizard",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "agama",
+      "normalized": "agama",
+      "head": "agama",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "frilled lizard, Chlamydosaurus kingi",
+      "normalized": "frilled lizard, chlamydosaurus kingi",
+      "head": "kingi",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "alligator lizard",
+      "normalized": "alligator lizard",
+      "head": "lizard",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Gila monster, Heloderma suspectum",
+      "normalized": "gila monster, heloderma suspectum",
+      "head": "suspectum",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "green lizard, Lacerta viridis",
+      "normalized": "green lizard, lacerta viridis",
+      "head": "viridis",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "African chameleon, Chamaeleo chamaeleon",
+      "normalized": "african chameleon, chamaeleo chamaeleon",
+      "head": "chamaeleon",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",
+      "normalized": "komodo dragon, komodo lizard, dragon lizard, giant lizard, varanus komodoensis",
+      "head": "komodoensis",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "African crocodile, Nile crocodile, Crocodylus niloticus",
+      "normalized": "african crocodile, nile crocodile, crocodylus niloticus",
+      "head": "niloticus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "American alligator, Alligator mississipiensis",
+      "normalized": "american alligator, alligator mississipiensis",
+      "head": "mississipiensis",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "triceratops",
+      "normalized": "triceratops",
+      "head": "triceratops",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "thunder snake, worm snake, Carphophis amoenus",
+      "normalized": "thunder snake, worm snake, carphophis amoenus",
+      "head": "amoenus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "ringneck snake, ring-necked snake, ring snake",
+      "normalized": "ringneck snake, ring-necked snake, ring snake",
+      "head": "snake",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hognose snake, puff adder, sand viper",
+      "normalized": "hognose snake, puff adder, sand viper",
+      "head": "viper",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "green snake, grass snake",
+      "normalized": "green snake, grass snake",
+      "head": "snake",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "king snake, kingsnake",
+      "normalized": "king snake, kingsnake",
+      "head": "kingsnake",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "garter snake, grass snake",
+      "normalized": "garter snake, grass snake",
+      "head": "snake",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "water snake",
+      "normalized": "water snake",
+      "head": "snake",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "vine snake",
+      "normalized": "vine snake",
+      "head": "snake",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "night snake, Hypsiglena torquata",
+      "normalized": "night snake, hypsiglena torquata",
+      "head": "torquata",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "boa constrictor, Constrictor constrictor",
+      "normalized": "boa constrictor, constrictor constrictor",
+      "head": "constrictor",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "rock python, rock snake, Python sebae",
+      "normalized": "rock python, rock snake, python sebae",
+      "head": "sebae",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "Indian cobra, Naja naja",
+      "normalized": "indian cobra, naja naja",
+      "head": "naja",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "green mamba",
+      "normalized": "green mamba",
+      "head": "mamba",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sea snake",
+      "normalized": "sea snake",
+      "head": "snake",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",
+      "normalized": "horned viper, cerastes, sand viper, horned asp, cerastes cornutus",
+      "head": "cornutus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+      "normalized": "diamondback, diamondback rattlesnake, crotalus adamanteus",
+      "head": "adamanteus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "sidewinder, horned rattlesnake, Crotalus cerastes",
+      "normalized": "sidewinder, horned rattlesnake, crotalus cerastes",
+      "head": "cerastes",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "trilobite",
+      "normalized": "trilobite",
+      "head": "trilobite",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "harvestman, daddy longlegs, Phalangium opilio",
+      "normalized": "harvestman, daddy longlegs, phalangium opilio",
+      "head": "opilio",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "scorpion",
+      "normalized": "scorpion",
+      "head": "scorpion",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "black and gold garden spider, Argiope aurantia",
+      "normalized": "black and gold garden spider, argiope aurantia",
+      "head": "aurantia",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "barn spider, Araneus cavaticus",
+      "normalized": "barn spider, araneus cavaticus",
+      "head": "cavaticus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "garden spider, Aranea diademata",
+      "normalized": "garden spider, aranea diademata",
+      "head": "diademata",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "black widow, Latrodectus mactans",
+      "normalized": "black widow, latrodectus mactans",
+      "head": "mactans",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "tarantula",
+      "normalized": "tarantula",
+      "head": "tarantula",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "wolf spider, hunting spider",
+      "normalized": "wolf spider, hunting spider",
+      "head": "spider",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tick",
+      "normalized": "tick",
+      "head": "tick",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "centipede",
+      "normalized": "centipede",
+      "head": "centipede",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "black grouse",
+      "normalized": "black grouse",
+      "head": "grouse",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "ptarmigan",
+      "normalized": "ptarmigan",
+      "head": "ptarmigan",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ruffed grouse, partridge, Bonasa umbellus",
+      "normalized": "ruffed grouse, partridge, bonasa umbellus",
+      "head": "umbellus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "prairie chicken, prairie grouse, prairie fowl",
+      "normalized": "prairie chicken, prairie grouse, prairie fowl",
+      "head": "fowl",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "peacock",
+      "normalized": "peacock",
+      "head": "peacock",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "quail",
+      "normalized": "quail",
+      "head": "quail",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "partridge",
+      "normalized": "partridge",
+      "head": "partridge",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "African grey, African gray, Psittacus erithacus",
+      "normalized": "african grey, african gray, psittacus erithacus",
+      "head": "erithacus",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "macaw",
+      "normalized": "macaw",
+      "head": "macaw",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",
+      "normalized": "sulphur-crested cockatoo, kakatoe galerita, cacatua galerita",
+      "head": "galerita",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "lorikeet",
+      "normalized": "lorikeet",
+      "head": "lorikeet",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "coucal",
+      "normalized": "coucal",
+      "head": "coucal",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bee eater",
+      "normalized": "bee eater",
+      "head": "eater",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hornbill",
+      "normalized": "hornbill",
+      "head": "hornbill",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hummingbird",
+      "normalized": "hummingbird",
+      "head": "hummingbird",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "jacamar",
+      "normalized": "jacamar",
+      "head": "jacamar",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "toucan",
+      "normalized": "toucan",
+      "head": "toucan",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "drake",
+      "normalized": "drake",
+      "head": "drake",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "red-breasted merganser, Mergus serrator",
+      "normalized": "red-breasted merganser, mergus serrator",
+      "head": "serrator",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "goose",
+      "normalized": "goose",
+      "head": "goose",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "black swan, Cygnus atratus",
+      "normalized": "black swan, cygnus atratus",
+      "head": "atratus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "tusker",
+      "normalized": "tusker",
+      "head": "tusker",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "echidna, spiny anteater, anteater",
+      "normalized": "echidna, spiny anteater, anteater",
+      "head": "anteater",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",
+      "normalized": "platypus, duckbill, duckbilled platypus, duck-billed platypus, ornithorhynchus anatinus",
+      "head": "anatinus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "wallaby, brush kangaroo",
+      "normalized": "wallaby, brush kangaroo",
+      "head": "kangaroo",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",
+      "normalized": "koala, koala bear, kangaroo bear, native bear, phascolarctos cinereus",
+      "head": "cinereus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "wombat",
+      "normalized": "wombat",
+      "head": "wombat",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "jellyfish",
+      "normalized": "jellyfish",
+      "head": "jellyfish",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sea anemone, anemone",
+      "normalized": "sea anemone, anemone",
+      "head": "anemone",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "brain coral",
+      "normalized": "brain coral",
+      "head": "coral",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "flatworm, platyhelminth",
+      "normalized": "flatworm, platyhelminth",
+      "head": "platyhelminth",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "nematode, nematode worm, roundworm",
+      "normalized": "nematode, nematode worm, roundworm",
+      "head": "roundworm",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "conch",
+      "normalized": "conch",
+      "head": "conch",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "snail",
+      "normalized": "snail",
+      "head": "snail",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "slug",
+      "normalized": "slug",
+      "head": "slug",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sea slug, nudibranch",
+      "normalized": "sea slug, nudibranch",
+      "head": "nudibranch",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "chiton, coat-of-mail shell, sea cradle, polyplacophore",
+      "normalized": "chiton, coat-of-mail shell, sea cradle, polyplacophore",
+      "head": "polyplacophore",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "chambered nautilus, pearly nautilus, nautilus",
+      "normalized": "chambered nautilus, pearly nautilus, nautilus",
+      "head": "nautilus",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Dungeness crab, Cancer magister",
+      "normalized": "dungeness crab, cancer magister",
+      "head": "magister",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "rock crab, Cancer irroratus",
+      "normalized": "rock crab, cancer irroratus",
+      "head": "irroratus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "fiddler crab",
+      "normalized": "fiddler crab",
+      "head": "crab",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",
+      "normalized": "king crab, alaska crab, alaskan king crab, alaska king crab, paralithodes camtschatica",
+      "head": "camtschatica",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "American lobster, Northern lobster, Maine lobster, Homarus americanus",
+      "normalized": "american lobster, northern lobster, maine lobster, homarus americanus",
+      "head": "americanus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",
+      "normalized": "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",
+      "head": "crawfish",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "crayfish, crawfish, crawdad, crawdaddy",
+      "normalized": "crayfish, crawfish, crawdad, crawdaddy",
+      "head": "crawdaddy",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hermit crab",
+      "normalized": "hermit crab",
+      "head": "crab",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "isopod",
+      "normalized": "isopod",
+      "head": "isopod",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "white stork, Ciconia ciconia",
+      "normalized": "white stork, ciconia ciconia",
+      "head": "ciconia",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "black stork, Ciconia nigra",
+      "normalized": "black stork, ciconia nigra",
+      "head": "nigra",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "spoonbill",
+      "normalized": "spoonbill",
+      "head": "spoonbill",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "flamingo",
+      "normalized": "flamingo",
+      "head": "flamingo",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "little blue heron, Egretta caerulea",
+      "normalized": "little blue heron, egretta caerulea",
+      "head": "caerulea",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "American egret, great white heron, Egretta albus",
+      "normalized": "american egret, great white heron, egretta albus",
+      "head": "albus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "bittern",
+      "normalized": "bittern",
+      "head": "bittern",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "crane",
+      "normalized": "crane",
+      "head": "crane",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "limpkin, Aramus pictus",
+      "normalized": "limpkin, aramus pictus",
+      "head": "pictus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "European gallinule, Porphyrio porphyrio",
+      "normalized": "european gallinule, porphyrio porphyrio",
+      "head": "porphyrio",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "American coot, marsh hen, mud hen, water hen, Fulica americana",
+      "normalized": "american coot, marsh hen, mud hen, water hen, fulica americana",
+      "head": "americana",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bustard",
+      "normalized": "bustard",
+      "head": "bustard",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ruddy turnstone, Arenaria interpres",
+      "normalized": "ruddy turnstone, arenaria interpres",
+      "head": "interpres",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "red-backed sandpiper, dunlin, Erolia alpina",
+      "normalized": "red-backed sandpiper, dunlin, erolia alpina",
+      "head": "alpina",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "redshank, Tringa totanus",
+      "normalized": "redshank, tringa totanus",
+      "head": "totanus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "dowitcher",
+      "normalized": "dowitcher",
+      "head": "dowitcher",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "oystercatcher, oyster catcher",
+      "normalized": "oystercatcher, oyster catcher",
+      "head": "catcher",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pelican",
+      "normalized": "pelican",
+      "head": "pelican",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "king penguin, Aptenodytes patagonica",
+      "normalized": "king penguin, aptenodytes patagonica",
+      "head": "patagonica",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "albatross, mollymawk",
+      "normalized": "albatross, mollymawk",
+      "head": "mollymawk",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",
+      "normalized": "grey whale, gray whale, devilfish, eschrichtius gibbosus, eschrichtius robustus",
+      "head": "robustus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "killer whale, killer, orca, grampus, sea wolf, Orcinus orca",
+      "normalized": "killer whale, killer, orca, grampus, sea wolf, orcinus orca",
+      "head": "orca",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dugong, Dugong dugon",
+      "normalized": "dugong, dugong dugon",
+      "head": "dugon",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "sea lion",
+      "normalized": "sea lion",
+      "head": "lion",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Chihuahua",
+      "normalized": "chihuahua",
+      "head": "chihuahua",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Japanese spaniel",
+      "normalized": "japanese spaniel",
+      "head": "spaniel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Maltese dog, Maltese terrier, Maltese",
+      "normalized": "maltese dog, maltese terrier, maltese",
+      "head": "maltese",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Pekinese, Pekingese, Peke",
+      "normalized": "pekinese, pekingese, peke",
+      "head": "peke",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Shih-Tzu",
+      "normalized": "shih-tzu",
+      "head": "shih-tzu",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Blenheim spaniel",
+      "normalized": "blenheim spaniel",
+      "head": "spaniel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "papillon",
+      "normalized": "papillon",
+      "head": "papillon",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "toy terrier",
+      "normalized": "toy terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Rhodesian ridgeback",
+      "normalized": "rhodesian ridgeback",
+      "head": "ridgeback",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "Afghan hound, Afghan",
+      "normalized": "afghan hound, afghan",
+      "head": "afghan",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "basset, basset hound",
+      "normalized": "basset, basset hound",
+      "head": "hound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "beagle",
+      "normalized": "beagle",
+      "head": "beagle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bloodhound, sleuthhound",
+      "normalized": "bloodhound, sleuthhound",
+      "head": "sleuthhound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bluetick",
+      "normalized": "bluetick",
+      "head": "bluetick",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "black-and-tan coonhound",
+      "normalized": "black-and-tan coonhound",
+      "head": "coonhound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Walker hound, Walker foxhound",
+      "normalized": "walker hound, walker foxhound",
+      "head": "foxhound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "English foxhound",
+      "normalized": "english foxhound",
+      "head": "foxhound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "redbone",
+      "normalized": "redbone",
+      "head": "redbone",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "borzoi, Russian wolfhound",
+      "normalized": "borzoi, russian wolfhound",
+      "head": "wolfhound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Irish wolfhound",
+      "normalized": "irish wolfhound",
+      "head": "wolfhound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Italian greyhound",
+      "normalized": "italian greyhound",
+      "head": "greyhound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "whippet",
+      "normalized": "whippet",
+      "head": "whippet",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Ibizan hound, Ibizan Podenco",
+      "normalized": "ibizan hound, ibizan podenco",
+      "head": "podenco",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "Norwegian elkhound, elkhound",
+      "normalized": "norwegian elkhound, elkhound",
+      "head": "elkhound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "otterhound, otter hound",
+      "normalized": "otterhound, otter hound",
+      "head": "hound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Saluki, gazelle hound",
+      "normalized": "saluki, gazelle hound",
+      "head": "hound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Scottish deerhound, deerhound",
+      "normalized": "scottish deerhound, deerhound",
+      "head": "deerhound",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Weimaraner",
+      "normalized": "weimaraner",
+      "head": "weimaraner",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Staffordshire bullterrier, Staffordshire bull terrier",
+      "normalized": "staffordshire bullterrier, staffordshire bull terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+      "normalized": "american staffordshire terrier, staffordshire terrier, american pit bull terrier, pit bull terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Bedlington terrier",
+      "normalized": "bedlington terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Border terrier",
+      "normalized": "border terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Kerry blue terrier",
+      "normalized": "kerry blue terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Irish terrier",
+      "normalized": "irish terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Norfolk terrier",
+      "normalized": "norfolk terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Norwich terrier",
+      "normalized": "norwich terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Yorkshire terrier",
+      "normalized": "yorkshire terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wire-haired fox terrier",
+      "normalized": "wire-haired fox terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Lakeland terrier",
+      "normalized": "lakeland terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Sealyham terrier, Sealyham",
+      "normalized": "sealyham terrier, sealyham",
+      "head": "sealyham",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Airedale, Airedale terrier",
+      "normalized": "airedale, airedale terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cairn, cairn terrier",
+      "normalized": "cairn, cairn terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Australian terrier",
+      "normalized": "australian terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Dandie Dinmont, Dandie Dinmont terrier",
+      "normalized": "dandie dinmont, dandie dinmont terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Boston bull, Boston terrier",
+      "normalized": "boston bull, boston terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "miniature schnauzer",
+      "normalized": "miniature schnauzer",
+      "head": "schnauzer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "giant schnauzer",
+      "normalized": "giant schnauzer",
+      "head": "schnauzer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "standard schnauzer",
+      "normalized": "standard schnauzer",
+      "head": "schnauzer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Scotch terrier, Scottish terrier, Scottie",
+      "normalized": "scotch terrier, scottish terrier, scottie",
+      "head": "scottie",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Tibetan terrier, chrysanthemum dog",
+      "normalized": "tibetan terrier, chrysanthemum dog",
+      "head": "dog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "silky terrier, Sydney silky",
+      "normalized": "silky terrier, sydney silky",
+      "head": "silky",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "soft-coated wheaten terrier",
+      "normalized": "soft-coated wheaten terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "West Highland white terrier",
+      "normalized": "west highland white terrier",
+      "head": "terrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Lhasa, Lhasa apso",
+      "normalized": "lhasa, lhasa apso",
+      "head": "apso",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "flat-coated retriever",
+      "normalized": "flat-coated retriever",
+      "head": "retriever",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "curly-coated retriever",
+      "normalized": "curly-coated retriever",
+      "head": "retriever",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "golden retriever",
+      "normalized": "golden retriever",
+      "head": "retriever",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Labrador retriever",
+      "normalized": "labrador retriever",
+      "head": "retriever",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Chesapeake Bay retriever",
+      "normalized": "chesapeake bay retriever",
+      "head": "retriever",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "German short-haired pointer",
+      "normalized": "german short-haired pointer",
+      "head": "pointer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "vizsla, Hungarian pointer",
+      "normalized": "vizsla, hungarian pointer",
+      "head": "pointer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "English setter",
+      "normalized": "english setter",
+      "head": "setter",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Irish setter, red setter",
+      "normalized": "irish setter, red setter",
+      "head": "setter",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Gordon setter",
+      "normalized": "gordon setter",
+      "head": "setter",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Brittany spaniel",
+      "normalized": "brittany spaniel",
+      "head": "spaniel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "clumber, clumber spaniel",
+      "normalized": "clumber, clumber spaniel",
+      "head": "spaniel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "English springer, English springer spaniel",
+      "normalized": "english springer, english springer spaniel",
+      "head": "spaniel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Welsh springer spaniel",
+      "normalized": "welsh springer spaniel",
+      "head": "spaniel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cocker spaniel, English cocker spaniel, cocker",
+      "normalized": "cocker spaniel, english cocker spaniel, cocker",
+      "head": "cocker",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Sussex spaniel",
+      "normalized": "sussex spaniel",
+      "head": "spaniel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Irish water spaniel",
+      "normalized": "irish water spaniel",
+      "head": "spaniel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "kuvasz",
+      "normalized": "kuvasz",
+      "head": "kuvasz",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "schipperke",
+      "normalized": "schipperke",
+      "head": "schipperke",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "groenendael",
+      "normalized": "groenendael",
+      "head": "groenendael",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "malinois",
+      "normalized": "malinois",
+      "head": "malinois",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "briard",
+      "normalized": "briard",
+      "head": "briard",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "kelpie",
+      "normalized": "kelpie",
+      "head": "kelpie",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "komondor",
+      "normalized": "komondor",
+      "head": "komondor",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Old English sheepdog, bobtail",
+      "normalized": "old english sheepdog, bobtail",
+      "head": "bobtail",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Shetland sheepdog, Shetland sheep dog, Shetland",
+      "normalized": "shetland sheepdog, shetland sheep dog, shetland",
+      "head": "shetland",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "collie",
+      "normalized": "collie",
+      "head": "collie",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Border collie",
+      "normalized": "border collie",
+      "head": "collie",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Bouvier des Flandres, Bouviers des Flandres",
+      "normalized": "bouvier des flandres, bouviers des flandres",
+      "head": "flandres",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "Rottweiler",
+      "normalized": "rottweiler",
+      "head": "rottweiler",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "German shepherd, German shepherd dog, German police dog, alsatian",
+      "normalized": "german shepherd, german shepherd dog, german police dog, alsatian",
+      "head": "alsatian",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Doberman, Doberman pinscher",
+      "normalized": "doberman, doberman pinscher",
+      "head": "pinscher",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "miniature pinscher",
+      "normalized": "miniature pinscher",
+      "head": "pinscher",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Greater Swiss Mountain dog",
+      "normalized": "greater swiss mountain dog",
+      "head": "dog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Bernese mountain dog",
+      "normalized": "bernese mountain dog",
+      "head": "dog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Appenzeller",
+      "normalized": "appenzeller",
+      "head": "appenzeller",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "EntleBucher",
+      "normalized": "entlebucher",
+      "head": "entlebucher",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "boxer",
+      "normalized": "boxer",
+      "head": "boxer",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bull mastiff",
+      "normalized": "bull mastiff",
+      "head": "mastiff",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Tibetan mastiff",
+      "normalized": "tibetan mastiff",
+      "head": "mastiff",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "French bulldog",
+      "normalized": "french bulldog",
+      "head": "bulldog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Great Dane",
+      "normalized": "great dane",
+      "head": "dane",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Saint Bernard, St Bernard",
+      "normalized": "saint bernard, st bernard",
+      "head": "bernard",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Eskimo dog, husky",
+      "normalized": "eskimo dog, husky",
+      "head": "husky",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "malamute, malemute, Alaskan malamute",
+      "normalized": "malamute, malemute, alaskan malamute",
+      "head": "malamute",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Siberian husky",
+      "normalized": "siberian husky",
+      "head": "husky",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dalmatian, coach dog, carriage dog",
+      "normalized": "dalmatian, coach dog, carriage dog",
+      "head": "dog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "affenpinscher, monkey pinscher, monkey dog",
+      "normalized": "affenpinscher, monkey pinscher, monkey dog",
+      "head": "dog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "basenji",
+      "normalized": "basenji",
+      "head": "basenji",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "pug, pug-dog",
+      "normalized": "pug, pug-dog",
+      "head": "pug-dog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Leonberg",
+      "normalized": "leonberg",
+      "head": "leonberg",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Newfoundland, Newfoundland dog",
+      "normalized": "newfoundland, newfoundland dog",
+      "head": "dog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Great Pyrenees",
+      "normalized": "great pyrenees",
+      "head": "pyrenees",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Samoyed, Samoyede",
+      "normalized": "samoyed, samoyede",
+      "head": "samoyede",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Pomeranian",
+      "normalized": "pomeranian",
+      "head": "pomeranian",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "chow, chow chow",
+      "normalized": "chow, chow chow",
+      "head": "chow",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "keeshond",
+      "normalized": "keeshond",
+      "head": "keeshond",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Brabancon griffon",
+      "normalized": "brabancon griffon",
+      "head": "griffon",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Pembroke, Pembroke Welsh corgi",
+      "normalized": "pembroke, pembroke welsh corgi",
+      "head": "corgi",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Cardigan, Cardigan Welsh corgi",
+      "normalized": "cardigan, cardigan welsh corgi",
+      "head": "corgi",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "toy poodle",
+      "normalized": "toy poodle",
+      "head": "poodle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "miniature poodle",
+      "normalized": "miniature poodle",
+      "head": "poodle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "standard poodle",
+      "normalized": "standard poodle",
+      "head": "poodle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Mexican hairless",
+      "normalized": "mexican hairless",
+      "head": "hairless",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "timber wolf, grey wolf, gray wolf, Canis lupus",
+      "normalized": "timber wolf, grey wolf, gray wolf, canis lupus",
+      "head": "lupus",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "white wolf, Arctic wolf, Canis lupus tundrarum",
+      "normalized": "white wolf, arctic wolf, canis lupus tundrarum",
+      "head": "tundrarum",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "red wolf, maned wolf, Canis rufus, Canis niger",
+      "normalized": "red wolf, maned wolf, canis rufus, canis niger",
+      "head": "niger",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "coyote, prairie wolf, brush wolf, Canis latrans",
+      "normalized": "coyote, prairie wolf, brush wolf, canis latrans",
+      "head": "latrans",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "dingo, warrigal, warragal, Canis dingo",
+      "normalized": "dingo, warrigal, warragal, canis dingo",
+      "head": "dingo",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dhole, Cuon alpinus",
+      "normalized": "dhole, cuon alpinus",
+      "head": "alpinus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",
+      "normalized": "african hunting dog, hyena dog, cape hunting dog, lycaon pictus",
+      "head": "pictus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "hyena, hyaena",
+      "normalized": "hyena, hyaena",
+      "head": "hyaena",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "red fox, Vulpes vulpes",
+      "normalized": "red fox, vulpes vulpes",
+      "head": "vulpes",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "kit fox, Vulpes macrotis",
+      "normalized": "kit fox, vulpes macrotis",
+      "head": "macrotis",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Arctic fox, white fox, Alopex lagopus",
+      "normalized": "arctic fox, white fox, alopex lagopus",
+      "head": "lagopus",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "grey fox, gray fox, Urocyon cinereoargenteus",
+      "normalized": "grey fox, gray fox, urocyon cinereoargenteus",
+      "head": "cinereoargenteus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "tabby, tabby cat",
+      "normalized": "tabby, tabby cat",
+      "head": "cat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tiger cat",
+      "normalized": "tiger cat",
+      "head": "cat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Persian cat",
+      "normalized": "persian cat",
+      "head": "cat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Siamese cat, Siamese",
+      "normalized": "siamese cat, siamese",
+      "head": "siamese",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Egyptian cat",
+      "normalized": "egyptian cat",
+      "head": "cat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",
+      "normalized": "cougar, puma, catamount, mountain lion, painter, panther, felis concolor",
+      "head": "concolor",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "lynx, catamount",
+      "normalized": "lynx, catamount",
+      "head": "catamount",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "leopard, Panthera pardus",
+      "normalized": "leopard, panthera pardus",
+      "head": "pardus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "snow leopard, ounce, Panthera uncia",
+      "normalized": "snow leopard, ounce, panthera uncia",
+      "head": "uncia",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "jaguar, panther, Panthera onca, Felis onca",
+      "normalized": "jaguar, panther, panthera onca, felis onca",
+      "head": "onca",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "lion, king of beasts, Panthera leo",
+      "normalized": "lion, king of beasts, panthera leo",
+      "head": "leo",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tiger, Panthera tigris",
+      "normalized": "tiger, panthera tigris",
+      "head": "tigris",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cheetah, chetah, Acinonyx jubatus",
+      "normalized": "cheetah, chetah, acinonyx jubatus",
+      "head": "jubatus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "brown bear, bruin, Ursus arctos",
+      "normalized": "brown bear, bruin, ursus arctos",
+      "head": "arctos",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "American black bear, black bear, Ursus americanus, Euarctos americanus",
+      "normalized": "american black bear, black bear, ursus americanus, euarctos americanus",
+      "head": "americanus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",
+      "normalized": "ice bear, polar bear, ursus maritimus, thalarctos maritimus",
+      "head": "maritimus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "sloth bear, Melursus ursinus, Ursus ursinus",
+      "normalized": "sloth bear, melursus ursinus, ursus ursinus",
+      "head": "ursinus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "mongoose",
+      "normalized": "mongoose",
+      "head": "mongoose",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "meerkat, mierkat",
+      "normalized": "meerkat, mierkat",
+      "head": "mierkat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tiger beetle",
+      "normalized": "tiger beetle",
+      "head": "beetle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+      "normalized": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+      "head": "beetle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "ground beetle, carabid beetle",
+      "normalized": "ground beetle, carabid beetle",
+      "head": "beetle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "long-horned beetle, longicorn, longicorn beetle",
+      "normalized": "long-horned beetle, longicorn, longicorn beetle",
+      "head": "beetle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "leaf beetle, chrysomelid",
+      "normalized": "leaf beetle, chrysomelid",
+      "head": "chrysomelid",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dung beetle",
+      "normalized": "dung beetle",
+      "head": "beetle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "rhinoceros beetle",
+      "normalized": "rhinoceros beetle",
+      "head": "beetle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "weevil",
+      "normalized": "weevil",
+      "head": "weevil",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "fly",
+      "normalized": "fly",
+      "head": "fly",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bee",
+      "normalized": "bee",
+      "head": "bee",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ant, emmet, pismire",
+      "normalized": "ant, emmet, pismire",
+      "head": "pismire",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "grasshopper, hopper",
+      "normalized": "grasshopper, hopper",
+      "head": "hopper",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cricket",
+      "normalized": "cricket",
+      "head": "cricket",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "walking stick, walkingstick, stick insect",
+      "normalized": "walking stick, walkingstick, stick insect",
+      "head": "insect",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cockroach, roach",
+      "normalized": "cockroach, roach",
+      "head": "roach",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "mantis, mantid",
+      "normalized": "mantis, mantid",
+      "head": "mantid",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cicada, cicala",
+      "normalized": "cicada, cicala",
+      "head": "cicala",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "leafhopper",
+      "normalized": "leafhopper",
+      "head": "leafhopper",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lacewing, lacewing fly",
+      "normalized": "lacewing, lacewing fly",
+      "head": "fly",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",
+      "normalized": "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",
+      "head": "hawk",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "damselfly",
+      "normalized": "damselfly",
+      "head": "damselfly",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "admiral",
+      "normalized": "admiral",
+      "head": "admiral",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ringlet, ringlet butterfly",
+      "normalized": "ringlet, ringlet butterfly",
+      "head": "butterfly",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",
+      "normalized": "monarch, monarch butterfly, milkweed butterfly, danaus plexippus",
+      "head": "plexippus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "cabbage butterfly",
+      "normalized": "cabbage butterfly",
+      "head": "butterfly",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sulphur butterfly, sulfur butterfly",
+      "normalized": "sulphur butterfly, sulfur butterfly",
+      "head": "butterfly",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "lycaenid, lycaenid butterfly",
+      "normalized": "lycaenid, lycaenid butterfly",
+      "head": "butterfly",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "starfish, sea star",
+      "normalized": "starfish, sea star",
+      "head": "star",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sea urchin",
+      "normalized": "sea urchin",
+      "head": "urchin",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sea cucumber, holothurian",
+      "normalized": "sea cucumber, holothurian",
+      "head": "holothurian",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wood rabbit, cottontail, cottontail rabbit",
+      "normalized": "wood rabbit, cottontail, cottontail rabbit",
+      "head": "rabbit",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hare",
+      "normalized": "hare",
+      "head": "hare",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Angora, Angora rabbit",
+      "normalized": "angora, angora rabbit",
+      "head": "rabbit",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hamster",
+      "normalized": "hamster",
+      "head": "hamster",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "porcupine, hedgehog",
+      "normalized": "porcupine, hedgehog",
+      "head": "hedgehog",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "fox squirrel, eastern fox squirrel, Sciurus niger",
+      "normalized": "fox squirrel, eastern fox squirrel, sciurus niger",
+      "head": "niger",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "marmot",
+      "normalized": "marmot",
+      "head": "marmot",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "beaver",
+      "normalized": "beaver",
+      "head": "beaver",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "guinea pig, Cavia cobaya",
+      "normalized": "guinea pig, cavia cobaya",
+      "head": "cobaya",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "sorrel",
+      "normalized": "sorrel",
+      "head": "sorrel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "zebra",
+      "normalized": "zebra",
+      "head": "zebra",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hog, pig, grunter, squealer, Sus scrofa",
+      "normalized": "hog, pig, grunter, squealer, sus scrofa",
+      "head": "scrofa",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "wild boar, boar, Sus scrofa",
+      "normalized": "wild boar, boar, sus scrofa",
+      "head": "scrofa",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "warthog",
+      "normalized": "warthog",
+      "head": "warthog",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hippopotamus, hippo, river horse, Hippopotamus amphibius",
+      "normalized": "hippopotamus, hippo, river horse, hippopotamus amphibius",
+      "head": "amphibius",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "ox",
+      "normalized": "ox",
+      "head": "ox",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",
+      "normalized": "water buffalo, water ox, asiatic buffalo, bubalus bubalis",
+      "head": "bubalis",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "bison",
+      "normalized": "bison",
+      "head": "bison",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ram, tup",
+      "normalized": "ram, tup",
+      "head": "tup",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",
+      "normalized": "bighorn, bighorn sheep, cimarron, rocky mountain bighorn, rocky mountain sheep, ovis canadensis",
+      "head": "canadensis",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "ibex, Capra ibex",
+      "normalized": "ibex, capra ibex",
+      "head": "ibex",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hartebeest",
+      "normalized": "hartebeest",
+      "head": "hartebeest",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "impala, Aepyceros melampus",
+      "normalized": "impala, aepyceros melampus",
+      "head": "melampus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "gazelle",
+      "normalized": "gazelle",
+      "head": "gazelle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Arabian camel, dromedary, Camelus dromedarius",
+      "normalized": "arabian camel, dromedary, camelus dromedarius",
+      "head": "dromedarius",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "llama",
+      "normalized": "llama",
+      "head": "llama",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "weasel",
+      "normalized": "weasel",
+      "head": "weasel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mink",
+      "normalized": "mink",
+      "head": "mink",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "polecat, fitch, foulmart, foumart, Mustela putorius",
+      "normalized": "polecat, fitch, foulmart, foumart, mustela putorius",
+      "head": "putorius",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "black-footed ferret, ferret, Mustela nigripes",
+      "normalized": "black-footed ferret, ferret, mustela nigripes",
+      "head": "nigripes",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "otter",
+      "normalized": "otter",
+      "head": "otter",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "skunk, polecat, wood pussy",
+      "normalized": "skunk, polecat, wood pussy",
+      "head": "pussy",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "badger",
+      "normalized": "badger",
+      "head": "badger",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "armadillo",
+      "normalized": "armadillo",
+      "head": "armadillo",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "three-toed sloth, ai, Bradypus tridactylus",
+      "normalized": "three-toed sloth, ai, bradypus tridactylus",
+      "head": "tridactylus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "orangutan, orang, orangutang, Pongo pygmaeus",
+      "normalized": "orangutan, orang, orangutang, pongo pygmaeus",
+      "head": "pygmaeus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "gorilla, Gorilla gorilla",
+      "normalized": "gorilla, gorilla gorilla",
+      "head": "gorilla",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "chimpanzee, chimp, Pan troglodytes",
+      "normalized": "chimpanzee, chimp, pan troglodytes",
+      "head": "troglodytes",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "gibbon, Hylobates lar",
+      "normalized": "gibbon, hylobates lar",
+      "head": "lar",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+      "normalized": "siamang, hylobates syndactylus, symphalangus syndactylus",
+      "head": "syndactylus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "guenon, guenon monkey",
+      "normalized": "guenon, guenon monkey",
+      "head": "monkey",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "patas, hussar monkey, Erythrocebus patas",
+      "normalized": "patas, hussar monkey, erythrocebus patas",
+      "head": "patas",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "baboon",
+      "normalized": "baboon",
+      "head": "baboon",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "macaque",
+      "normalized": "macaque",
+      "head": "macaque",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "langur",
+      "normalized": "langur",
+      "head": "langur",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "colobus, colobus monkey",
+      "normalized": "colobus, colobus monkey",
+      "head": "monkey",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "proboscis monkey, Nasalis larvatus",
+      "normalized": "proboscis monkey, nasalis larvatus",
+      "head": "larvatus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "marmoset",
+      "normalized": "marmoset",
+      "head": "marmoset",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "capuchin, ringtail, Cebus capucinus",
+      "normalized": "capuchin, ringtail, cebus capucinus",
+      "head": "capucinus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "howler monkey, howler",
+      "normalized": "howler monkey, howler",
+      "head": "howler",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "titi, titi monkey",
+      "normalized": "titi, titi monkey",
+      "head": "monkey",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "spider monkey, Ateles geoffroyi",
+      "normalized": "spider monkey, ateles geoffroyi",
+      "head": "geoffroyi",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "squirrel monkey, Saimiri sciureus",
+      "normalized": "squirrel monkey, saimiri sciureus",
+      "head": "sciureus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "Madagascar cat, ring-tailed lemur, Lemur catta",
+      "normalized": "madagascar cat, ring-tailed lemur, lemur catta",
+      "head": "catta",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "indri, indris, Indri indri, Indri brevicaudatus",
+      "normalized": "indri, indris, indri indri, indri brevicaudatus",
+      "head": "brevicaudatus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "Indian elephant, Elephas maximus",
+      "normalized": "indian elephant, elephas maximus",
+      "head": "maximus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "African elephant, Loxodonta africana",
+      "normalized": "african elephant, loxodonta africana",
+      "head": "africana",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",
+      "normalized": "lesser panda, red panda, panda, bear cat, cat bear, ailurus fulgens",
+      "head": "fulgens",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",
+      "normalized": "giant panda, panda, panda bear, coon bear, ailuropoda melanoleuca",
+      "head": "melanoleuca",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "barracouta, snoek",
+      "normalized": "barracouta, snoek",
+      "head": "snoek",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "eel",
+      "normalized": "eel",
+      "head": "eel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",
+      "normalized": "coho, cohoe, coho salmon, blue jack, silver salmon, oncorhynchus kisutch",
+      "head": "kisutch",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "rock beauty, Holocanthus tricolor",
+      "normalized": "rock beauty, holocanthus tricolor",
+      "head": "tricolor",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "anemone fish",
+      "normalized": "anemone fish",
+      "head": "fish",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sturgeon",
+      "normalized": "sturgeon",
+      "head": "sturgeon",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "gar, garfish, garpike, billfish, Lepisosteus osseus",
+      "normalized": "gar, garfish, garpike, billfish, lepisosteus osseus",
+      "head": "osseus",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "lionfish",
+      "normalized": "lionfish",
+      "head": "lionfish",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "puffer, pufferfish, blowfish, globefish",
+      "normalized": "puffer, pufferfish, blowfish, globefish",
+      "head": "globefish",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "abacus",
+      "normalized": "abacus",
+      "head": "abacus",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "abaya",
+      "normalized": "abaya",
+      "head": "abaya",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "academic gown, academic robe, judge's robe",
+      "normalized": "academic gown, academic robe, judge's robe",
+      "head": "robe",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "accordion, piano accordion, squeeze box",
+      "normalized": "accordion, piano accordion, squeeze box",
+      "head": "box",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "acoustic guitar",
+      "normalized": "acoustic guitar",
+      "head": "guitar",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "aircraft carrier, carrier, flattop, attack aircraft carrier",
+      "normalized": "aircraft carrier, carrier, flattop, attack aircraft carrier",
+      "head": "carrier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "airliner",
+      "normalized": "airliner",
+      "head": "airliner",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "airship, dirigible",
+      "normalized": "airship, dirigible",
+      "head": "dirigible",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "altar",
+      "normalized": "altar",
+      "head": "altar",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ambulance",
+      "normalized": "ambulance",
+      "head": "ambulance",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "amphibian, amphibious vehicle",
+      "normalized": "amphibian, amphibious vehicle",
+      "head": "vehicle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "analog clock",
+      "normalized": "analog clock",
+      "head": "clock",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "apiary, bee house",
+      "normalized": "apiary, bee house",
+      "head": "house",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "apron",
+      "normalized": "apron",
+      "head": "apron",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",
+      "normalized": "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",
+      "head": "bin",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "assault rifle, assault gun",
+      "normalized": "assault rifle, assault gun",
+      "head": "gun",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+      "normalized": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+      "head": "haversack",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bakery, bakeshop, bakehouse",
+      "normalized": "bakery, bakeshop, bakehouse",
+      "head": "bakehouse",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "balance beam, beam",
+      "normalized": "balance beam, beam",
+      "head": "beam",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "balloon",
+      "normalized": "balloon",
+      "head": "balloon",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ballpoint, ballpoint pen, ballpen, Biro",
+      "normalized": "ballpoint, ballpoint pen, ballpen, biro",
+      "head": "biro",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Band Aid",
+      "normalized": "band aid",
+      "head": "aid",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "banjo",
+      "normalized": "banjo",
+      "head": "banjo",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bannister, banister, balustrade, balusters, handrail",
+      "normalized": "bannister, banister, balustrade, balusters, handrail",
+      "head": "handrail",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "barbell",
+      "normalized": "barbell",
+      "head": "barbell",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "barber chair",
+      "normalized": "barber chair",
+      "head": "chair",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "barbershop",
+      "normalized": "barbershop",
+      "head": "barbershop",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "barn",
+      "normalized": "barn",
+      "head": "barn",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "barometer",
+      "normalized": "barometer",
+      "head": "barometer",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "barrel, cask",
+      "normalized": "barrel, cask",
+      "head": "cask",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "barrow, garden cart, lawn cart, wheelbarrow",
+      "normalized": "barrow, garden cart, lawn cart, wheelbarrow",
+      "head": "wheelbarrow",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "baseball",
+      "normalized": "baseball",
+      "head": "baseball",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "basketball",
+      "normalized": "basketball",
+      "head": "basketball",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bassinet",
+      "normalized": "bassinet",
+      "head": "bassinet",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bassoon",
+      "normalized": "bassoon",
+      "head": "bassoon",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bathing cap, swimming cap",
+      "normalized": "bathing cap, swimming cap",
+      "head": "cap",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bath towel",
+      "normalized": "bath towel",
+      "head": "towel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bathtub, bathing tub, bath, tub",
+      "normalized": "bathtub, bathing tub, bath, tub",
+      "head": "tub",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",
+      "normalized": "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",
+      "head": "waggon",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "beacon, lighthouse, beacon light, pharos",
+      "normalized": "beacon, lighthouse, beacon light, pharos",
+      "head": "pharos",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "beaker",
+      "normalized": "beaker",
+      "head": "beaker",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bearskin, busby, shako",
+      "normalized": "bearskin, busby, shako",
+      "head": "shako",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "beer bottle",
+      "normalized": "beer bottle",
+      "head": "bottle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "beer glass",
+      "normalized": "beer glass",
+      "head": "glass",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bell cote, bell cot",
+      "normalized": "bell cote, bell cot",
+      "head": "cot",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bib",
+      "normalized": "bib",
+      "head": "bib",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bicycle-built-for-two, tandem bicycle, tandem",
+      "normalized": "bicycle-built-for-two, tandem bicycle, tandem",
+      "head": "tandem",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bikini, two-piece",
+      "normalized": "bikini, two-piece",
+      "head": "two-piece",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "binder, ring-binder",
+      "normalized": "binder, ring-binder",
+      "head": "ring-binder",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "binoculars, field glasses, opera glasses",
+      "normalized": "binoculars, field glasses, opera glasses",
+      "head": "glasses",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "birdhouse",
+      "normalized": "birdhouse",
+      "head": "birdhouse",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "boathouse",
+      "normalized": "boathouse",
+      "head": "boathouse",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bobsled, bobsleigh, bob",
+      "normalized": "bobsled, bobsleigh, bob",
+      "head": "bob",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bolo tie, bolo, bola tie, bola",
+      "normalized": "bolo tie, bolo, bola tie, bola",
+      "head": "bola",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bonnet, poke bonnet",
+      "normalized": "bonnet, poke bonnet",
+      "head": "bonnet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bookcase",
+      "normalized": "bookcase",
+      "head": "bookcase",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bookshop, bookstore, bookstall",
+      "normalized": "bookshop, bookstore, bookstall",
+      "head": "bookstall",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bottlecap",
+      "normalized": "bottlecap",
+      "head": "bottlecap",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bow",
+      "normalized": "bow",
+      "head": "bow",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bow tie, bow-tie, bowtie",
+      "normalized": "bow tie, bow-tie, bowtie",
+      "head": "bowtie",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "brass, memorial tablet, plaque",
+      "normalized": "brass, memorial tablet, plaque",
+      "head": "plaque",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "brassiere, bra, bandeau",
+      "normalized": "brassiere, bra, bandeau",
+      "head": "bandeau",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+      "normalized": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+      "head": "jetty",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "breastplate, aegis, egis",
+      "normalized": "breastplate, aegis, egis",
+      "head": "egis",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "broom",
+      "normalized": "broom",
+      "head": "broom",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bucket, pail",
+      "normalized": "bucket, pail",
+      "head": "pail",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "buckle",
+      "normalized": "buckle",
+      "head": "buckle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bulletproof vest",
+      "normalized": "bulletproof vest",
+      "head": "vest",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bullet train, bullet",
+      "normalized": "bullet train, bullet",
+      "head": "bullet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "butcher shop, meat market",
+      "normalized": "butcher shop, meat market",
+      "head": "market",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cab, hack, taxi, taxicab",
+      "normalized": "cab, hack, taxi, taxicab",
+      "head": "taxicab",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "caldron, cauldron",
+      "normalized": "caldron, cauldron",
+      "head": "cauldron",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "candle, taper, wax light",
+      "normalized": "candle, taper, wax light",
+      "head": "light",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cannon",
+      "normalized": "cannon",
+      "head": "cannon",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "canoe",
+      "normalized": "canoe",
+      "head": "canoe",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "can opener, tin opener",
+      "normalized": "can opener, tin opener",
+      "head": "opener",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cardigan",
+      "normalized": "cardigan",
+      "head": "cardigan",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "car mirror",
+      "normalized": "car mirror",
+      "head": "mirror",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "carousel, carrousel, merry-go-round, roundabout, whirligig",
+      "normalized": "carousel, carrousel, merry-go-round, roundabout, whirligig",
+      "head": "whirligig",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "carpenter's kit, tool kit",
+      "normalized": "carpenter's kit, tool kit",
+      "head": "kit",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "carton",
+      "normalized": "carton",
+      "head": "carton",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "car wheel",
+      "normalized": "car wheel",
+      "head": "wheel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",
+      "normalized": "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, atm",
+      "head": "atm",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cassette",
+      "normalized": "cassette",
+      "head": "cassette",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cassette player",
+      "normalized": "cassette player",
+      "head": "player",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "castle",
+      "normalized": "castle",
+      "head": "castle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "catamaran",
+      "normalized": "catamaran",
+      "head": "catamaran",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "CD player",
+      "normalized": "cd player",
+      "head": "player",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cello, violoncello",
+      "normalized": "cello, violoncello",
+      "head": "violoncello",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+      "normalized": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+      "head": "phone",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "chain",
+      "normalized": "chain",
+      "head": "chain",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "chainlink fence",
+      "normalized": "chainlink fence",
+      "head": "fence",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",
+      "normalized": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",
+      "head": "armour",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "chain saw, chainsaw",
+      "normalized": "chain saw, chainsaw",
+      "head": "chainsaw",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "chest",
+      "normalized": "chest",
+      "head": "chest",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "chiffonier, commode",
+      "normalized": "chiffonier, commode",
+      "head": "commode",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "chime, bell, gong",
+      "normalized": "chime, bell, gong",
+      "head": "gong",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "china cabinet, china closet",
+      "normalized": "china cabinet, china closet",
+      "head": "closet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Christmas stocking",
+      "normalized": "christmas stocking",
+      "head": "stocking",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "church, church building",
+      "normalized": "church, church building",
+      "head": "building",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cinema, movie theater, movie theatre, movie house, picture palace",
+      "normalized": "cinema, movie theater, movie theatre, movie house, picture palace",
+      "head": "palace",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cleaver, meat cleaver, chopper",
+      "normalized": "cleaver, meat cleaver, chopper",
+      "head": "chopper",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cliff dwelling",
+      "normalized": "cliff dwelling",
+      "head": "dwelling",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cloak",
+      "normalized": "cloak",
+      "head": "cloak",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "clog, geta, patten, sabot",
+      "normalized": "clog, geta, patten, sabot",
+      "head": "sabot",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cocktail shaker",
+      "normalized": "cocktail shaker",
+      "head": "shaker",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "coffee mug",
+      "normalized": "coffee mug",
+      "head": "mug",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "coffeepot",
+      "normalized": "coffeepot",
+      "head": "coffeepot",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "coil, spiral, volute, whorl, helix",
+      "normalized": "coil, spiral, volute, whorl, helix",
+      "head": "helix",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "combination lock",
+      "normalized": "combination lock",
+      "head": "lock",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "computer keyboard, keypad",
+      "normalized": "computer keyboard, keypad",
+      "head": "keypad",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "confectionery, confectionary, candy store",
+      "normalized": "confectionery, confectionary, candy store",
+      "head": "store",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "container ship, containership, container vessel",
+      "normalized": "container ship, containership, container vessel",
+      "head": "vessel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "convertible",
+      "normalized": "convertible",
+      "head": "convertible",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "corkscrew, bottle screw",
+      "normalized": "corkscrew, bottle screw",
+      "head": "screw",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cornet, horn, trumpet, trump",
+      "normalized": "cornet, horn, trumpet, trump",
+      "head": "trump",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cowboy boot",
+      "normalized": "cowboy boot",
+      "head": "boot",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cowboy hat, ten-gallon hat",
+      "normalized": "cowboy hat, ten-gallon hat",
+      "head": "hat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cradle",
+      "normalized": "cradle",
+      "head": "cradle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "crash helmet",
+      "normalized": "crash helmet",
+      "head": "helmet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "crate",
+      "normalized": "crate",
+      "head": "crate",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "crib, cot",
+      "normalized": "crib, cot",
+      "head": "cot",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Crock Pot",
+      "normalized": "crock pot",
+      "head": "pot",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "croquet ball",
+      "normalized": "croquet ball",
+      "head": "ball",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "crutch",
+      "normalized": "crutch",
+      "head": "crutch",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cuirass",
+      "normalized": "cuirass",
+      "head": "cuirass",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "dam, dike, dyke",
+      "normalized": "dam, dike, dyke",
+      "head": "dyke",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "desk",
+      "normalized": "desk",
+      "head": "desk",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "desktop computer",
+      "normalized": "desktop computer",
+      "head": "computer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dial telephone, dial phone",
+      "normalized": "dial telephone, dial phone",
+      "head": "phone",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "diaper, nappy, napkin",
+      "normalized": "diaper, nappy, napkin",
+      "head": "napkin",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "digital clock",
+      "normalized": "digital clock",
+      "head": "clock",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "digital watch",
+      "normalized": "digital watch",
+      "head": "watch",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dining table, board",
+      "normalized": "dining table, board",
+      "head": "board",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dishrag, dishcloth",
+      "normalized": "dishrag, dishcloth",
+      "head": "dishcloth",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dishwasher, dish washer, dishwashing machine",
+      "normalized": "dishwasher, dish washer, dishwashing machine",
+      "head": "machine",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "disk brake, disc brake",
+      "normalized": "disk brake, disc brake",
+      "head": "brake",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dock, dockage, docking facility",
+      "normalized": "dock, dockage, docking facility",
+      "head": "facility",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dogsled, dog sled, dog sleigh",
+      "normalized": "dogsled, dog sled, dog sleigh",
+      "head": "sleigh",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dome",
+      "normalized": "dome",
+      "head": "dome",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "doormat, welcome mat",
+      "normalized": "doormat, welcome mat",
+      "head": "mat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "drilling platform, offshore rig",
+      "normalized": "drilling platform, offshore rig",
+      "head": "rig",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "drum, membranophone, tympan",
+      "normalized": "drum, membranophone, tympan",
+      "head": "tympan",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "drumstick",
+      "normalized": "drumstick",
+      "head": "drumstick",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "dumbbell",
+      "normalized": "dumbbell",
+      "head": "dumbbell",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Dutch oven",
+      "normalized": "dutch oven",
+      "head": "oven",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "electric fan, blower",
+      "normalized": "electric fan, blower",
+      "head": "blower",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "electric guitar",
+      "normalized": "electric guitar",
+      "head": "guitar",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "electric locomotive",
+      "normalized": "electric locomotive",
+      "head": "locomotive",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "entertainment center",
+      "normalized": "entertainment center",
+      "head": "center",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "envelope",
+      "normalized": "envelope",
+      "head": "envelope",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "espresso maker",
+      "normalized": "espresso maker",
+      "head": "maker",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "face powder",
+      "normalized": "face powder",
+      "head": "powder",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "feather boa, boa",
+      "normalized": "feather boa, boa",
+      "head": "boa",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "file, file cabinet, filing cabinet",
+      "normalized": "file, file cabinet, filing cabinet",
+      "head": "cabinet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "fireboat",
+      "normalized": "fireboat",
+      "head": "fireboat",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "fire engine, fire truck",
+      "normalized": "fire engine, fire truck",
+      "head": "truck",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "fire screen, fireguard",
+      "normalized": "fire screen, fireguard",
+      "head": "fireguard",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "flagpole, flagstaff",
+      "normalized": "flagpole, flagstaff",
+      "head": "flagstaff",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "flute, transverse flute",
+      "normalized": "flute, transverse flute",
+      "head": "flute",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "folding chair",
+      "normalized": "folding chair",
+      "head": "chair",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "football helmet",
+      "normalized": "football helmet",
+      "head": "helmet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "forklift",
+      "normalized": "forklift",
+      "head": "forklift",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "fountain",
+      "normalized": "fountain",
+      "head": "fountain",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "fountain pen",
+      "normalized": "fountain pen",
+      "head": "pen",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "four-poster",
+      "normalized": "four-poster",
+      "head": "four-poster",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "freight car",
+      "normalized": "freight car",
+      "head": "car",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "French horn, horn",
+      "normalized": "french horn, horn",
+      "head": "horn",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "frying pan, frypan, skillet",
+      "normalized": "frying pan, frypan, skillet",
+      "head": "skillet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "fur coat",
+      "normalized": "fur coat",
+      "head": "coat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "garbage truck, dustcart",
+      "normalized": "garbage truck, dustcart",
+      "head": "dustcart",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "gasmask, respirator, gas helmet",
+      "normalized": "gasmask, respirator, gas helmet",
+      "head": "helmet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "gas pump, gasoline pump, petrol pump, island dispenser",
+      "normalized": "gas pump, gasoline pump, petrol pump, island dispenser",
+      "head": "dispenser",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "goblet",
+      "normalized": "goblet",
+      "head": "goblet",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "go-kart",
+      "normalized": "go-kart",
+      "head": "go-kart",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "golf ball",
+      "normalized": "golf ball",
+      "head": "ball",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "golfcart, golf cart",
+      "normalized": "golfcart, golf cart",
+      "head": "cart",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "gondola",
+      "normalized": "gondola",
+      "head": "gondola",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "gong, tam-tam",
+      "normalized": "gong, tam-tam",
+      "head": "tam-tam",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "gown",
+      "normalized": "gown",
+      "head": "gown",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "grand piano, grand",
+      "normalized": "grand piano, grand",
+      "head": "grand",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "greenhouse, nursery, glasshouse",
+      "normalized": "greenhouse, nursery, glasshouse",
+      "head": "glasshouse",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "grille, radiator grille",
+      "normalized": "grille, radiator grille",
+      "head": "grille",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "grocery store, grocery, food market, market",
+      "normalized": "grocery store, grocery, food market, market",
+      "head": "market",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "guillotine",
+      "normalized": "guillotine",
+      "head": "guillotine",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hair slide",
+      "normalized": "hair slide",
+      "head": "slide",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hair spray",
+      "normalized": "hair spray",
+      "head": "spray",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "half track",
+      "normalized": "half track",
+      "head": "track",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hammer",
+      "normalized": "hammer",
+      "head": "hammer",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hamper",
+      "normalized": "hamper",
+      "head": "hamper",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hand blower, blow dryer, blow drier, hair dryer, hair drier",
+      "normalized": "hand blower, blow dryer, blow drier, hair dryer, hair drier",
+      "head": "drier",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hand-held computer, hand-held microcomputer",
+      "normalized": "hand-held computer, hand-held microcomputer",
+      "head": "microcomputer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "handkerchief, hankie, hanky, hankey",
+      "normalized": "handkerchief, hankie, hanky, hankey",
+      "head": "hankey",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hard disc, hard disk, fixed disk",
+      "normalized": "hard disc, hard disk, fixed disk",
+      "head": "disk",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "harmonica, mouth organ, harp, mouth harp",
+      "normalized": "harmonica, mouth organ, harp, mouth harp",
+      "head": "harp",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "harp",
+      "normalized": "harp",
+      "head": "harp",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "harvester, reaper",
+      "normalized": "harvester, reaper",
+      "head": "reaper",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hatchet",
+      "normalized": "hatchet",
+      "head": "hatchet",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "holster",
+      "normalized": "holster",
+      "head": "holster",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "home theater, home theatre",
+      "normalized": "home theater, home theatre",
+      "head": "theatre",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "honeycomb",
+      "normalized": "honeycomb",
+      "head": "honeycomb",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hook, claw",
+      "normalized": "hook, claw",
+      "head": "claw",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hoopskirt, crinoline",
+      "normalized": "hoopskirt, crinoline",
+      "head": "crinoline",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "horizontal bar, high bar",
+      "normalized": "horizontal bar, high bar",
+      "head": "bar",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "horse cart, horse-cart",
+      "normalized": "horse cart, horse-cart",
+      "head": "horse-cart",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "hourglass",
+      "normalized": "hourglass",
+      "head": "hourglass",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "iPod",
+      "normalized": "ipod",
+      "head": "ipod",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "iron, smoothing iron",
+      "normalized": "iron, smoothing iron",
+      "head": "iron",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "jack-o'-lantern",
+      "normalized": "jack-o'-lantern",
+      "head": "jack-o'-lantern",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "jean, blue jean, denim",
+      "normalized": "jean, blue jean, denim",
+      "head": "denim",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "jeep, landrover",
+      "normalized": "jeep, landrover",
+      "head": "landrover",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "jersey, T-shirt, tee shirt",
+      "normalized": "jersey, t-shirt, tee shirt",
+      "head": "shirt",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "jigsaw puzzle",
+      "normalized": "jigsaw puzzle",
+      "head": "puzzle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "jinrikisha, ricksha, rickshaw",
+      "normalized": "jinrikisha, ricksha, rickshaw",
+      "head": "rickshaw",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "joystick",
+      "normalized": "joystick",
+      "head": "joystick",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "kimono",
+      "normalized": "kimono",
+      "head": "kimono",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "knee pad",
+      "normalized": "knee pad",
+      "head": "pad",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "knot",
+      "normalized": "knot",
+      "head": "knot",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lab coat, laboratory coat",
+      "normalized": "lab coat, laboratory coat",
+      "head": "coat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "ladle",
+      "normalized": "ladle",
+      "head": "ladle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lampshade, lamp shade",
+      "normalized": "lampshade, lamp shade",
+      "head": "shade",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "laptop, laptop computer",
+      "normalized": "laptop, laptop computer",
+      "head": "computer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "lawn mower, mower",
+      "normalized": "lawn mower, mower",
+      "head": "mower",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "lens cap, lens cover",
+      "normalized": "lens cap, lens cover",
+      "head": "cover",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "letter opener, paper knife, paperknife",
+      "normalized": "letter opener, paper knife, paperknife",
+      "head": "paperknife",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "library",
+      "normalized": "library",
+      "head": "library",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lifeboat",
+      "normalized": "lifeboat",
+      "head": "lifeboat",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lighter, light, igniter, ignitor",
+      "normalized": "lighter, light, igniter, ignitor",
+      "head": "ignitor",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "limousine, limo",
+      "normalized": "limousine, limo",
+      "head": "limo",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "liner, ocean liner",
+      "normalized": "liner, ocean liner",
+      "head": "liner",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "lipstick, lip rouge",
+      "normalized": "lipstick, lip rouge",
+      "head": "rouge",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Loafer",
+      "normalized": "loafer",
+      "head": "loafer",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lotion",
+      "normalized": "lotion",
+      "head": "lotion",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+      "normalized": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+      "head": "system",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "loupe, jeweler's loupe",
+      "normalized": "loupe, jeweler's loupe",
+      "head": "loupe",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "lumbermill, sawmill",
+      "normalized": "lumbermill, sawmill",
+      "head": "sawmill",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "magnetic compass",
+      "normalized": "magnetic compass",
+      "head": "compass",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "mailbag, postbag",
+      "normalized": "mailbag, postbag",
+      "head": "postbag",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "mailbox, letter box",
+      "normalized": "mailbox, letter box",
+      "head": "box",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "maillot",
+      "normalized": "maillot",
+      "head": "maillot",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "maillot, tank suit",
+      "normalized": "maillot, tank suit",
+      "head": "suit",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "manhole cover",
+      "normalized": "manhole cover",
+      "head": "cover",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "maraca",
+      "normalized": "maraca",
+      "head": "maraca",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "marimba, xylophone",
+      "normalized": "marimba, xylophone",
+      "head": "xylophone",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "mask",
+      "normalized": "mask",
+      "head": "mask",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "matchstick",
+      "normalized": "matchstick",
+      "head": "matchstick",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "maypole",
+      "normalized": "maypole",
+      "head": "maypole",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "maze, labyrinth",
+      "normalized": "maze, labyrinth",
+      "head": "labyrinth",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "measuring cup",
+      "normalized": "measuring cup",
+      "head": "cup",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "medicine chest, medicine cabinet",
+      "normalized": "medicine chest, medicine cabinet",
+      "head": "cabinet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "megalith, megalithic structure",
+      "normalized": "megalith, megalithic structure",
+      "head": "structure",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "microphone, mike",
+      "normalized": "microphone, mike",
+      "head": "mike",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "microwave, microwave oven",
+      "normalized": "microwave, microwave oven",
+      "head": "oven",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "military uniform",
+      "normalized": "military uniform",
+      "head": "uniform",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "milk can",
+      "normalized": "milk can",
+      "head": "can",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "minibus",
+      "normalized": "minibus",
+      "head": "minibus",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "miniskirt, mini",
+      "normalized": "miniskirt, mini",
+      "head": "mini",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "minivan",
+      "normalized": "minivan",
+      "head": "minivan",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "missile",
+      "normalized": "missile",
+      "head": "missile",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mitten",
+      "normalized": "mitten",
+      "head": "mitten",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mixing bowl",
+      "normalized": "mixing bowl",
+      "head": "bowl",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "mobile home, manufactured home",
+      "normalized": "mobile home, manufactured home",
+      "head": "home",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Model T",
+      "normalized": "model t",
+      "head": "t",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "modem",
+      "normalized": "modem",
+      "head": "modem",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "monastery",
+      "normalized": "monastery",
+      "head": "monastery",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "monitor",
+      "normalized": "monitor",
+      "head": "monitor",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "moped",
+      "normalized": "moped",
+      "head": "moped",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mortar",
+      "normalized": "mortar",
+      "head": "mortar",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mortarboard",
+      "normalized": "mortarboard",
+      "head": "mortarboard",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mosque",
+      "normalized": "mosque",
+      "head": "mosque",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mosquito net",
+      "normalized": "mosquito net",
+      "head": "net",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "motor scooter, scooter",
+      "normalized": "motor scooter, scooter",
+      "head": "scooter",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "mountain bike, all-terrain bike, off-roader",
+      "normalized": "mountain bike, all-terrain bike, off-roader",
+      "head": "off-roader",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "mountain tent",
+      "normalized": "mountain tent",
+      "head": "tent",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "mouse, computer mouse",
+      "normalized": "mouse, computer mouse",
+      "head": "mouse",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "mousetrap",
+      "normalized": "mousetrap",
+      "head": "mousetrap",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "moving van",
+      "normalized": "moving van",
+      "head": "van",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "muzzle",
+      "normalized": "muzzle",
+      "head": "muzzle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "nail",
+      "normalized": "nail",
+      "head": "nail",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "neck brace",
+      "normalized": "neck brace",
+      "head": "brace",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "necklace",
+      "normalized": "necklace",
+      "head": "necklace",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "nipple",
+      "normalized": "nipple",
+      "head": "nipple",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "notebook, notebook computer",
+      "normalized": "notebook, notebook computer",
+      "head": "computer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "obelisk",
+      "normalized": "obelisk",
+      "head": "obelisk",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "oboe, hautboy, hautbois",
+      "normalized": "oboe, hautboy, hautbois",
+      "head": "hautbois",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "ocarina, sweet potato",
+      "normalized": "ocarina, sweet potato",
+      "head": "potato",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "odometer, hodometer, mileometer, milometer",
+      "normalized": "odometer, hodometer, mileometer, milometer",
+      "head": "milometer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "oil filter",
+      "normalized": "oil filter",
+      "head": "filter",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "organ, pipe organ",
+      "normalized": "organ, pipe organ",
+      "head": "organ",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "oscilloscope, scope, cathode-ray oscilloscope, CRO",
+      "normalized": "oscilloscope, scope, cathode-ray oscilloscope, cro",
+      "head": "cro",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "overskirt",
+      "normalized": "overskirt",
+      "head": "overskirt",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "oxcart",
+      "normalized": "oxcart",
+      "head": "oxcart",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "oxygen mask",
+      "normalized": "oxygen mask",
+      "head": "mask",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "packet",
+      "normalized": "packet",
+      "head": "packet",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "paddle, boat paddle",
+      "normalized": "paddle, boat paddle",
+      "head": "paddle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "paddlewheel, paddle wheel",
+      "normalized": "paddlewheel, paddle wheel",
+      "head": "wheel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "padlock",
+      "normalized": "padlock",
+      "head": "padlock",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "paintbrush",
+      "normalized": "paintbrush",
+      "head": "paintbrush",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "pajama, pyjama, pj's, jammies",
+      "normalized": "pajama, pyjama, pj's, jammies",
+      "head": "jammies",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "palace",
+      "normalized": "palace",
+      "head": "palace",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "panpipe, pandean pipe, syrinx",
+      "normalized": "panpipe, pandean pipe, syrinx",
+      "head": "syrinx",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "paper towel",
+      "normalized": "paper towel",
+      "head": "towel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "parachute, chute",
+      "normalized": "parachute, chute",
+      "head": "chute",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "parallel bars, bars",
+      "normalized": "parallel bars, bars",
+      "head": "bars",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "park bench",
+      "normalized": "park bench",
+      "head": "bench",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "parking meter",
+      "normalized": "parking meter",
+      "head": "meter",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "passenger car, coach, carriage",
+      "normalized": "passenger car, coach, carriage",
+      "head": "carriage",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "patio, terrace",
+      "normalized": "patio, terrace",
+      "head": "terrace",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pay-phone, pay-station",
+      "normalized": "pay-phone, pay-station",
+      "head": "pay-station",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pedestal, plinth, footstall",
+      "normalized": "pedestal, plinth, footstall",
+      "head": "footstall",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pencil box, pencil case",
+      "normalized": "pencil box, pencil case",
+      "head": "case",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pencil sharpener",
+      "normalized": "pencil sharpener",
+      "head": "sharpener",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "perfume, essence",
+      "normalized": "perfume, essence",
+      "head": "essence",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Petri dish",
+      "normalized": "petri dish",
+      "head": "dish",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "photocopier",
+      "normalized": "photocopier",
+      "head": "photocopier",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "pick, plectrum, plectron",
+      "normalized": "pick, plectrum, plectron",
+      "head": "plectron",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pickelhaube",
+      "normalized": "pickelhaube",
+      "head": "pickelhaube",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "picket fence, paling",
+      "normalized": "picket fence, paling",
+      "head": "paling",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pickup, pickup truck",
+      "normalized": "pickup, pickup truck",
+      "head": "truck",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pier",
+      "normalized": "pier",
+      "head": "pier",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "piggy bank, penny bank",
+      "normalized": "piggy bank, penny bank",
+      "head": "bank",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pill bottle",
+      "normalized": "pill bottle",
+      "head": "bottle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pillow",
+      "normalized": "pillow",
+      "head": "pillow",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ping-pong ball",
+      "normalized": "ping-pong ball",
+      "head": "ball",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pinwheel",
+      "normalized": "pinwheel",
+      "head": "pinwheel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "pirate, pirate ship",
+      "normalized": "pirate, pirate ship",
+      "head": "ship",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pitcher, ewer",
+      "normalized": "pitcher, ewer",
+      "head": "ewer",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "plane, carpenter's plane, woodworking plane",
+      "normalized": "plane, carpenter's plane, woodworking plane",
+      "head": "plane",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "planetarium",
+      "normalized": "planetarium",
+      "head": "planetarium",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "plastic bag",
+      "normalized": "plastic bag",
+      "head": "bag",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "plate rack",
+      "normalized": "plate rack",
+      "head": "rack",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "plow, plough",
+      "normalized": "plow, plough",
+      "head": "plough",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "plunger, plumber's helper",
+      "normalized": "plunger, plumber's helper",
+      "head": "helper",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Polaroid camera, Polaroid Land camera",
+      "normalized": "polaroid camera, polaroid land camera",
+      "head": "camera",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pole",
+      "normalized": "pole",
+      "head": "pole",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",
+      "normalized": "police van, police wagon, paddy wagon, patrol wagon, wagon, black maria",
+      "head": "maria",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "poncho",
+      "normalized": "poncho",
+      "head": "poncho",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "pool table, billiard table, snooker table",
+      "normalized": "pool table, billiard table, snooker table",
+      "head": "table",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pop bottle, soda bottle",
+      "normalized": "pop bottle, soda bottle",
+      "head": "bottle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pot, flowerpot",
+      "normalized": "pot, flowerpot",
+      "head": "flowerpot",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "potter's wheel",
+      "normalized": "potter's wheel",
+      "head": "wheel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "power drill",
+      "normalized": "power drill",
+      "head": "drill",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "prayer rug, prayer mat",
+      "normalized": "prayer rug, prayer mat",
+      "head": "mat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "printer",
+      "normalized": "printer",
+      "head": "printer",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "prison, prison house",
+      "normalized": "prison, prison house",
+      "head": "house",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "projectile, missile",
+      "normalized": "projectile, missile",
+      "head": "missile",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "projector",
+      "normalized": "projector",
+      "head": "projector",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "puck, hockey puck",
+      "normalized": "puck, hockey puck",
+      "head": "puck",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "punching bag, punch bag, punching ball, punchball",
+      "normalized": "punching bag, punch bag, punching ball, punchball",
+      "head": "punchball",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "purse",
+      "normalized": "purse",
+      "head": "purse",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "quill, quill pen",
+      "normalized": "quill, quill pen",
+      "head": "pen",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "quilt, comforter, comfort, puff",
+      "normalized": "quilt, comforter, comfort, puff",
+      "head": "puff",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "racer, race car, racing car",
+      "normalized": "racer, race car, racing car",
+      "head": "car",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "racket, racquet",
+      "normalized": "racket, racquet",
+      "head": "racquet",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "radiator",
+      "normalized": "radiator",
+      "head": "radiator",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "radio, wireless",
+      "normalized": "radio, wireless",
+      "head": "wireless",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "radio telescope, radio reflector",
+      "normalized": "radio telescope, radio reflector",
+      "head": "reflector",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "rain barrel",
+      "normalized": "rain barrel",
+      "head": "barrel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "recreational vehicle, RV, R.V.",
+      "normalized": "recreational vehicle, rv, r.v.",
+      "head": "r.v.",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "reel",
+      "normalized": "reel",
+      "head": "reel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "reflex camera",
+      "normalized": "reflex camera",
+      "head": "camera",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "refrigerator, icebox",
+      "normalized": "refrigerator, icebox",
+      "head": "icebox",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "remote control, remote",
+      "normalized": "remote control, remote",
+      "head": "remote",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "restaurant, eating house, eating place, eatery",
+      "normalized": "restaurant, eating house, eating place, eatery",
+      "head": "eatery",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "revolver, six-gun, six-shooter",
+      "normalized": "revolver, six-gun, six-shooter",
+      "head": "six-shooter",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "rifle",
+      "normalized": "rifle",
+      "head": "rifle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "rocking chair, rocker",
+      "normalized": "rocking chair, rocker",
+      "head": "rocker",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "rotisserie",
+      "normalized": "rotisserie",
+      "head": "rotisserie",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "rubber eraser, rubber, pencil eraser",
+      "normalized": "rubber eraser, rubber, pencil eraser",
+      "head": "eraser",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "rugby ball",
+      "normalized": "rugby ball",
+      "head": "ball",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "rule, ruler",
+      "normalized": "rule, ruler",
+      "head": "ruler",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "running shoe",
+      "normalized": "running shoe",
+      "head": "shoe",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "safe",
+      "normalized": "safe",
+      "head": "safe",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "safety pin",
+      "normalized": "safety pin",
+      "head": "pin",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "saltshaker, salt shaker",
+      "normalized": "saltshaker, salt shaker",
+      "head": "shaker",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sandal",
+      "normalized": "sandal",
+      "head": "sandal",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sarong",
+      "normalized": "sarong",
+      "head": "sarong",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sax, saxophone",
+      "normalized": "sax, saxophone",
+      "head": "saxophone",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "scabbard",
+      "normalized": "scabbard",
+      "head": "scabbard",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "scale, weighing machine",
+      "normalized": "scale, weighing machine",
+      "head": "machine",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "school bus",
+      "normalized": "school bus",
+      "head": "bus",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "schooner",
+      "normalized": "schooner",
+      "head": "schooner",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "scoreboard",
+      "normalized": "scoreboard",
+      "head": "scoreboard",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "screen, CRT screen",
+      "normalized": "screen, crt screen",
+      "head": "screen",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "screw",
+      "normalized": "screw",
+      "head": "screw",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "screwdriver",
+      "normalized": "screwdriver",
+      "head": "screwdriver",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "seat belt, seatbelt",
+      "normalized": "seat belt, seatbelt",
+      "head": "seatbelt",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sewing machine",
+      "normalized": "sewing machine",
+      "head": "machine",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "shield, buckler",
+      "normalized": "shield, buckler",
+      "head": "buckler",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "shoe shop, shoe-shop, shoe store",
+      "normalized": "shoe shop, shoe-shop, shoe store",
+      "head": "store",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "shoji",
+      "normalized": "shoji",
+      "head": "shoji",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "shopping basket",
+      "normalized": "shopping basket",
+      "head": "basket",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "shopping cart",
+      "normalized": "shopping cart",
+      "head": "cart",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "shovel",
+      "normalized": "shovel",
+      "head": "shovel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "shower cap",
+      "normalized": "shower cap",
+      "head": "cap",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "shower curtain",
+      "normalized": "shower curtain",
+      "head": "curtain",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "ski",
+      "normalized": "ski",
+      "head": "ski",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ski mask",
+      "normalized": "ski mask",
+      "head": "mask",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sleeping bag",
+      "normalized": "sleeping bag",
+      "head": "bag",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "slide rule, slipstick",
+      "normalized": "slide rule, slipstick",
+      "head": "slipstick",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sliding door",
+      "normalized": "sliding door",
+      "head": "door",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "slot, one-armed bandit",
+      "normalized": "slot, one-armed bandit",
+      "head": "bandit",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "snorkel",
+      "normalized": "snorkel",
+      "head": "snorkel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "snowmobile",
+      "normalized": "snowmobile",
+      "head": "snowmobile",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "snowplow, snowplough",
+      "normalized": "snowplow, snowplough",
+      "head": "snowplough",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "soap dispenser",
+      "normalized": "soap dispenser",
+      "head": "dispenser",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "soccer ball",
+      "normalized": "soccer ball",
+      "head": "ball",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sock",
+      "normalized": "sock",
+      "head": "sock",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "solar dish, solar collector, solar furnace",
+      "normalized": "solar dish, solar collector, solar furnace",
+      "head": "furnace",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sombrero",
+      "normalized": "sombrero",
+      "head": "sombrero",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "soup bowl",
+      "normalized": "soup bowl",
+      "head": "bowl",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "space bar",
+      "normalized": "space bar",
+      "head": "bar",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "space heater",
+      "normalized": "space heater",
+      "head": "heater",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "space shuttle",
+      "normalized": "space shuttle",
+      "head": "shuttle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "spatula",
+      "normalized": "spatula",
+      "head": "spatula",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "speedboat",
+      "normalized": "speedboat",
+      "head": "speedboat",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "spider web, spider's web",
+      "normalized": "spider web, spider's web",
+      "head": "web",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "spindle",
+      "normalized": "spindle",
+      "head": "spindle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sports car, sport car",
+      "normalized": "sports car, sport car",
+      "head": "car",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "spotlight, spot",
+      "normalized": "spotlight, spot",
+      "head": "spot",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "stage",
+      "normalized": "stage",
+      "head": "stage",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "steam locomotive",
+      "normalized": "steam locomotive",
+      "head": "locomotive",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "steel arch bridge",
+      "normalized": "steel arch bridge",
+      "head": "bridge",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "steel drum",
+      "normalized": "steel drum",
+      "head": "drum",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "stethoscope",
+      "normalized": "stethoscope",
+      "head": "stethoscope",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "stole",
+      "normalized": "stole",
+      "head": "stole",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "stone wall",
+      "normalized": "stone wall",
+      "head": "wall",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "stopwatch, stop watch",
+      "normalized": "stopwatch, stop watch",
+      "head": "watch",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "stove",
+      "normalized": "stove",
+      "head": "stove",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "strainer",
+      "normalized": "strainer",
+      "head": "strainer",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "streetcar, tram, tramcar, trolley, trolley car",
+      "normalized": "streetcar, tram, tramcar, trolley, trolley car",
+      "head": "car",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "stretcher",
+      "normalized": "stretcher",
+      "head": "stretcher",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "studio couch, day bed",
+      "normalized": "studio couch, day bed",
+      "head": "bed",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "stupa, tope",
+      "normalized": "stupa, tope",
+      "head": "tope",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "submarine, pigboat, sub, U-boat",
+      "normalized": "submarine, pigboat, sub, u-boat",
+      "head": "u-boat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "suit, suit of clothes",
+      "normalized": "suit, suit of clothes",
+      "head": "clothes",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sundial",
+      "normalized": "sundial",
+      "head": "sundial",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sunglass",
+      "normalized": "sunglass",
+      "head": "sunglass",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "sunglasses, dark glasses, shades",
+      "normalized": "sunglasses, dark glasses, shades",
+      "head": "shades",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sunscreen, sunblock, sun blocker",
+      "normalized": "sunscreen, sunblock, sun blocker",
+      "head": "blocker",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "suspension bridge",
+      "normalized": "suspension bridge",
+      "head": "bridge",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "swab, swob, mop",
+      "normalized": "swab, swob, mop",
+      "head": "mop",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sweatshirt",
+      "normalized": "sweatshirt",
+      "head": "sweatshirt",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "swimming trunks, bathing trunks",
+      "normalized": "swimming trunks, bathing trunks",
+      "head": "trunks",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "swing",
+      "normalized": "swing",
+      "head": "swing",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "switch, electric switch, electrical switch",
+      "normalized": "switch, electric switch, electrical switch",
+      "head": "switch",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "syringe",
+      "normalized": "syringe",
+      "head": "syringe",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "table lamp",
+      "normalized": "table lamp",
+      "head": "lamp",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tank, army tank, armored combat vehicle, armoured combat vehicle",
+      "normalized": "tank, army tank, armored combat vehicle, armoured combat vehicle",
+      "head": "vehicle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tape player",
+      "normalized": "tape player",
+      "head": "player",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "teapot",
+      "normalized": "teapot",
+      "head": "teapot",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "teddy, teddy bear",
+      "normalized": "teddy, teddy bear",
+      "head": "bear",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "television, television system",
+      "normalized": "television, television system",
+      "head": "system",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tennis ball",
+      "normalized": "tennis ball",
+      "head": "ball",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "thatch, thatched roof",
+      "normalized": "thatch, thatched roof",
+      "head": "roof",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "theater curtain, theatre curtain",
+      "normalized": "theater curtain, theatre curtain",
+      "head": "curtain",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "thimble",
+      "normalized": "thimble",
+      "head": "thimble",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "thresher, thrasher, threshing machine",
+      "normalized": "thresher, thrasher, threshing machine",
+      "head": "machine",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "throne",
+      "normalized": "throne",
+      "head": "throne",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "tile roof",
+      "normalized": "tile roof",
+      "head": "roof",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "toaster",
+      "normalized": "toaster",
+      "head": "toaster",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "tobacco shop, tobacconist shop, tobacconist",
+      "normalized": "tobacco shop, tobacconist shop, tobacconist",
+      "head": "tobacconist",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "toilet seat",
+      "normalized": "toilet seat",
+      "head": "seat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "torch",
+      "normalized": "torch",
+      "head": "torch",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "totem pole",
+      "normalized": "totem pole",
+      "head": "pole",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tow truck, tow car, wrecker",
+      "normalized": "tow truck, tow car, wrecker",
+      "head": "wrecker",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "toyshop",
+      "normalized": "toyshop",
+      "head": "toyshop",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "tractor",
+      "normalized": "tractor",
+      "head": "tractor",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",
+      "normalized": "trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",
+      "head": "semi",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tray",
+      "normalized": "tray",
+      "head": "tray",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "trench coat",
+      "normalized": "trench coat",
+      "head": "coat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "tricycle, trike, velocipede",
+      "normalized": "tricycle, trike, velocipede",
+      "head": "velocipede",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "trimaran",
+      "normalized": "trimaran",
+      "head": "trimaran",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "tripod",
+      "normalized": "tripod",
+      "head": "tripod",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "triumphal arch",
+      "normalized": "triumphal arch",
+      "head": "arch",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "trolleybus, trolley coach, trackless trolley",
+      "normalized": "trolleybus, trolley coach, trackless trolley",
+      "head": "trolley",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "trombone",
+      "normalized": "trombone",
+      "head": "trombone",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "tub, vat",
+      "normalized": "tub, vat",
+      "head": "vat",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "turnstile",
+      "normalized": "turnstile",
+      "head": "turnstile",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "typewriter keyboard",
+      "normalized": "typewriter keyboard",
+      "head": "keyboard",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "umbrella",
+      "normalized": "umbrella",
+      "head": "umbrella",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "unicycle, monocycle",
+      "normalized": "unicycle, monocycle",
+      "head": "monocycle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "upright, upright piano",
+      "normalized": "upright, upright piano",
+      "head": "piano",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "vacuum, vacuum cleaner",
+      "normalized": "vacuum, vacuum cleaner",
+      "head": "cleaner",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "vase",
+      "normalized": "vase",
+      "head": "vase",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "vault",
+      "normalized": "vault",
+      "head": "vault",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "velvet",
+      "normalized": "velvet",
+      "head": "velvet",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "vending machine",
+      "normalized": "vending machine",
+      "head": "machine",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "vestment",
+      "normalized": "vestment",
+      "head": "vestment",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "viaduct",
+      "normalized": "viaduct",
+      "head": "viaduct",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "violin, fiddle",
+      "normalized": "violin, fiddle",
+      "head": "fiddle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "volleyball",
+      "normalized": "volleyball",
+      "head": "volleyball",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "waffle iron",
+      "normalized": "waffle iron",
+      "head": "iron",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wall clock",
+      "normalized": "wall clock",
+      "head": "clock",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wallet, billfold, notecase, pocketbook",
+      "normalized": "wallet, billfold, notecase, pocketbook",
+      "head": "pocketbook",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wardrobe, closet, press",
+      "normalized": "wardrobe, closet, press",
+      "head": "press",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "warplane, military plane",
+      "normalized": "warplane, military plane",
+      "head": "plane",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "washbasin, handbasin, washbowl, lavabo, wash-hand basin",
+      "normalized": "washbasin, handbasin, washbowl, lavabo, wash-hand basin",
+      "head": "basin",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "washer, automatic washer, washing machine",
+      "normalized": "washer, automatic washer, washing machine",
+      "head": "machine",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "water bottle",
+      "normalized": "water bottle",
+      "head": "bottle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "water jug",
+      "normalized": "water jug",
+      "head": "jug",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "water tower",
+      "normalized": "water tower",
+      "head": "tower",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "whiskey jug",
+      "normalized": "whiskey jug",
+      "head": "jug",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "whistle",
+      "normalized": "whistle",
+      "head": "whistle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "wig",
+      "normalized": "wig",
+      "head": "wig",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "window screen",
+      "normalized": "window screen",
+      "head": "screen",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "window shade",
+      "normalized": "window shade",
+      "head": "shade",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "Windsor tie",
+      "normalized": "windsor tie",
+      "head": "tie",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wine bottle",
+      "normalized": "wine bottle",
+      "head": "bottle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wing",
+      "normalized": "wing",
+      "head": "wing",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "wok",
+      "normalized": "wok",
+      "head": "wok",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "wooden spoon",
+      "normalized": "wooden spoon",
+      "head": "spoon",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wool, woolen, woolen",
+      "normalized": "wool, woolen, woolen",
+      "head": "woolen",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "worm fence, snake fence, snake-rail fence, Virginia fence",
+      "normalized": "worm fence, snake fence, snake-rail fence, virginia fence",
+      "head": "fence",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "wreck",
+      "normalized": "wreck",
+      "head": "wreck",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "yawl",
+      "normalized": "yawl",
+      "head": "yawl",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "yurt",
+      "normalized": "yurt",
+      "head": "yurt",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "web site, website, internet site, site",
+      "normalized": "web site, website, internet site, site",
+      "head": "site",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "comic book",
+      "normalized": "comic book",
+      "head": "book",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "crossword puzzle, crossword",
+      "normalized": "crossword puzzle, crossword",
+      "head": "crossword",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "street sign",
+      "normalized": "street sign",
+      "head": "sign",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "traffic light, traffic signal, stoplight",
+      "normalized": "traffic light, traffic signal, stoplight",
+      "head": "stoplight",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "book jacket, dust cover, dust jacket, dust wrapper",
+      "normalized": "book jacket, dust cover, dust jacket, dust wrapper",
+      "head": "wrapper",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "menu",
+      "normalized": "menu",
+      "head": "menu",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "plate",
+      "normalized": "plate",
+      "head": "plate",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "guacamole",
+      "normalized": "guacamole",
+      "head": "guacamole",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "consomme",
+      "normalized": "consomme",
+      "head": "consomme",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hot pot, hotpot",
+      "normalized": "hot pot, hotpot",
+      "head": "hotpot",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "trifle",
+      "normalized": "trifle",
+      "head": "trifle",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ice cream, icecream",
+      "normalized": "ice cream, icecream",
+      "head": "icecream",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "ice lolly, lolly, lollipop, popsicle",
+      "normalized": "ice lolly, lolly, lollipop, popsicle",
+      "head": "popsicle",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "French loaf",
+      "normalized": "french loaf",
+      "head": "loaf",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bagel, beigel",
+      "normalized": "bagel, beigel",
+      "head": "beigel",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pretzel",
+      "normalized": "pretzel",
+      "head": "pretzel",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cheeseburger",
+      "normalized": "cheeseburger",
+      "head": "cheeseburger",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hotdog, hot dog, red hot",
+      "normalized": "hotdog, hot dog, red hot",
+      "head": "hot",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "mashed potato",
+      "normalized": "mashed potato",
+      "head": "potato",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "head cabbage",
+      "normalized": "head cabbage",
+      "head": "cabbage",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "broccoli",
+      "normalized": "broccoli",
+      "head": "broccoli",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cauliflower",
+      "normalized": "cauliflower",
+      "head": "cauliflower",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "zucchini, courgetti",
+      "normalized": "zucchini, courgetti",
+      "head": "courgetti",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "spaghetti squash",
+      "normalized": "spaghetti squash",
+      "head": "squash",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "acorn squash",
+      "normalized": "acorn squash",
+      "head": "squash",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "butternut squash",
+      "normalized": "butternut squash",
+      "head": "squash",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cucumber, cuke",
+      "normalized": "cucumber, cuke",
+      "head": "cuke",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "artichoke, globe artichoke",
+      "normalized": "artichoke, globe artichoke",
+      "head": "artichoke",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "bell pepper",
+      "normalized": "bell pepper",
+      "head": "pepper",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "cardoon",
+      "normalized": "cardoon",
+      "head": "cardoon",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "mushroom",
+      "normalized": "mushroom",
+      "head": "mushroom",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "Granny Smith",
+      "normalized": "granny smith",
+      "head": "smith",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "strawberry",
+      "normalized": "strawberry",
+      "head": "strawberry",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "orange",
+      "normalized": "orange",
+      "head": "orange",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lemon",
+      "normalized": "lemon",
+      "head": "lemon",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "fig",
+      "normalized": "fig",
+      "head": "fig",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "pineapple, ananas",
+      "normalized": "pineapple, ananas",
+      "head": "ananas",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "banana",
+      "normalized": "banana",
+      "head": "banana",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "jackfruit, jak, jack",
+      "normalized": "jackfruit, jak, jack",
+      "head": "jack",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "custard apple",
+      "normalized": "custard apple",
+      "head": "apple",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pomegranate",
+      "normalized": "pomegranate",
+      "head": "pomegranate",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hay",
+      "normalized": "hay",
+      "head": "hay",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "carbonara",
+      "normalized": "carbonara",
+      "head": "carbonara",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "chocolate sauce, chocolate syrup",
+      "normalized": "chocolate sauce, chocolate syrup",
+      "head": "syrup",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "dough",
+      "normalized": "dough",
+      "head": "dough",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "meat loaf, meatloaf",
+      "normalized": "meat loaf, meatloaf",
+      "head": "meatloaf",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "pizza, pizza pie",
+      "normalized": "pizza, pizza pie",
+      "head": "pie",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "potpie",
+      "normalized": "potpie",
+      "head": "potpie",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "burrito",
+      "normalized": "burrito",
+      "head": "burrito",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "red wine",
+      "normalized": "red wine",
+      "head": "wine",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "espresso",
+      "normalized": "espresso",
+      "head": "espresso",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cup",
+      "normalized": "cup",
+      "head": "cup",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "eggnog",
+      "normalized": "eggnog",
+      "head": "eggnog",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "alp",
+      "normalized": "alp",
+      "head": "alp",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "bubble",
+      "normalized": "bubble",
+      "head": "bubble",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "cliff, drop, drop-off",
+      "normalized": "cliff, drop, drop-off",
+      "head": "drop-off",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "coral reef",
+      "normalized": "coral reef",
+      "head": "reef",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "geyser",
+      "normalized": "geyser",
+      "head": "geyser",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "lakeside, lakeshore",
+      "normalized": "lakeside, lakeshore",
+      "head": "lakeshore",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "promontory, headland, head, foreland",
+      "normalized": "promontory, headland, head, foreland",
+      "head": "foreland",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "sandbar, sand bar",
+      "normalized": "sandbar, sand bar",
+      "head": "bar",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "seashore, coast, seacoast, sea-coast",
+      "normalized": "seashore, coast, seacoast, sea-coast",
+      "head": "sea-coast",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "valley, vale",
+      "normalized": "valley, vale",
+      "head": "vale",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "volcano",
+      "normalized": "volcano",
+      "head": "volcano",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ballplayer, baseball player",
+      "normalized": "ballplayer, baseball player",
+      "head": "player",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "groom, bridegroom",
+      "normalized": "groom, bridegroom",
+      "head": "bridegroom",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "scuba diver",
+      "normalized": "scuba diver",
+      "head": "diver",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "rapeseed",
+      "normalized": "rapeseed",
+      "head": "rapeseed",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "daisy",
+      "normalized": "daisy",
+      "head": "daisy",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",
+      "normalized": "yellow lady's slipper, yellow lady-slipper, cypripedium calceolus, cypripedium parviflorum",
+      "head": "parviflorum",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "corn",
+      "normalized": "corn",
+      "head": "corn",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "acorn",
+      "normalized": "acorn",
+      "head": "acorn",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hip, rose hip, rosehip",
+      "normalized": "hip, rose hip, rosehip",
+      "head": "rosehip",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "buckeye, horse chestnut, conker",
+      "normalized": "buckeye, horse chestnut, conker",
+      "head": "conker",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "coral fungus",
+      "normalized": "coral fungus",
+      "head": "fungus",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "agaric",
+      "normalized": "agaric",
+      "head": "agaric",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "gyromitra",
+      "normalized": "gyromitra",
+      "head": "gyromitra",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "stinkhorn, carrion fungus",
+      "normalized": "stinkhorn, carrion fungus",
+      "head": "fungus",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "earthstar",
+      "normalized": "earthstar",
+      "head": "earthstar",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondose",
+      "normalized": "hen-of-the-woods, hen of the woods, polyporus frondosus, grifola frondose",
+      "head": "frondose",
+      "wn_ok": false,
+      "matched_by": "none"
+    },
+    {
+      "class_name": "bolete",
+      "normalized": "bolete",
+      "head": "bolete",
+      "wn_ok": true,
+      "matched_by": "full"
+    },
+    {
+      "class_name": "ear, spike, capitulum",
+      "normalized": "ear, spike, capitulum",
+      "head": "capitulum",
+      "wn_ok": true,
+      "matched_by": "head"
+    },
+    {
+      "class_name": "toilet tissue, toilet paper, bathroom tissue",
+      "normalized": "toilet tissue, toilet paper, bathroom tissue",
+      "head": "tissue",
+      "wn_ok": true,
+      "matched_by": "head"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "dataset": "scene",
+  "num_classes": 6,
+  "num_unique_terms": 238,
+  "tau": 0.35,
+  "mode": "multi",
+  "include_none": false,
+  "cco": {
+    "frac_terms_shared_ge2": 0.01639344262295082,
+    "num_terms_denom": 122,
+    "num_terms_shared_ge2": 2,
+    "avg_classes_per_term": 1.0163934426229508
+  },
+  "note": "Estimated via WordNet Wu-Palmer similarity between noun synsets and class-label synsets (with head backoff)."
+}
